@@ -115,11 +115,13 @@ analytics:
 author:
   name             : "Hyungseok Kim"
   avatar           : "/assets/images/profile.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Quantum Computing Researcher\nMaster's Student at Yonsei University"
+  bio              : |
+    Quantum Computing Researcher <br>
+    Master's Student at Yonsei University
   location         : "Seoul, Republic of Korea"
   email            : 
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hyungseok.kim@yonsei.ac.kr"
     - label: "Website"
