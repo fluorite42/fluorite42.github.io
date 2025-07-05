@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Hyungseok Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Quantum Computing Researcher | Master's Student at Yonsei University"
+  avatar           : "/assets/images/profile.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Quantum Computing Researcher\nMaster's Student at Yonsei University"
   location         : "Seoul, Republic of Korea"
   email            : 
   links:
