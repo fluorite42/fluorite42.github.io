@@ -28,6 +28,74 @@
           <i class="fas fa-search"></i>
         </button>
         {% endif %}
+
+        <style>
+          /* Base switch style */
+          .switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 24px;
+          }
+
+          .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+          }
+
+          /* Slider background */
+          .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: #ccc;
+            transition: 0.4s;
+            border-radius: 24px;
+          }
+
+          /* The circular knob */
+          .slider:before {
+            content: "\f185"; /* sun icon */
+            font-family: "Font Awesome 5 Free";
+            font-weight: 900;
+            font-size: 14px;
+            color: #fbc02d;
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            border-radius: 50%;
+            transition: 0.4s;
+          }
+
+          /* When checked (dark mode), move knob and change icon */
+          input:checked + .slider {
+            background-color: #2196F3;
+          }
+
+          input:checked + .slider:before {
+            transform: translateX(26px);
+            content: "\f186"; /* moon icon */
+            color: #fff;
+            background-color: #333;
+          }
+        </style>
+
+        {% if site.minimal_mistakes_skin2 %}
+          <li>
+            <label class="switch">
+              <input type="checkbox" id="toggleButton" onclick="dark_mode_btn_click()">
+              <span class="slider round"></span>
+            </label>
+          </li>
+        {% endif %}
+
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
