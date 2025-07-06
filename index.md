@@ -1,10 +1,9 @@
 ---
 layout: home
 author_profile: true
+title: "Summary"
 ---
 
-Summary
-==========
 
 - Hyungseok Kim is presently a graduate student pursuing a master's degree in Electrical and Electronic Engineering at Yonsei University.
 - His academic pursuits are underscored by a keen interest in a diverse range of disciplines, including but not limited to:
