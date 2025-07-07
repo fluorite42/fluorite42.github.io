@@ -15,6 +15,13 @@
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
+
+    {% if author.ipa %}
+      <span class="author__ipa" itemprop="additionalName" style="color: grey; font-size: x-small;">
+        {{ author.ipa }}
+      </span>
+    {% endif %}
+
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
         {{ author.bio | markdownify }}

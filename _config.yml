@@ -116,6 +116,7 @@ analytics:
 author:
   name             : "Hyungseok Kim"
   avatar           : "/assets/images/profile.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  ipa              : "김형석 /kimjʌŋsʌk/"
   bio              : |
     Quantum Computing Researcher <br>
     Master's Student at Yonsei University
