@@ -21,25 +21,27 @@
 {% if site.minimal_mistakes_skin2 %}
   <link rel="stylesheet" href="{{ '/assets/css/theme2.css' | relative_url }}" id="theme_source_2">
   <script>
-    if (sessionStorage.getItem('theme') === null) {
-      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        sessionStorage.setItem('theme', 'dark');
-      }
-      else{
-        sessionStorage.setItem('theme', 'light');
-      }
-    }
+    document.addEventListener("DOMContentLoaded", function() {
+      const toggle = document.getElementById("toggleButton");
+      const theme = sessionStorage.getItem('theme');
 
-    let theme = sessionStorage.getItem('theme');
-    if(theme === "dark"){
-      document.getElementById('theme_source').setAttribute('rel', 'stylesheet alternate'); 
-      sessionStorage.setItem('theme', 'dark');
-    }
-    else
-    {
-      document.getElementById('theme_source_2').setAttribute('rel', 'stylesheet alternate'); 
-      sessionStorage.setItem('theme', 'light');
-    }
+      if (toggle) {
+        // Set the toggle position based on saved theme
+        toggle.checked = (theme === 'dark');
+
+        // Optional: force theme state in case toggle is out of sync
+        const node1 = document.getElementById('theme_source');
+        const node2 = document.getElementById('theme_source_2');
+
+        if (theme === 'dark') {
+          node1.setAttribute('rel', 'stylesheet alternate');
+          node2.setAttribute('rel', 'stylesheet');
+        } else {
+          node1.setAttribute('rel', 'stylesheet');
+          node2.setAttribute('rel', 'stylesheet alternate');
+        }
+      }
+    });
   </script>
 {% endif %}
 
