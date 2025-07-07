@@ -21,26 +21,45 @@
 {% if site.minimal_mistakes_skin2 %}
   <link rel="stylesheet" href="{{ '/assets/css/theme2.css' | relative_url }}" id="theme_source_2">
   <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      const toggle = document.getElementById("toggleButton");
-      const theme = sessionStorage.getItem('theme');
+    // Ensure DOM is ready
+    document.addEventListener('DOMContentLoaded', function () {
+      const themeSource = document.getElementById('theme_source');
+      const themeSource2 = document.getElementById('theme_source_2');
+      const toggle = document.getElementById('toggleButton');
 
-      if (toggle) {
-        // Set the toggle position based on saved theme
-        toggle.checked = (theme === 'dark');
-
-        // Optional: force theme state in case toggle is out of sync
-        const node1 = document.getElementById('theme_source');
-        const node2 = document.getElementById('theme_source_2');
-
-        if (theme === 'dark') {
-          node1.setAttribute('rel', 'stylesheet alternate');
-          node2.setAttribute('rel', 'stylesheet');
-        } else {
-          node1.setAttribute('rel', 'stylesheet');
-          node2.setAttribute('rel', 'stylesheet alternate');
-        }
+      // 1. Set initial theme from sessionStorage or system preference
+      if (sessionStorage.getItem('theme') === null) {
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        sessionStorage.setItem('theme', prefersDark ? 'dark' : 'light');
       }
+
+      const currentTheme = sessionStorage.getItem('theme');
+
+      // 2. Apply theme stylesheets and update toggle checked state
+      if (currentTheme === 'dark') {
+        themeSource.setAttribute('rel', 'stylesheet alternate');
+        themeSource2.setAttribute('rel', 'stylesheet');
+        if (toggle) toggle.checked = true;
+      } else {
+        themeSource.setAttribute('rel', 'stylesheet');
+        themeSource2.setAttribute('rel', 'stylesheet alternate');
+        if (toggle) toggle.checked = false;
+      }
+
+      // 3. Handle toggle click
+      window.dark_mode_btn_click = function () {
+        const isDark = toggle.checked;
+
+        if (isDark) {
+          sessionStorage.setItem('theme', 'dark');
+          themeSource.setAttribute('rel', 'stylesheet alternate');
+          themeSource2.setAttribute('rel', 'stylesheet');
+        } else {
+          sessionStorage.setItem('theme', 'light');
+          themeSource.setAttribute('rel', 'stylesheet');
+          themeSource2.setAttribute('rel', 'stylesheet alternate');
+        }
+      };
     });
   </script>
 {% endif %}
