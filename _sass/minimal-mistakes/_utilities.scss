@@ -224,6 +224,9 @@ $text-alignments: left, right, start, end, center, justify;
     $vine-color: ".fa-vine",
     $xing-color: ".fa-xing, .fa-xing-square",
     $youtube-color: ".fa-youtube",
+
+    $google-scholar-color: ".fa-google-scholar",
+    $orcid-color: ".fa-orcid"
   ) {
     #{$icons} {
       color: $color;
