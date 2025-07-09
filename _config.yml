@@ -20,9 +20,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Hyungseok Kim"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Personal website" # site tagline that appears below site title in masthead
 name                     : "Hyungseok Kim"
-description              : "Personal website."
+description              : "Personal website"
 url                      : "https://fluorite42.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fluorite42/fluorite42.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -325,3 +325,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true

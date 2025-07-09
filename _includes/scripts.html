@@ -47,3 +47,24 @@
     return false;
   }
 </script>
+
+<!-- Feather icon toggle -->
+<script src="https://unpkg.com/feather-icons"></script>
+<script>
+function toggleContent(element) {
+  var content = element.parentNode.nextElementSibling; // Select the next sibling div
+  var toggleIcon = element.querySelector('.toggle-icon');
+
+  if (content.style.display === "none") {
+      content.style.display = "block";
+      toggleIcon.setAttribute('data-feather', 'chevron-down');
+  } else {
+      content.style.display = "none";
+      toggleIcon.setAttribute('data-feather', 'chevron-right');
+  }
+  feather.replace();  // Re-render Feather icons after changing
+}
+</script>
+<script>
+  feather.replace();  // Initialize Feather Icons
+</script>
