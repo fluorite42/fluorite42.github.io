@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
-  - title: "Projects"
-    url: /projects/
-  - title: "Honors & Awards"
-    url: /awards/
+  - title: "Portfolio"
+    url: /portfolio/publications/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -16,3 +12,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+# Portfolio links
+portfolio:
+  - title: "Publications"
+    url: /portfolio/publications/
+  - title: "Projects"
+    url: /portfolio/projects/
+  - title: "Honors & Awards"
+    url: /portfolio/awards/

@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /portfolio/projects/
 title: "Projects"
 toc: true
 toc_sticky: true

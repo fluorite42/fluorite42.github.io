@@ -1,5 +1,5 @@
 ---
-permalink: /awards/
+permalink: /portfolio/awards/
 title: "Honors & Awards"
 toc: true
 toc_sticky: true

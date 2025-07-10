@@ -69,7 +69,7 @@ title: "Summary"
 
 - Developed a compilation framework to enhance the performance of quantum compilers.
 - Utilized the qubit reuse technique to improve resource efficiency and fidelity in quantum circuits.
-- Wrote a <a href="/publications/#qr-map-a-map-based-approach-to-quantum-circuit-abstraction-for-qubit-reuse-optimization-">research paper</a> on the project and presented it at the 2025 International Symposium on Computer Architecture (ISCA).
+- Wrote a research paper on the project and presented it at the 2025 International Symposium on Computer Architecture (ISCA). <a href="/portfolio/publications/#qr-map-a-map-based-approach-to-quantum-circuit-abstraction-for-qubit-reuse-optimization-"><i class="fa fa-hashtag" title="Publication"></i></a>
 
 
 
