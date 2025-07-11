@@ -34,5 +34,7 @@ portfolio:
         url: /portfolio/programs/educational-programs/
       - title: "Lectures Attended"
         url: /portfolio/programs/lectures-attended/
+  - title: "Volunteering"
+    url: /portfolio/volunteering/
   # - title: "Fellowships & Scholarships"
   #   url: /portfolio/fellowships/
