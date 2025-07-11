@@ -20,5 +20,19 @@ portfolio:
     url: /portfolio/publications/
   - title: "Projects"
     url: /portfolio/projects/
+  - title: "Services"
+    url: /portfolio/services/
   - title: "Honors & Awards"
     url: /portfolio/awards/
+  - title: "Licenses & Certifications"
+    url: /portfolio/certifications/
+  - title: "Lectures & Programs"
+    children:
+      - title: "Featured Experience"
+        url: /portfolio/programs/featured-experience/
+      - title: "Educational Programs"
+        url: /portfolio/programs/educational-programs/
+      - title: "Lectures Attended"
+        url: /portfolio/programs/lectures-attended/
+  # - title: "Fellowships & Scholarships"
+  #   url: /portfolio/fellowships/

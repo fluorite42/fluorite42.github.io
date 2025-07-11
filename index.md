@@ -91,7 +91,7 @@ title: "Summary"
 </div>
 
 - Researching on quantum computer architecture and quantum pulse generation under the advisement of <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank" title="Website">Prof. Won Woo Ro</a>.
-- Participating in the educational track of Automotive System IC Fusion Human Resource Research Center (ASRC). <a href="http://asrc.yonsei.ac.kr/index.php" target="_blank"><i class="fa fa-link" title="Website"></i></a>
+- Participating in the educational track of Automotive System IC Fusion Human Resource Research Center (ASRC). <a href="http://asrc.yonsei.ac.kr/index.php" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 
 
