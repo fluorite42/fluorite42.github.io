@@ -18,7 +18,7 @@ toc_label: "Honors & Awards"
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Attachment
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Attachment
   </a>
 </div>
 <div class="attachment" style="display: none;">
@@ -38,7 +38,7 @@ toc_label: "Honors & Awards"
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Attachment
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Attachment
   </a>
 </div>
 <div class="attachment" style="display: none;">
@@ -58,13 +58,13 @@ toc_label: "Honors & Awards"
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Attachment
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Attachment
   </a>
 </div>
 <div class="attachment" style="display: none;">
     <iframe width="160"  height="90"
             src="https://www.youtube.com/embed/a-GB1bWfljM?si=Ypsa5zVoIsZX40aq" 
-            title="Software Operating Fundamentals of Quantum Computing" 
+            title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             referrerpolicy="strict-origin-when-cross-origin" 

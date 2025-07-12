@@ -28,7 +28,7 @@ toc_label: "Publications"
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
   </a>
 </div>
 <div class="abstract" style="display: none;">
@@ -64,7 +64,7 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
   </a>
 </div>
 <div class="abstract" style="display: none;">
@@ -97,7 +97,7 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
   </a>
 </div>
 <div class="abstract" style="display: none;">
@@ -137,7 +137,7 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
   </a>
 </div>
 <div class="abstract" style="display: none;">

@@ -30,7 +30,7 @@ toc_label: "Services"
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
   </a>
 </div>
 <div class="abstract" style="display: none;">
