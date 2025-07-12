@@ -61,7 +61,7 @@ toc_label: "Skills & Languages"
 
 
 
-## Languages (Following CEFR <a href="https://www.coe.int/en/web/language-policy" target="_blank"><i class="fa fa-house" title="Website"></i></a>)
+## Languages (Following CEFR <a href="https://www.coe.int/en/web/common-european-framework-reference-languages" target="_blank"><i class="fa fa-house" title="Website"></i></a>)
 
 - **Korean**: Native
 - **English**: B2 (Vantage) - C1 (Advanced)
