@@ -90,6 +90,10 @@ Oct. 2013
 
 
 
+<img src="/assets/images/map_visited.png" alt="Visited Countries" style="display: block; margin: 0 auto;">
+
+
+
 ## Conscription
 
 ### Reserve Duty
