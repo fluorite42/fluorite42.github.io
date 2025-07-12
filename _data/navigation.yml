@@ -38,8 +38,8 @@ portfolio:
     url: /portfolio/volunteering/
   - title: "Selected Coursework"
     url: /portfolio/coursework/
-  # - title: "Skills"
-  #   url: /portfolio/skills/
+  - title: "Skills & Languages"
+    url: /portfolio/skills/
   # - title: "Career Breaks"
   #   url: /portfolio/breaks/
   # - title: "Fellowships & Scholarships"
