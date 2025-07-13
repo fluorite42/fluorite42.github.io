@@ -45,6 +45,7 @@
   (twitter, $twitter-color),
   (x, $x-color),
   (threads, $threads-color),
+  (whatsapp, $whatsapp-color),
   (reddit, $reddit-color);
 
   @each $buttoncolor, $color in $buttoncolors {
