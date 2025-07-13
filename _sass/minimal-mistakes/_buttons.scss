@@ -48,6 +48,7 @@
   (whatsapp, $whatsapp-color),
   (tumblr, $tumblr-color),
   (pinterest, $pinterest-color),
+  (blogger, $blogger-color),
   (reddit, $reddit-color);
 
   @each $buttoncolor, $color in $buttoncolors {
