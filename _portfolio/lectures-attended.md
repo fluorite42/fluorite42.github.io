@@ -8,6 +8,30 @@ toc_label: "Lectures Attended"
 
 ## Academic Topics
 
+### 2025 Yonsei Quantum Academy Vacation Special Lecture Series I
+
+*Yonsei Institute of Quantum Information Technology (IQIT)*
+<br>Jun. 2025
+
+- Current Status of Quantum Computer
+    - Lecturer: <a href="https://sites.google.com/a/yonsei.ac.kr/quantum-traveller" target="_blank">Kyungsun Moon</a> (Physics Professor at Yonsei U.)
+
+### Invited Seminar
+
+*Yonsei University School of Electrical and Electronic Engineering*
+<br>Jun. 2025
+
+- Security Challenges in Hybrid Classical-Quantum Computing Systems
+    - Lecturer: <a href="https://caslab.io/jakub/" target="_blank">Jakub Szefer</a> (Electrical and Computer Engineering Professor at Northwestern U.)
+
+### Quantum Computing Seminar Series
+
+*Yonsei University School of Integrated Technology*
+<br>May 2025
+
+- Exciton-Polariton Quantum Simulators
+    - Lecturer: <a href="https://research.iqc.uwaterloo.ca/quinkim/" target="_blank">Na Young Kim</a> (Electrical and Computer Engineering Professor at UWaterloo)
+
 ### 2025 Yonsei Engineering Symposium (YES 2025) <a href="https://yes2025.org" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 *Yonsei University BK21 FOUR*
