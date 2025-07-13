@@ -1,11 +1,13 @@
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const currentTheme = sessionStorage.getItem('theme');
-    const commentContainer = document.querySelector('#utterances-comments');
+<!-- Utterances comment embed -->
+<div id="utterances-comments"></div>
 
-    if (!commentContainer) {
-      return;
-    }
+<script>
+  // Make function globally accessible
+  window.loadUtterances = function (theme) {
+    const commentContainer = document.querySelector('#utterances-comments');
+    if (!commentContainer) return;
+
+    commentContainer.innerHTML = ''; // Clear any existing iframe
 
     const script = document.createElement('script');
     script.setAttribute('src', 'https://utteranc.es/client.js');
@@ -15,13 +17,20 @@
     script.setAttribute('label', '{{ site.comments.utterances.label }}');
     {% endif %}
 
-    if (currentTheme === 'dark') {
-      script.setAttribute('theme', '{{ site.comments.utterances.dark_theme | default: "github-dark" }}');
-    } else {
-      script.setAttribute('theme', '{{ site.comments.utterances.theme | default: "github-light" }}');
-    }
+    const utterancesTheme = theme === 'dark'
+      ? '{{ site.comments.utterances.dark_theme | default: "github-dark" }}'
+      : '{{ site.comments.utterances.theme | default: "github-light" }}';
 
+    script.setAttribute('theme', utterancesTheme);
     script.setAttribute('crossorigin', 'anonymous');
+    script.setAttribute('async', true);
     commentContainer.appendChild(script);
+  };
+
+  // Load on page load
+  document.addEventListener('DOMContentLoaded', function () {
+    const theme = sessionStorage.getItem('theme') || 'light';
+    window.loadUtterances(theme);
   });
 </script>
+

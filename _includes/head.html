@@ -59,6 +59,11 @@
           themeSource.setAttribute('rel', 'stylesheet');
           themeSource2.setAttribute('rel', 'stylesheet alternate');
         }
+
+        // Reload Utterances with the new theme
+        if (typeof window.loadUtterances === 'function') {
+          window.loadUtterances(isDark ? 'dark' : 'light');
+        }
       };
     });
   </script>
