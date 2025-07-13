@@ -5,6 +5,13 @@
 {% include copyright.html %}
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
   <head>
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description1 }}, {{ site.description2 }}" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content="https://dl.acm.org/do/10.1145/contrib-99661371524/full/Profile2-1729919354620.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
