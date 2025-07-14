@@ -90,7 +90,9 @@ Oct. 2013
 
 
 
-<img src="/assets/images/map_visited.png" alt="Visited Countries" style="display: block; margin: 0 auto;">
+<a href="/assets/images/map_visited.png" target="_blank">
+  <img src="/assets/images/map_visited.png" alt="Visited Countries" style="display: block; margin: 0 auto;"/>
+</a>
 
 
 
