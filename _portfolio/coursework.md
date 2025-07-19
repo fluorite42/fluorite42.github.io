@@ -161,6 +161,47 @@ toc_label: "Selected Coursework"
 
 <!-- ------------------------------------ -->
 
+<a class="btn" onclick="toggleContent(this)">
+    <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
+    4. <sup>MSc</sup>Quantum Computing
+</a>
+
+<div class="description" style="display: none;">
+
+<h6>Course Objective</h6>
+<ul>
+  <li>Acquire a firm understanding of the quantum-mechanical foundations of qubit superposition, entanglement, and interference at the heart of all quantum computations.</li>
+  <li>Understand the early quantum algorithms such as Deutsch’s Problem, Bernstein-Vazirani, and Quantum FFT, and be able to code and execute them on a QPU.</li>
+  <li>Know recent near-term quantum algorithms like the quantum simulation of Hamiltonian dynamics.</li>
+  <li>Understand and control, in principle, the quantum circuit compilation pipeline and error mitigation techniques to execute near-term quantum workloads on QPUs.</li>
+</ul>
+
+<h6>Textbook</h6>
+<ol>
+  <li>
+    A Course in Quantum Computing (for the Community College) Volume 1 by Michael Loceff
+    <a href="https://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf" target="_blank">
+      <i class="fa fa-book" title="Reference"></i>
+    </a>
+  </li>
+  <li>
+    Quantum Information Science (Oxford University Press) by Riccardo Manenti and Mario Motta
+    <a href="https://a.co/d/hEAaItv" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+  <li>
+    Quantum Algorithms via Linear Algebra (MIT Press) by Richard J. Lipton and Kenneth W. Regan
+    <a href="https://a.co/d/hLAZzDM" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+</ol>
+
+</div>
+
+<!-- ------------------------------------ -->
+
 ### Computer Architecture
 
 <a class="btn" onclick="toggleContent(this)">
@@ -764,6 +805,38 @@ toc_label: "Selected Coursework"
         <div style="font-size: 0.8em; text-align: center;">A block diagram of the interrupt clock.</div>
       </li>
     </ul>
+  </li>
+</ul>
+
+</div>
+
+<!-- ------------------------------------ -->
+
+<a class="btn" onclick="toggleContent(this)">
+    <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
+    5. <sup>MSc</sup>Semiconductor Memory Design
+</a>
+
+<div class="description" style="display: none;">
+
+<h6>Course Objective</h6>
+<ul>
+  <li>Learn the relevant design and technology topics for the current and emerging semiconductor memories.</li>
+  <li>Instructors from SK Hynix deliver weekly lectures on the following topics:
+    <ol>
+      <li>SK Hynix & Memory Tech Overview</li>
+      <li>DRAM Design & Operation</li>
+      <li>Computing DRAM</li>
+      <li>Mobile DRAM</li>
+      <li>I/O Interface</li>
+      <li>HBM Technology</li>
+      <li>Advanced Package Technologies</li>
+      <li>NAND Flash Design & Operation</li>
+      <li>Flash Solution Products</li>
+      <li>Memory and Storage Solution for Generative AI</li>
+      <li>CMOS Image Sensor Design</li>
+      <li>Emerging Memory Design Technologies</li>
+    </ol>
   </li>
 </ul>
 
