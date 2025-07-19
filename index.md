@@ -8,10 +8,10 @@ title: "Summary"
 
 - Hyungseok Kim is presently a graduate student pursuing a master's degree in Electrical and Electronic Engineering at Yonsei University.
 - His academic pursuits are underscored by a keen interest in a diverse range of disciplines, including but not limited to:
-<br/>&nbsp;1. Quantum Computing
-<br/>&nbsp;2. Computer Architecture
-<br/>&nbsp;3. Machine Learning
-<br/>&nbsp;4. Programming Language Theory
+<br/>&nbsp;1. Quantum Compilers
+<br/>&nbsp;2. Quantum Error Correction
+<br/>&nbsp;3. Quantum Optimal Control
+<br/>&nbsp;4. Quantum Algorithms
 - Currently, his primary focus lies in Quantum Compiler Optimization, reflecting his dedication to cutting-edge research within the field.
 
 
@@ -33,8 +33,8 @@ title: "Summary"
   </div>
 </div>
 
-- Conducting research on quantum computing, focusing on quantum architecture and quantum pulse generation.
-- Collaborating with the quantum computing team to advance quantum computing technologies.
+- Contributed to a research project focused on developing a quantum optimal control framework. <a href="/portfolio/projects/#research-on-quantum-pulse-latency-reduction-through-quantum-optimal-control-framework"><i class="fa fa-hashtag" title="Project"></i></a>
+- Served as a teaching assistant for the courses Capstone Design in *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 
 
 <div style="display: flex; align-items: center;">
@@ -50,8 +50,8 @@ title: "Summary"
   </div>
 </div>
 
-- Collaborated with the quantum computing team on various research projects aimed at advancing quantum computing technologies.
-- Engaged in innovative solutions and contributes to cutting-edge developments in the field.
+- Contributed to the development of the quantum compilation frameworks <a href="/portfolio/publications/#recompiling-qaoa-circuits-on-various-rotational-directions-"><i>Racoon</i></a> and <a href="/portfolio/publications/#qubit-movement-optimized-program-generation-on-zoned-neutral-atom-processors-"><i>Mantra</i></a>.
+- Participated in a research project focused on developing a quantum circuit simulator. <a href="/portfolio/projects/#developing-a-high-speed-quantum-circuit-simulator-that-supports-verification-and-testing-of-hyperscale-quantum-algorithms"><i class="fa fa-hashtag" title="Project"></i></a>
 
 
 <div style="display: flex; align-items: center;">
@@ -90,7 +90,7 @@ title: "Summary"
   </div>
 </div>
 
-- Researching on quantum computer architecture and quantum pulse generation under the advisement of <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank" title="Website">Prof. Won Woo Ro</a>.
+- Conducting research on quantum computer architecture and quantum algorithms under the advisement of <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank" title="Website">Prof. Won Woo Ro</a>.
 - Participating in the educational track of Automotive System IC Fusion Human Resource Research Center (ASRC). <a href="http://asrc.yonsei.ac.kr/index.php" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 
