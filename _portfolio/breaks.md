@@ -10,7 +10,7 @@ toc_label: "Career Breaks"
 
 ### East Asia
 
-May 2025, Jun. 2025
+May 2025, Jun. 2025, Aug. 2025
 
 - SARs of China
     - :hong_kong: Hong Kong
@@ -20,6 +20,9 @@ May 2025, Jun. 2025
     - :jp: Tokyo
     - :jp: Asahikawa
     - :jp: Wakkanai
+
+- Taiwan
+    - :taiwan: Taipei
 
 ### Mainland Southeast Asia
 

@@ -34,7 +34,7 @@
 .archive__subtitle {
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
+  font-size: $type-size-4; // Default: $type-size-5
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
 
@@ -124,7 +124,7 @@
 .list__item {
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    font-size: $type-size-7; // Default: 0.6em
   }
 }
 
@@ -194,7 +194,7 @@
 
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    font-size: $type-size-7; // Default: 0.6em
   }
 
   .page__meta-sep {

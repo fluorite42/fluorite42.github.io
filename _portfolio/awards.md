@@ -77,6 +77,6 @@ toc_label: "Honors & Awards"
 ### Academic Honors
 
 *Yonsei University*
-<br>Feb. 2024 and Aug. 2022
+<br>Aug. 2022, Feb. 2024
 
-- Fall Semester of 2023 and Spring Semester of 2022.
+- Spring Semester of 2022 and Fall Semester of 2023.
