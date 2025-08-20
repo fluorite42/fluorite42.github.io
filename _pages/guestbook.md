@@ -4,6 +4,12 @@ title: Guestbook
 toc: false
 comments: true
 share: true
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_books3.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/white-printer-paper-beside-red-pen-yb68jcRk1vQ)"
+  overlay_filter: 0.5
 ---
 
 ## Welcome!
