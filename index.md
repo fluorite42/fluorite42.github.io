@@ -1,8 +1,21 @@
 ---
 layout: home
 author_profile: true
-title: "Summary"
+title: "THINK"
+excerpt: |
+  The trouble with every one of us is that we don't think enough.
+  We don't get paid for working with our feet — we get paid for working with our heads.
+header:
+  overlay_image: /assets/images/header_laptop.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg)"
+  actions:
+    - label: "Reference"
+      url: "https://en.wikipedia.org/wiki/Think_(slogan)"
 ---
+
+
+
+# Summary
 
 ---
 
