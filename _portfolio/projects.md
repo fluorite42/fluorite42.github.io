@@ -4,6 +4,13 @@ title: "Projects"
 toc: true
 toc_sticky: true
 toc_label: "Projects"
+toc_icon:  "diagram-project"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_project.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/brown-pencil-on-white-printing-paper-fteR0e2BzKo)"
+  overlay_filter: 0.5
 ---
 
 ### Research on Quantum Pulse Latency Reduction Through Quantum Optimal Control Framework

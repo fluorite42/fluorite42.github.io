@@ -4,6 +4,13 @@ title: "Volunteering"
 toc: true
 toc_sticky: true
 toc_label: "Volunteering"
+toc_icon:  "heart"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_handshake.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/two-people-shake-hands-in-a-symbolic-gesture-tCCZpZUMgio)"
+  overlay_filter: 0.5
 ---
 
 ### Academic Mentor

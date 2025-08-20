@@ -4,6 +4,13 @@ title: "Selected Coursework"
 toc: true
 toc_sticky: true
 toc_label: "Selected Coursework"
+toc_icon:  "list-check"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_books2.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/assorted-books-on-wooden-table-eMP4sYPJ9x0)"
+  overlay_filter: 0.5
 ---
 
 ## Electrical and Electronic Engineering

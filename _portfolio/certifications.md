@@ -4,6 +4,13 @@ title: "Licenses & Certifications"
 toc: true
 toc_sticky: true
 toc_label: "Licenses & Certifications"
+toc_icon:  "certificate"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_ribbon.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/yellow-and-white-star-illustration-ZdqSuxl3Lak)"
+  overlay_filter: 0.5
 ---
 
 ### Adobe Certified Professional (ACP) in Digital Video Using Adobe Premiere Pro <a href="https://www.credly.com/badges/e7b22676-490f-471d-815b-65b9a8a15f61/public_url" target="_blank"><i class="fa fa-award" title="Credly Badge"></i></a>

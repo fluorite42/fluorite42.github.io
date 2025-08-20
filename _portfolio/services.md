@@ -4,6 +4,13 @@ title: "Services"
 toc: true
 toc_sticky: true
 toc_label: "Services"
+toc_icon:  "briefcase"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_service.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/a-white-wall-with-the-word-service-written-on-it-5tRCRkZjWf0)"
+  overlay_filter: 0.5
 ---
 
 ## Teaching Experience
@@ -26,7 +33,7 @@ toc_label: "Services"
 
 - Assisted professor Won Woo Ro in teaching the capstone design course.
 - Provided guidance to 1 student team in designing and implementing the capstone project.
-- Capstone project: "A Hybrid Layout Framework Combining Tree-Based Mapping with Bidirectional SABRE Optimization in quantum circuit"
+- Capstone project: "A Hybrid Layout Framework Combining Tree-Based Mapping with Bidirectional SABRE Optimization in quantum circuit" <a href="https://doi.org/10.1145/3297858.3304023" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">

@@ -4,6 +4,13 @@ title: "Career Breaks"
 toc: true
 toc_sticky: true
 toc_label: "Career Breaks"
+toc_icon:  "plane-departure"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_balloons.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA)"
+  overlay_filter: 0.5
 ---
 
 ## Travel/Business Trip

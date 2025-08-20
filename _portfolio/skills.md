@@ -4,6 +4,13 @@ title: "Skills & Languages"
 toc: true
 toc_sticky: true
 toc_label: "Skills & Languages"
+toc_icon:  "lightbulb"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_codes.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/programming-codes-GI1hwOGqGtE)"
+  overlay_filter: 0.5
 ---
 
 ## Skill Set

@@ -4,6 +4,13 @@ title: "Featured Experience"
 toc: true
 toc_sticky: true
 toc_label: "Featured Experience"
+toc_icon:  "calendar-check"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_postit.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/selective-focus-photography-of-yellow-and-orange-post-it-notes-on-wall-S3JdHNXSfnA)"
+  overlay_filter: 0.5
 ---
 
 ### Paper Reading Challenge

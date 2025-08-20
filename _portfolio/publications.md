@@ -4,6 +4,13 @@ title: "Publications"
 toc: true
 toc_sticky: true
 toc_label: "Publications"
+toc_icon:  "book"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_papers.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/white-printer-paper-lot-5cFwQ-WMcJU)"
+  overlay_filter: 0.5
 ---
 
 ## Conference Proceedings

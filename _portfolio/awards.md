@@ -4,6 +4,13 @@ title: "Honors & Awards"
 toc: true
 toc_sticky: true
 toc_label: "Honors & Awards"
+toc_icon:  "award"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_confetti.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/selective-focus-photography-of-multicolored-confetti-lot-Xaanw0s0pMk)"
+  overlay_filter: 0.5
 ---
 
 ### Student-Designed Major Competition

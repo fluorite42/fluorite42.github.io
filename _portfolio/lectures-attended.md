@@ -4,6 +4,13 @@ title: "Lectures Attended"
 toc: true
 toc_sticky: true
 toc_label: "Lectures Attended"
+toc_icon:  "chalkboard"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_classroom.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/black-swivel-chair-beside-rectangular-brown-wooden-desk-F8t2VGnI47I)"
+  overlay_filter: 0.5
 ---
 
 ## Academic Topics

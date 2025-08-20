@@ -4,6 +4,13 @@ title: "Educational Programs"
 toc: true
 toc_sticky: true
 toc_label: "Educational Programs"
+toc_icon:  "book-open"
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/header_books.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/white-book-on-brown-wooden-table-S3nUOqDmUvc)"
+  overlay_filter: 0.5
 ---
 
 
