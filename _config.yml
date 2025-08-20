@@ -336,7 +336,7 @@ defaults:
       show_date: true
       comments: true
       share: true
-      related: true
+      related: false
       gendate: true
       pagination: true
 
