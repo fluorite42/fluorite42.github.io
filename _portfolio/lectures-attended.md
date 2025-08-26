@@ -21,7 +21,11 @@ header:
 <br>Aug. 2025
 
 - Quantum Utility: Why Do We Care and How to Reach
-    - Lecturer: Nate Earnest-Noble (Quantum Computing Application Researcher at IBM Quantum)
+    - Lecturer: Nate Earnest-Noble (Quantum Computing Application Researcher at IBM Quantum) <a href="https://www.earnestchannel.com" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+- Error Mitigation
+    - Lecturer: Boseong Kim (Korea Technical Enablement Lead at IBM Quantum)
+- Building Trust in the Quality of Scaled Circuit Execution
+    - Lecturer: Ritajit Majumdar (Research Scientist at IBM Quantum) <a href="https://research.ibm.com/people/ritajit-majumdar--1" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### 2025 Yonsei Quantum Academy Vacation Special Lecture Series I
 
