@@ -254,6 +254,19 @@ Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 <br><br>
 </div>
 
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  This paper examines the latest research trends in Variational Quantum Algorithms (VQA), a quantum-classical hybrid algorithm paradigm that is in the spotlight in the era of Noise Intermediate-Scale Quantum (NISQ). 
+  VQA combines a parameterized quantum circuit structure, an ansatz, and a classical optimizer to repeatedly adjust the quantum state, so it can be applied to various fields such as quantum chemistry, combination optimization, and machine learning, even in hardware with a limited number of qubits and current level of error rate. 
+  First, we introduce the Variable Quantum Eigenvalue Solution (VQE) that calculates the ground state energy of molecules and the Quantum Approximate Optimization Algorithm (QAOA), which solves the optimization problem in the form of Quadratic Unconstructed Binary Optimization (QUBO), and discuss issues such as increasing circuit depth that can appear in real hardware execution, loss of parameter gradient due to barren plateau phenomenon, overhead due to SWAP gate required for qubit rearrangement, and measurement noise. 
+  Next, as the latest research examples to address this, we introduce efficient ansatz design that reduces the number of operations required, circuit rearrangement and transformation tailored to hardware connection structure and error characteristics, how to speed up parameter learning by reducing unnecessary gates inside the circuit, fast convergence using initial parameter setting and transfer learning, and distributed execution techniques that utilize multiple quantum processing units (QPUs) in parallel. 
+  Through these examples, this paper confirms that integrated optimization across algorithms, compilers, and all layers of hardware is essential for the practicalization of VQA.
+</div>
+
 
 
 ## Preprints
