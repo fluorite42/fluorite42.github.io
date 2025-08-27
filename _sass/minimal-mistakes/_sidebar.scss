@@ -13,6 +13,12 @@
   z-index: 10;
 }
 
+.sidebar__top .switch {
+  display: block;       /* take full line so margin auto works */
+  margin: 0 auto 0;   /* centers it horizontally, adds a little gap */
+  font-size: 2em;                 /* same scale as .fa-2x */
+}
+
 .sidebar {
   @include clearfix();
   // @include breakpoint(max-width $large) {

@@ -44,7 +44,81 @@
       </div>
     {% endif %}
 
+    <style>
+      /* Base switch style */
+      .switch {
+        position: relative;
+        display: inline-block;
+
+        /* sizing variables (all relative to font-size) */
+        --track-thickness: 1.2em;       /* width of the vertical track */
+        --track-length: 2.6em;          /* height of the track */
+        --pad: 0.215em;                  /* inner padding */
+        --knob: calc(var(--track-thickness) - 2 * var(--pad));
+
+        width: var(--track-thickness);
+        height: var(--track-length);
+      }
+
+      .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+
+      /* Slider background */
+      .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background-color: #ccc;
+        transition: 0.4s;
+        border-radius: 999px;
+      }
+
+      /* The circular knob */
+      .slider:before {
+        content: "\f185"; /* sun icon */
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: var(--knob);
+        color: #fbc02d;
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: calc(var(--knob)*1.5);
+        height: calc(var(--knob)*1.5);
+        top: var(--pad);
+        left: var(--pad);
+        bottom: auto;
+        background-color: white;
+        border-radius: 50%;
+        transition: 0.4s;
+      }
+
+      /* When checked (dark mode), move knob and change icon */
+      input:checked + .slider {
+        background-color: #2196F3;
+      }
+
+      input:checked + .slider:before {
+        transform: translateY(calc(var(--track-length) - var(--knob)*0.5 - 2 * var(--pad)));
+        content: "\f186"; /* moon icon */
+        color: #fff;
+        background-color: #333;
+      }
+    </style>
+
     <aside class="sidebar__top">
+      {% if site.minimal_mistakes_skin2 %}
+        <label class="switch">
+          <input type="checkbox" id="toggleButton" onclick="dark_mode_btn_click()">
+          <span class="slider round"></span>
+        </label>
+      {% endif %}
+      <br>
+
       <a href="#site-nav">
         <span class='fa-stack fa-2x'>
           <i class='fa fa-circle fa-stack-2x'></i>
@@ -52,6 +126,7 @@
         </span>
       </a>
     </aside>
+
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
