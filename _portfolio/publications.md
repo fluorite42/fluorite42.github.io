@@ -240,8 +240,8 @@ Changheon Lee<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
-    <i>The Magazine of the Institute of Electronics and Information Engineers (IEIE)</i>
-    <br>2025
+    <i>The Magazine of the IEIE, Vol. 52 No. 9</i>
+    <br>Sep. 2025
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
