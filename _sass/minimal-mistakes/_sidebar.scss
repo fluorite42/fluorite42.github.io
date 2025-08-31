@@ -41,6 +41,9 @@
     }
 
     &.sticky {
+      // keep the sidebar below the fixed header
+      top: 6.5em;
+
       overflow-y: auto;
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
@@ -100,7 +103,7 @@
       @include clearfix();
       position: -webkit-sticky;
       position: sticky;
-      top: 2em;
+      top: 6.5em; // height of masthead
       float: inline-end;
 
       .toc {
