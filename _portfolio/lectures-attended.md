@@ -258,6 +258,13 @@ header:
 
 ## Other Topics
 
+### Yeong-seok Na (Television Producer and Director) <a href="https://en.wikipedia.org/wiki/Na_Yeong-seok" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> <a href="https://www.youtube.com/@15ya_egg" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
+
+*2025 Yon-Ko Games &lt;Our YONdays&gt; Academic Festival*
+<br>Sep. 2025
+
+- The Race is Long Anyway.
+
 ### Kyungil Kim (Psychology Professor at Ajou U., Writer) <a href="https://sites.google.com/ajou.ac.kr/tetross/home" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 *Yonsei University Library*
@@ -265,7 +272,7 @@ header:
 
 - Communication in the Digital Age: Feedback and Relationalism are the Answer
 
-### Sang-Jin Oh (Former News Anchor, Celebrity) <a href="https://en.wikipedia.org/wiki/Oh_Sang-jin" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+### Sang-jin Oh (Former News Anchor, Celebrity) <a href="https://en.wikipedia.org/wiki/Oh_Sang-jin" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
 *Yonsei Chaplain's Office*
 <br>Nov. 2024
@@ -303,14 +310,14 @@ header:
 
 - Space Created by Space <a href="https://www.google.co.kr/books/edition/%EA%B3%B5%EA%B0%84%EC%9D%B4_%EB%A7%8C%EB%93%A0_%EA%B3%B5%EA%B0%84/UAF-zQEACAAJ?hl=ko" target="_blank"><i class="fab fa-google" title="Google Books"></i></a>
 
-### Ki-Moon Ban (8th UN Secretary-General) <a href="https://en.wikipedia.org/wiki/Ban_Ki-moon" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+### Ki-moon Ban (8th UN Secretary-General) <a href="https://en.wikipedia.org/wiki/Ban_Ki-moon" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
 *Institute for Global Engagement & Empowerment (IGEE) at Yonsei University*
 <br>Nov. 2023
 
 - What College Students Should Do to Tackle Climate Change
 
-### David Yong-Duk Lee (Former GM of NVIDIA Korea)
+### David Yong-duk Lee (Former GM of NVIDIA Korea)
 
 *Yonsei University School of Business*
 <br>Sep. 2023
@@ -359,7 +366,7 @@ header:
 
 - New Era on the Korean Peninsula and Co-prosperity in East Asia <a href="https://www.google.co.kr/books/edition/%ED%83%88%EB%8C%80%EC%9D%BC%EB%B3%B8%EC%A3%BC%EC%9D%98/w6-hDwAAQBAJ?hl=ko&gbpv=0" target="_blank"><i class="fab fa-google" title="Google Books"></i></a>
 
-### Seok-Cheon Hong (Celebrity, Restaurateur) <a href="https://en.wikipedia.org/wiki/Hong_Seok-cheon" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+### Seok-cheon Hong (Celebrity, Restaurateur) <a href="https://en.wikipedia.org/wiki/Hong_Seok-cheon" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
 *Yonsei University Residential College (RC)*
 <br>May 2019

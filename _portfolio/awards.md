@@ -36,7 +36,7 @@ header:
 
 ### ~~Yonsei University Student ID Card Design Contest~~
 
-*The 57th Yonsei University General Student Council: Yours*
+*The 57th Yonsei University General Student Council &lt;Yours&gt;*
 <br>Oct. 2024
 
 - Title: 140 Years of Soaring
