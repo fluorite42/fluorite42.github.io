@@ -46,5 +46,7 @@ portfolio:
     url: /portfolio/skills/
   - title: "Career Breaks"
     url: /portfolio/breaks/
+  - title: "Miscellaneous"
+    url: /portfolio/miscellaneous/
   # - title: "Fellowships & Scholarships"
   #   url: /portfolio/fellowships/
