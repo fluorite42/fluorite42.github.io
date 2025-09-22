@@ -4,7 +4,7 @@ title: "Miscellaneous"
 toc: true
 toc_sticky: true
 toc_label: "Miscellaneous"
-toc_icon:  "comment-dots"
+toc_icon:  "circle-dot"
 
 header:
   show_overlay_excerpt: false
@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.5
 ---
 
-## Erdős Number: 4
+## Erdős Number <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
 - **0**: Pál Erdős (1913 - 1996) <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 

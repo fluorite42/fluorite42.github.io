@@ -19,7 +19,7 @@ header:
 ### IonQ Research Mentoring Program
 
 *Quantum Information Research Support Center (QCenter),<br>IonQ*
-<br>Feb. 2025 - Apr. 2025
+<br>Feb. 2025 - Apr. 2025 / Online
 
 - Optimizing varQITE for Efficient Quantum Simulations <a href="https://doi.org/10.48550/arXiv.2404.16135" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 - Mentor: Sang Hyub Kim (Senior Staff Engineer at IonQ)
@@ -27,7 +27,7 @@ header:
 ### Research Education
 
 *Yonsei University Library,<br>Editage*
-<br>Jan. 2024
+<br>Jan. 2024 / Online
 
 - Writing papers in English and submitting them to journals.
     - Common Errors by Korean Authors and Word Choice
@@ -37,28 +37,28 @@ header:
 ### Research Education
 
 *Yonsei University Library*
-<br>Dec. 2023
+<br>Dec. 2023 / Online
 
 - Submission of Papers to Overseas Academic Journals
 
 ### Research Education
 
 *Yonsei University Library,<br>Editage*
-<br>Aug. 2023
+<br>Aug. 2023 / Online
 
 - Responding to Reviewer Comments
 
 ### Research Education
 
 *Yonsei University Library,<br>Oxford University Press*
-<br>May 2023
+<br>May 2023 / Yonsei-Samsung Library Chang Ki Won International Conference Hall
 
 - How to publish with Oxford University Press
 
 ### Research Education
 
 *Yonsei University Library*
-<br>Mar. 2023
+<br>Mar. 2023 / Online
 
 - Search and Use of Major Academic Journals and Papers
 
@@ -69,21 +69,21 @@ header:
 ### ACP Academy (Adobe Premiere Pro)
 
 *Yonsei Digital Experience Center (Y-DEC)*
-<br>Jan. 2024
+<br>Jan. 2024 / Online
 
 - Training program to prepare for the ACP certification exam. <a href="/portfolio/certifications/#adobe-certified-professional-acp-in-digital-video-using-adobe-premiere-pro-"><i class="fa fa-hashtag" title="Certification"></i></a>
 
 ### Understanding ChatGPT Properly (Python)
 
 *Yonsei University College of Engineering*
-<br>May 2023
+<br>May 2023 - Jun. 2023 / Yonsei University Engineering Hall D603
 
 - Understanding and Using ChatGPT through Python Coding
 
 ### Winter DX Coding Camp (Machine Learning Class)
 
 *Yonsei University Library*
-<br>Jan. 2023
+<br>Jan. 2023 / Yonsei-Samsung Library Y-Valley
 
 - Instructor: Joeun Park <a href="https://www.youtube.com/@todaycode" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 - Understanding the Basics of Machine Learning
@@ -92,14 +92,14 @@ header:
 ### DX Academy (Adobe After Effect)
 
 *Yonsei Digital Experience Center (Y-DEC)*
-<br>Jan. 2023
+<br>Jan. 2023 / Yonsei-Samsung Library Yun Jong Ik Library Classroom
 
 - Training program to prepare for the micro-learning video contest. <a href="/portfolio/awards/#micro-learning-video-contest"><i class="fa fa-hashtag" title="Award"></i></a>
 
 ### DX Academy Digital Literacy One-Day Class
 
 *Yonsei Digital Experience Center (Y-DEC)*
-<br>Nov. 2022
+<br>Nov. 2022 / Yonsei-Samsung Library Yun Jong Ik Library Classroom
 
 - Instructor: Hojun Lee (Editor of <a href="https://www.youtube.com/@GYMJONGKOOK" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>)
 - Creating a Vlog Using Adobe Premiere Pro

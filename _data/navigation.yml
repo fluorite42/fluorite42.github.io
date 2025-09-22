@@ -26,6 +26,8 @@ portfolio:
     url: /portfolio/projects/
   - title: "Services"
     url: /portfolio/services/
+  - title: "Talks"
+    url: /portfolio/talks/
   - title: "Honors & Awards"
     url: /portfolio/awards/
   - title: "Licenses & Certifications"
