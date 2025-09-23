@@ -15,6 +15,14 @@ header:
 
 ## Academic Topics
 
+### QCenter & IonQ 2025 Autumn Lecture Series
+
+*Quantum Information Research Support Center (QCenter),<br>IonQ*
+<br>Sep. 2025 / Online
+
+- Quantum Error Correction
+    - Lecturer: Nicolas Delfosse (Principal Researcher at IonQ) <a href="https://www.nicolas-delfosse.com" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
 ### 2nd Yonsei-IBM R2U (Road to Utility) Workshop
 
 *Yonsei Institute of Quantum Information Technology (IQIT),<br>IBM Quantum*
