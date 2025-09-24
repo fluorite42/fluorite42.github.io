@@ -236,7 +236,7 @@ Changheon Lee<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 
 ## Journal Articles
 
-### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQA)
+### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQA) <a href="https://www.theieie.org/download/academic_journal_special/202509.pdf" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
