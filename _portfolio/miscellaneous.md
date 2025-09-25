@@ -13,7 +13,12 @@ header:
   overlay_filter: 0.5
 ---
 
-## Erdős Number <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
+## Social Networks
+
+### Erdős Number <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
+My Erdős Number is 4 according to the following collaboration graph:
 
 - **0**: Pál Erdős (1913 - 1996) <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
@@ -28,3 +33,18 @@ header:
 
 - **4**: Hyungseok Kim
   - E. Jang, Y. Kim, H. Kim, S. Choi, Y. Huang, and W. W. Ro, “Qubit Movement-Optimized Program Generation on Zoned Neutral Atom Processors,” *Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization (CGO '25)*, Las Vegas, NV, USA, 2025, pp. 459–475. <a href="https://doi.org/10.1145/3696443.3708937" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+
+### Academic Genealogy <a href="https://en.wikipedia.org/wiki/Academic_genealogy" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
+In reverse chronological order:
+
+| # | Name | Year | Affiliation | Field | Website |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Hyungseok Kim | | | |
+| 2 | Won Woo Ro | 1972 -  | Yonsei | Computer Science | <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 3 | Jean-Luc Gaudiot | 1954 -  | USC → UC Irvine | Computer Science | <a href="http://pascal.eng.uci.edu/people/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 4 | Miloš Dragutin Ercegovac | 1942 -  | UCLA | Computer Science | <a href="https://web.cs.ucla.edu/~milos/" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 5 | James Evans Robertson | 1924 - 1993 | UIUC | Mathematics | <a href="https://archon.library.illinois.edu/archives/?p=creators/creator&id=875" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 6 | Nelson Wax | 1917 - 1992 | UIUC | Mathematics | <a href="https://archon.library.illinois.edu/archives/index.php?p=creators/creator&id=828" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 7 | Erwin Ernest Dreese | 1895 - 1985 | Ohio State | Mathematics | |
+| | ⋮ | | | | |
