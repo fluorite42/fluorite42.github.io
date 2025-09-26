@@ -38,13 +38,23 @@ My Erdős Number is 4 according to the following collaboration graph:
 
 In reverse chronological order:
 
-| # | Name | Year | Affiliation | Field | Website |
+| # | Name | Lifespan | Affiliation | Field | Website |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Hyungseok Kim | | | |
-| 2 | Won Woo Ro | 1972 -  | Yonsei | Computer Science | <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 3 | Jean-Luc Gaudiot | 1954 -  | USC → UC Irvine | Computer Science | <a href="http://pascal.eng.uci.edu/people/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 4 | Miloš Dragutin Ercegovac | 1942 -  | UCLA | Computer Science | <a href="https://web.cs.ucla.edu/~milos/" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 5 | James Evans Robertson | 1924 - 1993 | UIUC | Mathematics | <a href="https://archon.library.illinois.edu/archives/?p=creators/creator&id=875" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 6 | Nelson Wax | 1917 - 1992 | UIUC | Mathematics | <a href="https://archon.library.illinois.edu/archives/index.php?p=creators/creator&id=828" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 7 | Erwin Ernest Dreese | 1895 - 1985 | Ohio State | Mathematics | |
+| 2 | Won Woo Ro | 1972 -  | Yonsei | CS | <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 3 | Jean-Luc Gaudiot | 1954 -  | USC, UC Irvine | CS | <a href="http://pascal.eng.uci.edu/people/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Jean-Luc_Gaudiot" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 4 | Miloš Dragutin Ercegovac | 1942 -  | UCLA | CS | <a href="https://web.cs.ucla.edu/~milos/" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 5 | James Evans Robertson | 1924 - 1993 | UIUC | CS | <a href="https://archon.library.illinois.edu/archives/?p=creators/creator&id=875" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 6.1 | Nelson Wax | 1917 - 1992 | UIUC | Elec. Eng. | <a href="https://archon.library.illinois.edu/archives/index.php?p=creators/creator&id=828" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 6.2 | Abraham Haskel Taub | 1911 - 1999 | UIUC, UC Berkeley | Mathematics | <a href="https://en.wikipedia.org/wiki/Abraham_H._Taub" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 7.1.1 | Erwin Ernest Dreese | 1895 - 1985 | Ohio State | Elec. Eng. | |
+| 7.1.2 | William Littell Everitt | 1900 - 1986 | Ohio State, UIUC | Elec. Eng. | <a href="https://en.wikipedia.org/wiki/William_Littell_Everitt" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 7.2 | Howard Percy Robertson | 1903 - 1961 | Caltech, Princeton | Mathematics | <a href="https://en.wikipedia.org/wiki/Howard_P._Robertson" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 8.1.2 | Frederic Columbus Blake | 1877 - 1956 | Ohio State | Elec. Eng. | <a href="https://en.wikipedia.org/wiki/Frederic_Columbus_Blake" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 8.2 | Harry Bateman | 1882 - 1946 | Caltech | Mathematics | <a href="https://en.wikipedia.org/wiki/Harry_Bateman" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 9.1.2 | Ernest Fox Nichols | 1869 - 1924 | Dartmouth, Columbia | Physics | <a href="https://en.wikipedia.org/wiki/Ernest_Fox_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 9.2 | Frank Morley | 1860 - 1937 | Johns Hopkins | Mathematics | <a href="https://en.wikipedia.org/wiki/Frank_Morley" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 10.1.2 | Edward Leamington Nichols | 1854 - 1937 | Cornell | Physics | <a href="https://en.wikipedia.org/wiki/Edward_Leamington_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 11.1.2 | Johann Benedict Listing | 1808 - 1882 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Johann_Benedict_Listing" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 12.1.2 | **Carl Friedrich Gauß** | 1777 - 1855 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | | ⋮ | | | | |
