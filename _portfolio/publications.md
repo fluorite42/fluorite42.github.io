@@ -122,6 +122,77 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 
 
+## Journal Articles
+
+### Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>Physical Review Research</i>
+    <br>2025
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_aps.png" alt="APS" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Youngmin Kim<sup>1</sup>, Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Changhun Lee<sup>1</sup>, Donghwi Kim<sup>2</sup>, Woomin Kyoung<sup>2</sup>, Kyujin Shin<sup>2</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Hyundai Motor Company, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Variational quantum algorithms (VQAs) have attracted remarkable interest over the past few years because of their potential computational advantages on near-term quantum devices. 
+  They leverage a hybrid approach that integrates classical and quantum computing resources to solve high-dimensional problems that are challenging for classical approaches alone. 
+  In the training process of variational circuits, constructing an accurate probability distribution for each epoch is not always necessary, creating opportunities to reduce computational costs through shot reduction. 
+  However, existing shot-allocation methods that capitalize on this potential often lack adaptive feedback or are tied to specific classical optimizers, which limits their applicability to common VQAs and broader optimization techniques. 
+  Our observations indicate that the information entropy of a quantum circuit's output distribution exhibits an approximately exponential relationship with the number of shots needed to achieve a target Hellinger distance. 
+  In this work, we propose a distribution-adaptive dynamic shot (DDS) framework that efficiently adjusts the number of shots per iteration in VQAs using the entropy distribution from the prior training epoch. 
+  Our results demonstrate that the DDS framework sustains inference accuracy while achieving a ~50% reduction in average shot count compared to fixed-shot training, and ~60% higher accuracy than recently proposed tiered shot allocation methods. 
+  Furthermore, in noisy simulations that reflect the error rates of actual IBM quantum systems, DDS achieves approximately a ~30% reduction in the total number of shots compared to the fixed-shot method with minimal degradation in accuracy, and offers about ~70% higher computational accuracy than tiered shot allocation methods.
+</div>
+
+
+
+### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQA) <a href="https://www.theieie.org/download/academic_journal_special/202509.pdf" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>The Magazine of the IEIE, Vol. 52 No. 9</i>
+    <br>Sep. 2025
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  This paper examines the latest research trends in Variational Quantum Algorithms (VQA), a quantum-classical hybrid algorithm paradigm that is in the spotlight in the era of Noise Intermediate-Scale Quantum (NISQ). 
+  VQA combines a parameterized quantum circuit structure, an ansatz, and a classical optimizer to repeatedly adjust the quantum state, so it can be applied to various fields such as quantum chemistry, combination optimization, and machine learning, even in hardware with a limited number of qubits and current level of error rate. 
+  First, we introduce the Variable Quantum Eigenvalue Solution (VQE) that calculates the ground state energy of molecules and the Quantum Approximate Optimization Algorithm (QAOA), which solves the optimization problem in the form of Quadratic Unconstructed Binary Optimization (QUBO), and discuss issues such as increasing circuit depth that can appear in real hardware execution, loss of parameter gradient due to barren plateau phenomenon, overhead due to SWAP gate required for qubit rearrangement, and measurement noise. 
+  Next, as the latest research examples to address this, we introduce efficient ansatz design that reduces the number of operations required, circuit rearrangement and transformation tailored to hardware connection structure and error characteristics, how to speed up parameter learning by reducing unnecessary gates inside the circuit, fast convergence using initial parameter setting and transfer learning, and distributed execution techniques that utilize multiple quantum processing units (QPUs) in parallel. 
+  Through these examples, this paper confirms that integrated optimization across algorithms, compilers, and all layers of hardware is essential for the practicalization of VQA.
+</div>
+
+
+
 ## Workshops and Tutorials
 
 ### Native Gate-Aware QAOA Ansatz
@@ -230,41 +301,6 @@ Changheon Lee<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
   ② The Gaussian basis reduces gate length by 5% relative to the Fourier basis. 
   ③ The Gaussian envelope shave 11% from compilation latency compared to the Fourier basis. 
   ④ Sinc functions, although attractive in theory for their perfect rectangular spectra, underperform on fidelity.
-</div>
-
-
-
-## Journal Articles
-
-### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQA) <a href="https://www.theieie.org/download/academic_journal_special/202509.pdf" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>The Magazine of the IEIE, Vol. 52 No. 9</i>
-    <br>Sep. 2025
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  This paper examines the latest research trends in Variational Quantum Algorithms (VQA), a quantum-classical hybrid algorithm paradigm that is in the spotlight in the era of Noise Intermediate-Scale Quantum (NISQ). 
-  VQA combines a parameterized quantum circuit structure, an ansatz, and a classical optimizer to repeatedly adjust the quantum state, so it can be applied to various fields such as quantum chemistry, combination optimization, and machine learning, even in hardware with a limited number of qubits and current level of error rate. 
-  First, we introduce the Variable Quantum Eigenvalue Solution (VQE) that calculates the ground state energy of molecules and the Quantum Approximate Optimization Algorithm (QAOA), which solves the optimization problem in the form of Quadratic Unconstructed Binary Optimization (QUBO), and discuss issues such as increasing circuit depth that can appear in real hardware execution, loss of parameter gradient due to barren plateau phenomenon, overhead due to SWAP gate required for qubit rearrangement, and measurement noise. 
-  Next, as the latest research examples to address this, we introduce efficient ansatz design that reduces the number of operations required, circuit rearrangement and transformation tailored to hardware connection structure and error characteristics, how to speed up parameter learning by reducing unnecessary gates inside the circuit, fast convergence using initial parameter setting and transfer learning, and distributed execution techniques that utilize multiple quantum processing units (QPUs) in parallel. 
-  Through these examples, this paper confirms that integrated optimization across algorithms, compilers, and all layers of hardware is essential for the practicalization of VQA.
 </div>
 
 
