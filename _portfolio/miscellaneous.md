@@ -51,9 +51,9 @@ In reverse chronological order:
 | 8 | Ernest Fox Nichols | 1869 - 1924 | Dartmouth, Columbia | Physics | <a href="https://en.wikipedia.org/wiki/Ernest_Fox_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 9 | Edward Leamington Nichols | 1854 - 1937 | Cornell | Physics | <a href="https://en.wikipedia.org/wiki/Edward_Leamington_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 10 | Johann Benedict Listing | 1808 - 1882 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Johann_Benedict_Listing" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 11 | **Carl Friedrich Gauß** | 1777 - 1855 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 11 | **Carl Friedrich Gauß**<sup>1</sup> | 1777 - 1855 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 12 | Johann Friedrich Pfaff | 1765 - 1825 | Helmstedt, Halle | Mathematics | <a href="https://en.wikipedia.org/wiki/Johann_Friedrich_Pfaff" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 13 | Abraham Gotthelf Kästner | 1719 - 1800 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Abraham_Gotthelf_K%C3%A4stner" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 13 | Abraham Gotthelf Kästner<sup>2</sup> | 1719 - 1800 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Abraham_Gotthelf_K%C3%A4stner" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 14 | Christian August Hausen | 1693 - 1743 | Leipzig | Mathematics | <a href="https://en.wikipedia.org/wiki/Christian_August_Hausen" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 15 | Johann C. Wichmannshausen | 1663 - 1727 | Wittenberg | Philology | <a href="https://en.wikipedia.org/wiki/Johann_Christoph_Wichmannshausen" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 16 | Otto Mencke | 1644 - 1707 | Leipzig | Philosophy | <a href="https://en.wikipedia.org/wiki/Otto_Mencke" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
@@ -61,7 +61,18 @@ In reverse chronological order:
 | 18 | Friedrich Leibniz | 1597 - 1652 | Leipzig | Philosophy | <a href="https://en.wikipedia.org/wiki/Friedrich_Leibniz" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | | ⋮ | | | | |
 
-Descendants of Abraham Gotthelf Kästner:
+<sup>1</sup>Descendants of Carl Friedrich Gauß:
+
+| # | Name | Lifespan | Affiliation | Field | Website |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0 | **Carl Friedrich Gauß** | | | | |
+| 1 | Christian Ludwig Gerling | 1788 - 1864  | Marburg | Mathematics | <a href="https://en.wikipedia.org/wiki/Christian_Ludwig_Gerling" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 2 | Julius Plücker | 1801 - 1868 | Bonn | Mathematics | <a href="https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | Felix Klein<sup>3</sup> | 1849 - 1925 | Leipzig, Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Felix_Klein" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 4 | Ferdinand von Lindemann | 1852 - 1939 | Königsberg, München | Mathematics | <a href="https://en.wikipedia.org/wiki/Ferdinand_von_Lindemann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 5 | **David Hilbert** | 1862 - 1943 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/David_Hilbert" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+
+<sup>2</sup>Descendants of Abraham Gotthelf Kästner:
 
 | # | Name | Lifespan | Affiliation | Field | Website |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -73,13 +84,22 @@ Descendants of Abraham Gotthelf Kästner:
 | 5 | Lipót Fejér | 1880 - 1959 | ELTE | Mathematics | <a href="https://en.wikipedia.org/wiki/Lip%C3%B3t_Fej%C3%A9r" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 6 | **John von Neumann** | 1903 - 1957 | IAS | Mathematics, Physics, CS | <a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 
-Descendants of Carl Friedrich Gauß:
+<sup>3</sup>Ancestors of Felix Klein (reverse chronological order):
 
 | # | Name | Lifespan | Affiliation | Field | Website |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 0 | **Carl Friedrich Gauß** | | | |
-| 1 | Christian Ludwig Gerling | 1788 - 1864  | Marburg | Mathematics | <a href="https://en.wikipedia.org/wiki/Christian_Ludwig_Gerling" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 2 | Julius Plücker | 1801 - 1868 | Bonn | Mathematics | <a href="https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 3 | Felix Klein | 1849 - 1925 | Leipzig, Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Felix_Klein" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 4 | Ferdinand von Lindemann | 1852 - 1939 | Königsberg, München | Mathematics | <a href="https://en.wikipedia.org/wiki/Ferdinand_von_Lindemann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 5 | **David Hilbert** | 1862 - 1943 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/David_Hilbert" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 0 | Felix Klein | | | | |
+| 1 | Rudolf Lipschitz | 1832 - 1903 | Bonn | Mathematics | <a href="https://en.wikipedia.org/wiki/Rudolf_Lipschitz" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 2 | Peter Gustav Lejeune Dirichlet<sup>4</sup> | 1805 - 1859 | HU Berlin | Mathematics | <a href="https://en.wikipedia.org/wiki/Peter_Gustav_Lejeune_Dirichlet" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | **Joseph Fourier** | 1768 - 1830 | Polytechnique | Mathematics | <a href="https://en.wikipedia.org/wiki/Joseph_Fourier" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 4 | **Joseph-Louis Lagrange** | 1736 - 1813 | Polytechnique | Mathematics | <a href="https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 5 | **Leonhard Euler** | 1707 - 1783 | RAS, PAS | Mathematics | <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+
+<sup>4</sup>Ancestors of Peter Gustav Lejeune Dirichlet (reverse chronological order):
+
+| # | Name | Lifespan | Affiliation | Field | Website |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0 | Peter Gustav Lejeune Dirichlet | | | | |
+| 1 | **Siméon Denis Poisson** | 1781 - 1840 | Polytechnique | Mathematics | <a href="https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 2 | **Pierre-Simon Laplace** | 1749 - 1827 | École Militaire | Mathematics | <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | **Jean le Rond d'Alembert** | 1717 - 1783 | FAS | Mathematics | <a href="https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
