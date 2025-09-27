@@ -40,21 +40,46 @@ In reverse chronological order:
 
 | # | Name | Lifespan | Affiliation | Field | Website |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Hyungseok Kim | | | |
-| 2 | Won Woo Ro | 1972 -  | Yonsei | CS | <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 3 | Jean-Luc Gaudiot | 1954 -  | USC, UC Irvine | CS | <a href="http://pascal.eng.uci.edu/people/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Jean-Luc_Gaudiot" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 4 | Miloš Dragutin Ercegovac | 1942 -  | UCLA | CS | <a href="https://web.cs.ucla.edu/~milos/" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 5 | James Evans Robertson | 1924 - 1993 | UIUC | CS | <a href="https://archon.library.illinois.edu/archives/?p=creators/creator&id=875" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 6.1 | Nelson Wax | 1917 - 1992 | UIUC | Elec. Eng. | <a href="https://archon.library.illinois.edu/archives/index.php?p=creators/creator&id=828" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
-| 6.2 | Abraham Haskel Taub | 1911 - 1999 | UIUC, UC Berkeley | Mathematics | <a href="https://en.wikipedia.org/wiki/Abraham_H._Taub" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 7.1.1 | Erwin Ernest Dreese | 1895 - 1985 | Ohio State | Elec. Eng. | |
-| 7.1.2 | William Littell Everitt | 1900 - 1986 | Ohio State, UIUC | Elec. Eng. | <a href="https://en.wikipedia.org/wiki/William_Littell_Everitt" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 7.2 | Howard Percy Robertson | 1903 - 1961 | Caltech, Princeton | Mathematics | <a href="https://en.wikipedia.org/wiki/Howard_P._Robertson" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 8.1.2 | Frederic Columbus Blake | 1877 - 1956 | Ohio State | Elec. Eng. | <a href="https://en.wikipedia.org/wiki/Frederic_Columbus_Blake" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 8.2 | Harry Bateman | 1882 - 1946 | Caltech | Mathematics | <a href="https://en.wikipedia.org/wiki/Harry_Bateman" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 9.1.2 | Ernest Fox Nichols | 1869 - 1924 | Dartmouth, Columbia | Physics | <a href="https://en.wikipedia.org/wiki/Ernest_Fox_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 9.2 | Frank Morley | 1860 - 1937 | Johns Hopkins | Mathematics | <a href="https://en.wikipedia.org/wiki/Frank_Morley" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 10.1.2 | Edward Leamington Nichols | 1854 - 1937 | Cornell | Physics | <a href="https://en.wikipedia.org/wiki/Edward_Leamington_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 11.1.2 | Johann Benedict Listing | 1808 - 1882 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Johann_Benedict_Listing" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 12.1.2 | **Carl Friedrich Gauß** | 1777 - 1855 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 0 | Hyungseok Kim | | | | |
+| 1 | Won Woo Ro | 1972 -  | Yonsei | CS | <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 2 | Jean-Luc Gaudiot | 1954 -  | USC, UC Irvine | CS | <a href="http://pascal.eng.uci.edu/people/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Jean-Luc_Gaudiot" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | Miloš Dragutin Ercegovac | 1942 -  | UCLA | CS | <a href="https://web.cs.ucla.edu/~milos/" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 4 | James Evans Robertson | 1924 - 1993 | UIUC | CS | <a href="https://archon.library.illinois.edu/archives/?p=creators/creator&id=875" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 5 | Nelson Wax | 1917 - 1992 | UIUC | Elec. Eng. | <a href="https://archon.library.illinois.edu/archives/index.php?p=creators/creator&id=828" target="_blank"><i class="fa fa-house" title="Website"></i></a> |
+| 6 | William Littell Everitt | 1900 - 1986 | Ohio State, UIUC | Elec. Eng. | <a href="https://en.wikipedia.org/wiki/William_Littell_Everitt" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 7 | Frederic Columbus Blake | 1877 - 1956 | Ohio State | Elec. Eng. | <a href="https://en.wikipedia.org/wiki/Frederic_Columbus_Blake" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 8 | Ernest Fox Nichols | 1869 - 1924 | Dartmouth, Columbia | Physics | <a href="https://en.wikipedia.org/wiki/Ernest_Fox_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 9 | Edward Leamington Nichols | 1854 - 1937 | Cornell | Physics | <a href="https://en.wikipedia.org/wiki/Edward_Leamington_Nichols" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 10 | Johann Benedict Listing | 1808 - 1882 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Johann_Benedict_Listing" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 11 | **Carl Friedrich Gauß** | 1777 - 1855 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 12 | Johann Friedrich Pfaff | 1765 - 1825 | Helmstedt, Halle | Mathematics | <a href="https://en.wikipedia.org/wiki/Johann_Friedrich_Pfaff" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 13 | Abraham Gotthelf Kästner | 1719 - 1800 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Abraham_Gotthelf_K%C3%A4stner" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 14 | Christian August Hausen | 1693 - 1743 | Leipzig | Mathematics | <a href="https://en.wikipedia.org/wiki/Christian_August_Hausen" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 15 | Johann C. Wichmannshausen | 1663 - 1727 | Wittenberg | Philology | <a href="https://en.wikipedia.org/wiki/Johann_Christoph_Wichmannshausen" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 16 | Otto Mencke | 1644 - 1707 | Leipzig | Philosophy | <a href="https://en.wikipedia.org/wiki/Otto_Mencke" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 17 | Jakob Thomasius | 1622 - 1684 | Leipzig | Philosophy | <a href="https://en.wikipedia.org/wiki/Jakob_Thomasius" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 18 | Friedrich Leibniz | 1597 - 1652 | Leipzig | Philosophy | <a href="https://en.wikipedia.org/wiki/Friedrich_Leibniz" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | | ⋮ | | | | |
+
+Descendants of Abraham Gotthelf Kästner:
+
+| # | Name | Lifespan | Affiliation | Field | Website |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0 | Abraham Gotthelf Kästner | | | | |
+| 1 | Bernhard Friedrich Thibaut | 1775 - 1832 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Bernhard_Friedrich_Thibaut" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 2 | Christoph Gudermann | 1798 - 1852 | Münster | Mathematics | <a href="https://en.wikipedia.org/wiki/Christoph_Gudermann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | Karl Weierstrass | 1815 - 1897 | HU Berlin | Mathematics | <a href="https://en.wikipedia.org/wiki/Karl_Weierstrass" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 4 | Hermann Schwarz | 1843 - 1921 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Hermann_Schwarz" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 5 | Lipót Fejér | 1880 - 1959 | ELTE | Mathematics | <a href="https://en.wikipedia.org/wiki/Lip%C3%B3t_Fej%C3%A9r" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 6 | **John von Neumann** | 1903 - 1957 | IAS | Mathematics, Physics, CS | <a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+
+Descendants of Carl Friedrich Gauß:
+
+| # | Name | Lifespan | Affiliation | Field | Website |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0 | **Carl Friedrich Gauß** | | | |
+| 1 | Christian Ludwig Gerling | 1788 - 1864  | Marburg | Mathematics | <a href="https://en.wikipedia.org/wiki/Christian_Ludwig_Gerling" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 2 | Julius Plücker | 1801 - 1868 | Bonn | Mathematics | <a href="https://en.wikipedia.org/wiki/Julius_Pl%C3%BCcker" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | Felix Klein | 1849 - 1925 | Leipzig, Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Felix_Klein" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 4 | Ferdinand von Lindemann | 1852 - 1939 | Königsberg, München | Mathematics | <a href="https://en.wikipedia.org/wiki/Ferdinand_von_Lindemann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 5 | **David Hilbert** | 1862 - 1943 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/David_Hilbert" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
