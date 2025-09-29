@@ -79,8 +79,8 @@ In reverse chronological order:
 | 0 | Abraham Gotthelf Kästner | | | | |
 | 1 | Bernhard Friedrich Thibaut | 1775 - 1832 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Bernhard_Friedrich_Thibaut" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 2 | Christoph Gudermann | 1798 - 1852 | Münster | Mathematics | <a href="https://en.wikipedia.org/wiki/Christoph_Gudermann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 3 | Karl Weierstrass | 1815 - 1897 | HU Berlin | Mathematics | <a href="https://en.wikipedia.org/wiki/Karl_Weierstrass" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
-| 4 | Hermann Schwarz | 1843 - 1921 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Hermann_Schwarz" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 3 | **Karl Weierstrass** | 1815 - 1897 | HU Berlin | Mathematics | <a href="https://en.wikipedia.org/wiki/Karl_Weierstrass" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
+| 4 | **Hermann Schwarz** | 1843 - 1921 | Göttingen | Mathematics | <a href="https://en.wikipedia.org/wiki/Hermann_Schwarz" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 5 | Lipót Fejér | 1880 - 1959 | ELTE | Mathematics | <a href="https://en.wikipedia.org/wiki/Lip%C3%B3t_Fej%C3%A9r" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 | 6 | **John von Neumann** | 1903 - 1957 | IAS | Mathematics, Physics, CS | <a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> |
 
