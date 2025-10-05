@@ -20,7 +20,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>ISCA '25: Proceedings of the 52nd Annual International Symposium on Computer Architecture</i>
-    <br>20 Jun. 2025
+    <br>20 Jun. 2025 / Tokyo, Japan
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_isca2025.png" alt="ISCA 2025" width="100" height="100"/>
@@ -56,7 +56,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>CGO '25: Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization</i>
-    <br>01 Mar. 2025
+    <br>01 Mar. 2025 / Las Vegas, NV, USA
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_cgo.jpg" alt="CGO 2025" width="100" height="100"/>
@@ -89,7 +89,7 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>PACT '24: Proceedings of the 2024 International Conference on Parallel Architectures and Compilation Techniques</i>
-    <br>13 Oct. 2024
+    <br>13 Oct. 2024 / Long Beach, CA, USA
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_pact.gif" alt="PACT 2024" width="100" height="100"/>
@@ -200,7 +200,7 @@ Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>QDML '25: The 1st International Workshop on Quantum Data and Machine Learning: Systems, Theory and Hardware<br>In conjunction with ICDE '25</i>
-    <br>19 May 2025
+    <br>19 May 2025 / Hong Kong SAR, China
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_qdml.png" alt="QDML 2025" width="100" height="100"/>
@@ -239,7 +239,7 @@ Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>HAIQ '25: The 1st HPC/AI Integration with Quantum Computing Workshop<br>In conjunction with HPCA '25</i>
-    <br>01 Mar. 2025
+    <br>01 Mar. 2025 / Las Vegas, NV, USA
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_haiq.jpg" alt="HAIQ 2025" width="100" height="100"/>
@@ -277,7 +277,7 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 2025</i>
-    <br>27 Jun. 2025
+    <br>27 Jun. 2025 / Jeju, Korea
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
