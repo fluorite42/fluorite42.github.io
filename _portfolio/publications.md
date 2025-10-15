@@ -137,7 +137,7 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 </div>
 
 <div style="text-align: center; font-size: 0.85em;">
-Youngmin Kim<sup>1</sup>, Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Changhun Lee<sup>1</sup>, Donghwi Kim<sup>2</sup>, Woomin Kyoung<sup>2</sup>, Kyujin Shin<sup>2</sup>, and Won Woo Ro<sup>1</sup>
+Youngmin Kim<sup>1</sup>, Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Changheon Lee<sup>1</sup>, Donghwi Kim<sup>2</sup>, Woomin Kyoung<sup>2</sup>, Kyujin Shin<sup>2</sup>, and Won Woo Ro<sup>1</sup>
 <br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Hyundai Motor Company, Republic of Korea
 <br><br>
 </div>
