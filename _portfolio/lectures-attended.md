@@ -15,6 +15,16 @@ header:
 
 ## Academic Topics
 
+### Keynotes
+
+*MICRO 2025*
+<br>Oct. 2025 / Lotte Hotel Seoul 2F
+
+- AI Compilers and Inference at Scale: Efficiency and Velocity
+    - Lecturer: Luis Ceze (Computer Science and Engineering Professor at UW and VP of AI Systems Software at NVIDIA) <a href="https://homes.cs.washington.edu/~luisceze/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Luis_Ceze" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+- Can We Do Better?
+    - Lecturer: Onur Mutlu (Computer Science Professor at ETH Zurich) <a href="https://people.inf.ethz.ch/omutlu/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
 ### QCenter & IonQ 2025 Autumn Lecture Series
 
 *Quantum Information Research Support Center (QCenter),<br>IonQ*
