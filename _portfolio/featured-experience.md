@@ -13,23 +13,7 @@ header:
   overlay_filter: 0.5
 ---
 
-### Paper Reading Challenge
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>Editage</i>
-    <br>Jan. 2024 - Jun. 2024
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_editage.png" alt="Editage" width="100" height="100"/>
-  </div>
-</div>
-
-- Read research papers for at least an hour a day, and recorded the progress on a daily basis.
-- If did it successfully for more or equal to 20 days in a month, received a gift card.
-- Participated and completed the challenge for 6 months in a row.
-
-
+## On-Campus Experience
 
 ### Language Exchange Program
 
@@ -80,3 +64,23 @@ header:
 </div>
 
 - Introduced the campus to Waseda University students in Japanese and English at Yonsei University International Campus.
+
+
+
+## Other Experience
+
+### Paper Reading Challenge
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>Editage</i>
+    <br>Jan. 2024 - Jun. 2024
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_editage.png" alt="Editage" width="100" height="100"/>
+  </div>
+</div>
+
+- Read research papers for at least an hour a day, and recorded the progress on a daily basis.
+- If did it successfully for more or equal to 20 days in a month, received a gift card.
+- Participated and completed the challenge for 6 months in a row.
