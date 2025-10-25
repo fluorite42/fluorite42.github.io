@@ -61,3 +61,17 @@ header:
 - Reviewed a paper on the topic of quantum computing.
 - Provided feedback on the paper's methodology and results.
 - Evaluated the paper's contribution to the field of computer architecture.
+
+
+
+## Event Staff
+
+### Session Support
+
+*The 58th IEEE/ACM International Symposium on Microarchitecture (MICRO '25)*
+<br>Oct. 2025
+
+- Assisted with the running of three sessions.
+  - Session 5B: Microarchitecture - Prefetching 2
+  - Session 6B: Security and Privacy - Memory
+  - Session 7B: Tools and Simulators
