@@ -43,6 +43,14 @@ header:
 - Current Status of Quantum Computer
     - Lecturer: Kyungsun Moon (Physics Professor at Yonsei U.) <a href="https://sites.google.com/a/yonsei.ac.kr/quantum-traveller" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
+### Special Invited Talk
+
+*ISCA 2025*
+<br>Jun. 2025 / Waseda University Okuma Auditorium
+
+- Solving the Sustainability Problem -- What must come first. ...and 2nd. ...and 3rd.
+    - Lecturer: Yale Nance Patt (Electrical and Computer Engineering Professor at UT Austin) <a href="https://users.ece.utexas.edu/~patt/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Yale_Patt" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
 ### Invited Seminar
 
 *Yonsei University School of Electrical and Electronic Engineering*
