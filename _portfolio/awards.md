@@ -13,6 +13,8 @@ header:
   overlay_filter: 0.5
 ---
 
+## On-Campus Achievements
+
 ### Student-Designed Major Competition
 
 *Yonsei University Office of Academic Affairs*
