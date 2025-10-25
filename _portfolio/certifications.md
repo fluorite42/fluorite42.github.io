@@ -13,6 +13,8 @@ header:
   overlay_filter: 0.5
 ---
 
+## Technical Qualifications
+
 ### Adobe Certified Professional (ACP) in Digital Video Using Adobe Premiere Pro <a href="https://www.credly.com/badges/e7b22676-490f-471d-815b-65b9a8a15f61/public_url" target="_blank"><i class="fa fa-award" title="Credly Badge"></i></a>
 
 <div style="display: flex; align-items: center;">
@@ -27,24 +29,6 @@ header:
 
 - This certification validates expertise in video editing and production using Adobe Premiere Pro, covering essential skills in video creation, editing techniques, and post-production workflows.
 - It is designed for individuals looking to demonstrate their proficiency in digital video editing and advance their careers in media and entertainment.
-
-
-
-### Korean History Proficiency Test, Level- I (Highest)
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>National Institute of Korean History</i>
-    <br>Feb. 2022
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_history.jpg" alt="National Institute of Korean History" width="100" height="100"/>
-  </div>
-</div>
-
-- This certification demonstrates advanced knowledge of Korean history, covering major events, figures, and cultural developments from ancient times to the modern era.
-- It is designed for individuals seeking to validate their deep understanding of Korean history, useful for academic or professional pursuits.
-- Certification Number: 57-100794
 
 
 
@@ -63,6 +47,26 @@ header:
 - This certification validates advanced computer literacy skills, including proficiency in essential office automation software such as spreadsheets and databases.
 - It is designed for individuals aiming to demonstrate their expertise in practical computing skills, useful for both academic and professional environments.
 - Certification Number: 20-K9-038595
+
+
+
+## Other Qualifications
+
+### Korean History Proficiency Test, Level- I (Highest)
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>National Institute of Korean History</i>
+    <br>Feb. 2022
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_history.jpg" alt="National Institute of Korean History" width="100" height="100"/>
+  </div>
+</div>
+
+- This certification demonstrates advanced knowledge of Korean history, covering major events, figures, and cultural developments from ancient times to the modern era.
+- It is designed for individuals seeking to validate their deep understanding of Korean history, useful for academic or professional pursuits.
+- Certification Number: 57-100794
 
 
 
