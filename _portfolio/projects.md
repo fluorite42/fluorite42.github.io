@@ -13,6 +13,8 @@ header:
   overlay_filter: 0.5
 ---
 
+## Quantum Computing Projects
+
 ### Research on Quantum Pulse Latency Reduction Through Quantum Optimal Control Framework
 
 <div style="display: flex; align-items: center;">
@@ -55,4 +57,29 @@ Won Woo Ro<sup>1</sup>*, Enhyeok Jang<sup>1</sup>, Seungwoo Choi<sup>1</sup>, Ch
 Jinyoung Lee<sup>1</sup>*, Won Woo Ro<sup>2</sup>**, Enhyeok Jang<sup>2</sup>***, Sungwoo Ahn<sup>2</sup>, Seungwoo Choi<sup>2</sup>, Cheolhwan Kim<sup>2</sup>, Youngmin Kim<sup>2</sup>, <b>Hyungseok Kim</b><sup>2</sup>
 <br><sup>1</sup>Hyundai Motor Group, Republic of Korea, <sup>2</sup>Yonsei University, Republic of Korea
 <br>*Project Manager, **Research Director, ***Working Director
+</div>
+
+
+
+## Other Projects
+
+### Optimizing GPU-SSD Integrated System Architecture for Large-Scale Artificial Intelligence Learning
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>
+        Samsung Electronics DS Division,<br>
+        Embedded Systems and Computer Architecture Lab (eSCaL)
+    </i>
+    <br>Oct. 2025 - Present
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_samsung.png" alt="Samsung" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Won Woo Ro<sup>1</sup>*, Hoonhwi Lee<sup>1</sup>, Junwoo You<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Minchan Kim<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br>*Research Director
 </div>
