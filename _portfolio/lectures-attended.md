@@ -53,7 +53,7 @@ header:
 - Current Status of Quantum Computer
     - Lecturer: Kyungsun Moon (Physics Professor at Yonsei U.) <a href="https://sites.google.com/a/yonsei.ac.kr/quantum-traveller" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
-### Special Invited Talk
+### Keynotes
 
 *ISCA 2025*
 <br>Jun. 2025 / Waseda University Okuma Auditorium
