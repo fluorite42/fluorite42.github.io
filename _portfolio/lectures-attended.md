@@ -60,6 +60,8 @@ header:
 
 - Solving the Sustainability Problem -- What must come first. ...and 2nd. ...and 3rd.
     - Lecturer: Yale Nance Patt (Electrical and Computer Engineering Professor at UT Austin) <a href="https://users.ece.utexas.edu/~patt/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Yale_Patt" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+- First Global Trust, then Zero Trust
+    - Lecturer: Todd Austin (Electrical Engineering and Computer Science Professor at UMich) <a href="https://web.eecs.umich.edu/~austin/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Invited Seminar
 
