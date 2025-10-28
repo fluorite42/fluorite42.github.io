@@ -19,13 +19,14 @@ header:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
-    May 2025 - Present
-    <ul>
-        <li>Seoul Section, Region 10 (Asia and Pacific)</li>
-        <li>Graduate Student Member</li>
-    </ul>
+    <i>
+        Graduate Student Member
+    </i>
+    <br>May 2025 - Present
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieee.png" alt="IEEE" width="100" height="100"/>
   </div>
 </div>
+
+- Seoul Section, Region 10 (Asia and Pacific)
