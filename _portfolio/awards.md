@@ -23,7 +23,7 @@ header:
 - Designed Major: BSc in Quantum Information Engineering
 - Majors Combined: Electrical and Electronic Engineering, Physics, and Mathematics
 - Required Credits: 36 Credits (12 Essential, 24 Elective)
-- 2nd Prize with ₩500,000 (~$500)
+- 2nd Prize with KRW 500,000 (~ USD 360)
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
@@ -63,7 +63,7 @@ header:
 
 - Title: Software Operating Fundamentals of Quantum Computing
 - Created Using Adobe After Effects and Adobe Illustrator.
-- 4th Prize with ₩500,000* (~$500)<br>&nbsp;&nbsp;&nbsp;&nbsp;*Received as a scholarship.
+- 4th Prize with KRW 500,000* (~ USD 380)<br>&nbsp;&nbsp;&nbsp;&nbsp;*Received as a scholarship.
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
