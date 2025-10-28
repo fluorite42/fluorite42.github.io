@@ -71,6 +71,6 @@ header:
 ## Languages (Following CEFR <a href="https://www.coe.int/en/web/common-european-framework-reference-languages" target="_blank"><i class="fa fa-house" title="Website"></i></a>)
 
 - **Korean**: Native
-- **English**: B2 (Vantage) - C1 (Advanced)
+- **English**: B2 (Vantage) -- C1 (Advanced)
 - **Spanish**: B1 (Threshold)
 - **Japanese**: A2 (Waystage)
