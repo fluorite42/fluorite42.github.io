@@ -71,7 +71,7 @@ header:
 *Yonsei Digital Experience Center (Y-DEC)*
 <br>Jan. 2024 / Online
 
-- Training program to prepare for the ACP certification exam. <a href="/portfolio/certifications/#adobe-certified-professional-acp-in-digital-video-using-adobe-premiere-pro-"><i class="fa fa-hashtag" title="Certification"></i></a>
+- Training program to prepare for the ACP certification exam.
 
 ### Understanding ChatGPT Properly (Python)
 
@@ -94,7 +94,7 @@ header:
 *Yonsei Digital Experience Center (Y-DEC)*
 <br>Jan. 2023 / Yonsei-Samsung Library Yun Jong Ik Library Classroom
 
-- Training program to prepare for the micro-learning video contest. <a href="/portfolio/awards/#micro-learning-video-contest"><i class="fa fa-hashtag" title="Award"></i></a>
+- Training program to prepare for the micro-learning video contest.
 
 ### DX Academy Digital Literacy One-Day Class
 

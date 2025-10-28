@@ -46,7 +46,7 @@ header:
   </div>
 </div>
 
-- Contributed to a research project focused on developing a quantum optimal control framework. <a href="/portfolio/projects/#research-on-quantum-pulse-latency-reduction-through-quantum-optimal-control-framework"><i class="fa fa-hashtag" title="Project"></i></a>
+- Contributed to a research project focused on developing a quantum optimal control framework.
 - Served as a teaching assistant for the courses Capstone Design in *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 
 
@@ -63,8 +63,8 @@ header:
   </div>
 </div>
 
-- Contributed to the development of the quantum compilation frameworks <a href="/portfolio/publications/#recompiling-qaoa-circuits-on-various-rotational-directions-"><i>Racoon</i></a> and <a href="/portfolio/publications/#qubit-movement-optimized-program-generation-on-zoned-neutral-atom-processors-"><i>Mantra</i></a>.
-- Participated in a research project focused on developing a quantum circuit simulator. <a href="/portfolio/projects/#developing-a-high-speed-quantum-circuit-simulator-that-supports-verification-and-testing-of-hyperscale-quantum-algorithms"><i class="fa fa-hashtag" title="Project"></i></a>
+- Contributed to the development of the quantum compilation frameworks *Racoon* and *Mantra*.
+- Participated in a research project focused on developing a quantum circuit simulator.
 
 
 <div style="display: flex; align-items: center;">
@@ -82,7 +82,7 @@ header:
 
 - Developed a compilation framework to enhance the performance of quantum compilers.
 - Utilized the qubit reuse technique to improve resource efficiency and fidelity in quantum circuits.
-- Wrote a research paper on the project and presented it at the 2025 International Symposium on Computer Architecture (ISCA). <a href="/portfolio/publications/#qr-map-a-map-based-approach-to-quantum-circuit-abstraction-for-qubit-reuse-optimization-"><i class="fa fa-hashtag" title="Publication"></i></a>
+- Wrote a research paper on the project and presented it at the 2025 International Symposium on Computer Architecture (ISCA).
 
 
 

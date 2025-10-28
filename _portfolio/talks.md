@@ -15,7 +15,7 @@ header:
 
 ## Invited Talks
 
-### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization <a href="/portfolio/publications/#qr-map-a-map-based-approach-to-quantum-circuit-abstraction-for-qubit-reuse-optimization-"><i class="fa fa-hashtag" title="Publication"></i></a>
+### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization
 
 *Quantum Information Science Club Association (QISCA) Journal Club*
 <br>Sep. 2025 / Online
