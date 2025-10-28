@@ -30,6 +30,8 @@ portfolio:
     url: /portfolio/talks/
   - title: "Honors & Awards"
     url: /portfolio/awards/
+  - title: "Fellowships & Scholarships"
+    url: /portfolio/scholarships/
   - title: "Licenses & Certifications"
     url: /portfolio/certifications/
   - title: "Lectures & Programs"
@@ -52,5 +54,3 @@ portfolio:
     url: /portfolio/breaks/
   - title: "Miscellaneous"
     url: /portfolio/miscellaneous/
-  # - title: "Fellowships & Scholarships"
-  #   url: /portfolio/fellowships/
