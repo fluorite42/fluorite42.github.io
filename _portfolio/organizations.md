@@ -21,7 +21,7 @@ header:
   <div style="width: 80%; padding-right: 10px;">
     May 2025 - Present
     <ul>
-        <li>Seoul Section, Region 10 (Asia and Pacific)
+        <li>Seoul Section, Region 10 (Asia and Pacific)</li>
         <li>Graduate Student Member</li>
     </ul>
   </div>
