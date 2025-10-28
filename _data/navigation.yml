@@ -46,6 +46,8 @@ portfolio:
     url: /portfolio/coursework/
   - title: "Skills & Languages"
     url: /portfolio/skills/
+  - title: "Organizations"
+    url: /portfolio/organizations/
   - title: "Career Breaks"
     url: /portfolio/breaks/
   - title: "Miscellaneous"
