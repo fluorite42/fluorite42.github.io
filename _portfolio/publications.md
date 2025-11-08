@@ -15,6 +15,81 @@ header:
 
 ## Conference Proceedings
 
+### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
+    <br>Jan. 2026 / Sydney, NSW, Australia
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Quantum Optimal Control (QOC) frameworks are powerful tools for compiling quantum circuits into low-latency hardware control pulses, but recent studies suffer from two critical limitations: lengthy compilation times and potential logical inconsistencies from flawed gate grouping strategies. 
+  In this work, we introduce d'ArQ, a novel QOC framework that solves these challenges. 
+  (i) We identify and resolve the <i>causality problem</i>, a flaw in greedy partitioning that can produce invalid schedules, by introducing a DAG-based grouping algorithm with assigning mergeability to each group so that it guarantees logical correctness. 
+  (ii) To mitigate compilation times, we use a pre-computed library of pulses derived from random unitary matrices to provide a high-quality random initialization for pulse optimization. 
+  (iii) Diverging from prior work based on GRAPE, d'ArQ is built on the GOAT algorithm. 
+  We demonstrate that the choice of analytic basis is a critical hyperparameter and introduce a heuristic cost model to dynamically select the optimal basis for each synthesis task, improving pulse performance. 
+  When evaluated against the state-of-the-art baseline PAQOC on a realistic, inhomogeneous hardware model, d'ArQ demonstrates superior performance. 
+  Notably, d'ArQ reduces circuit latency up to 22.8% and compilation time up to 56.8%, establishing a more robust and physically realistic path for circuit compilation.
+</div>
+
+
+
+### Toward Scalable Gate-Level Parallelism on Trapped-Ion Processors with Racetrack Electrodes
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
+    <br>Jan. 2026 / Sydney, NSW, Australia
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</sup>, Jaewon Kwon<sup>1</sup>, Yipeng Huang<sup>2</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Rutgers University, New Jersey, USA
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  A recent advancement in quantum computation has demonstrated quantum advantage by using randomized circuits on a racetrack-shaped trapped-ion processor. 
+  This work investigates the execution efficiency of this architecture for general-purpose quantum programs, which exhibit different computational characteristics compared to the randomized circuits. 
+  We first explore the impact of increasing the number of operational zones on runtime efficiency. 
+  Counterintuitively, our evaluations using variational program benchmarks reveal that expanding the number of gate operational zones may degrade runtime performance under existing scheduling policies. 
+  This degradation could be attributed to the proportional increase in track length, which increases ion circulation overhead, thereby offsetting the benefits of enhanced gate-level parallelism.
+  To mitigate this, we propose three key strategies for scalable parallel execution on racetrack processors:
+  (i) unitary decomposition and translation to maximize zone utilization, 
+  (ii) prioritizing the execution of nearby gates over ion movement, and
+  (iii) implementing shortcuts to provide alternative circulation paths. 
+  Our evaluations show that these strategies can reduce the runtime of variational programs by an average of 71% and the fidelity by an average of 19.8%. 
+  These strategies can ensure that the architectural design remains scalable by maintaining runtime performance even as the number of operational zones increases, even in the worst-case scenarios.
+</div>
+
+
+
 ### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization <a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 <div style="display: flex; align-items: center;">
