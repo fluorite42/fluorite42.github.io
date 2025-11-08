@@ -347,6 +347,42 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 ## Oral and Poster Presentations
 
+### TENET: A Pincer Movement with Backward Programs for Bypassing Relaxed Qubit Readouts
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>ICEIC '26: The 25th International Conference on Electronics, Information, and Communication</i>
+    <br>Jan. 2026 / Macau SAR, China
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Changheon Lee<sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Sungho Pyun<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Currently available quantum processors are highly susceptible to noise, among which decoherence from thermal relaxation is a major source of error.
+  This asymmetry, where excited qubit states (|1⟩) decay more frequently into ground states (|0⟩), introduces biased readout errors and undermines the fidelity of quantum computations, particularly when correct outputs contain many |1⟩ states.
+  To address this challenge, we propose TENET (TEmporal piNcEr operaTion), a bidirectional execution framework that leverages temporally inverted programs to mitigate relaxation-induced errors.
+  TENET initializes qubits with a hypothesized solution and executes the Hermitian-conjugate circuit to verify whether the output collapses to the all-zero state, bypassing the need for |1⟩ readouts.
+  This temporal quantum pincer approach enhances program verification under asymmetric noise by enabling cooperative forward–backward execution without requiring hardware modification.
+  Evaluations on IBM's 127-qubit Eagle r3 processors show that TENET improves the verifiable qubit limit by 1.8× on average (up to 2.3×) and boosts fidelity by 3.3× on average (up to 37×) compared to standard execution.
+  An extended variant that cross-verifies intermediate states using half-depth forward and backward circuits further increases the verifiable qubit scale by 2.5× and fidelity by up to 245×.
+  By combining temporal inversion with cooperative verification, TENET establishes a scalable and hardware-agnostic methodology for reliable quantum program validation on noisy intermediate-scale processors.
+</div>
+
+
+
 ### How Basis Choice Shapes Performance in Quantum Optimal Control Framework
 
 <div style="display: flex; align-items: center;">
