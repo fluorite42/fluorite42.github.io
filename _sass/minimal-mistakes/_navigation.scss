@@ -569,3 +569,9 @@
     padding-inline-start: 3.25rem;
   }
 }
+
+@media screen and (max-width: 800px) and (orientation:landscape), screen and (max-height: 300px) {
+  .toc {
+    display: none !important;
+  }
+}
