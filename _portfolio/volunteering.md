@@ -15,6 +15,24 @@ header:
 
 ## Talent Donation
 
+### Mentorship Program
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 70%; padding-right: 10px;">
+    <i>Quantum Computing Student Association (QCSA) at UCLA,<br>Quantum Information Science Club Association (QISCA)</i>
+    <br>Nov. 2025 - Present
+  </div>
+  <div style="width: 15%; padding-right: 10px;">
+    <img src="/assets/images/logo_qcsa.jpg" alt="QCSA" width="100" height="100"/>
+  </div>
+  <div style="width: 15%;">
+    <img src="/assets/images/logo_qisca.jpg" alt="QISCA" width="100" height="100"/>
+  </div>
+</div>
+
+- Mentored two undergraduate students interested in quantum computing through the club’s mentorship program.
+- Provided academic and career guidance, supporting mentees in exploring quantum information concepts and research pathways.
+
 ### Academic Mentor
 
 <div style="display: flex; align-items: center;">
