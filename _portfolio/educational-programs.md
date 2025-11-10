@@ -16,6 +16,16 @@ header:
 
 ## Research-Related Topics
 
+### Quantum Computing Education & Hands-on Workshop
+
+*Quantum Information Research Support Center (QCenter),<br>Pasqal*
+<br>Nov. 2025 / Online
+
+- 3-day online program on quantum computing education and hands-on exercises.
+    - Introduction to Pasqal's quantum computing
+    - Pasqal's library: Maximum Independent Set (MIS) <a href="https://pasqal-io.github.io/maximum-independent-set/latest/" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+    - Pasqal's library: Quantum Evolution Kernel (QEK) <a href="https://pasqal-io.github.io/quantum-evolution-kernel/latest/" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+
 ### IonQ Research Mentoring Program
 
 *Quantum Information Research Support Center (QCenter),<br>IonQ*
