@@ -19,6 +19,10 @@ news:
       title: "Paper Accepted"
       excerpt: "A paper is accepted at Phys. Rev. Res.!"
       link: /portfolio/publications/
+    - date: "Jul. 2025"
+      title: "Website Updated"
+      excerpt: "My website is updated to the current version!"
+      link: https://github.com/fluorite42/fluorite42.github.io
     - date: "Mar. 2025"
       title: "Paper Accepted"
       excerpt: "My first paper as a lead author is accepted at ISCA 2025!"
@@ -29,7 +33,7 @@ news:
       excerpt: "A QOC project will be finished!"
       link: /portfolio/projects/
     - date: "Jan. 2026"
-      title: "Int'l Conference"
+      title: "Conference Takes Place"
       excerpt: "2 papers will be presented at HPCA 2026!"
       link: /portfolio/publications/
     - date: "Jul. 2061"
