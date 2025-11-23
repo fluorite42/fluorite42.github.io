@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-news: false
+news: true
   # updates: 
   #   - date: "Nov. 2025"
   #     title: "Papers Accepted"
