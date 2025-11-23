@@ -1,41 +1,41 @@
 ---
 layout: home
 author_profile: true
-news: true
-  # updates: 
-  #   - date: "Nov. 2025"
-  #     title: "Papers Accepted"
-  #     excerpt: "2 papers are accepted at HPCA 2026!"
-  #     link: /portfolio/publications/
-  #   - date: "Oct. 2025"
-  #     title: "Project Launched"
-  #     excerpt: "A GPU-SSD project has begun!"
-  #     link: /portfolio/projects/
-  #   - date: "Sep. 2025"
-  #     title: "Invited Talk"
-  #     excerpt: "Gave a talk about my work at QISCA!"
-  #     link: /portfolio/talks/
-  #   - date: "Sep. 2025"
-  #     title: "Paper Accepted"
-  #     excerpt: "A paper is accepted at Phys. Rev. Res.!"
-  #     link: /portfolio/publications/
-  #   - date: "Mar. 2025"
-  #     title: "Paper Accepted"
-  #     excerpt: "My first paper as a lead author is accepted at ISCA 2025!"
-  #     link: /portfolio/publications/
-  # scheduled: 
-  #   - date: "Dec. 2025"
-  #     title: "Project Terminates"
-  #     excerpt: "A QOC project will be finished!"
-  #     link: /portfolio/projects/
-  #   - date: "Jan. 2026"
-  #     title: "Int'l Conference"
-  #     excerpt: "2 papers will be presented at HPCA 2026!"
-  #     link: /portfolio/publications/
-  #   - date: "Jul. 2061"
-  #     title: "1P/Halley Observation"
-  #     excerpt: "Halley's Comet reaches its perihelion!"
-  #     link: https://en.wikipedia.org/wiki/Halley%27s_Comet
+news: 
+  updates: 
+    - date: "Nov. 2025"
+      title: "Papers Accepted"
+      excerpt: "2 papers are accepted at HPCA 2026!"
+      link: /portfolio/publications/
+    - date: "Oct. 2025"
+      title: "Project Launched"
+      excerpt: "A GPU-SSD project has begun!"
+      link: /portfolio/projects/
+    - date: "Sep. 2025"
+      title: "Invited Talk"
+      excerpt: "Gave a talk about my work at QISCA!"
+      link: /portfolio/talks/
+    - date: "Sep. 2025"
+      title: "Paper Accepted"
+      excerpt: "A paper is accepted at Phys. Rev. Res.!"
+      link: /portfolio/publications/
+    - date: "Mar. 2025"
+      title: "Paper Accepted"
+      excerpt: "My first paper as a lead author is accepted at ISCA 2025!"
+      link: /portfolio/publications/
+  scheduled: 
+    - date: "Dec. 2025"
+      title: "Project Terminates"
+      excerpt: "A QOC project will be finished!"
+      link: /portfolio/projects/
+    - date: "Jan. 2026"
+      title: "Int'l Conference"
+      excerpt: "2 papers will be presented at HPCA 2026!"
+      link: /portfolio/publications/
+    - date: "Jul. 2061"
+      title: "1P/Halley Observation"
+      excerpt: "Halley's Comet reaches its perihelion!"
+      link: https://en.wikipedia.org/wiki/Halley%27s_Comet
 
 title: "THINK"
 excerpt: |
