@@ -341,6 +341,7 @@ defaults:
       related: false
       gendate: true
       pagination: true
+      news: false
 
   # _pages
   - scope:

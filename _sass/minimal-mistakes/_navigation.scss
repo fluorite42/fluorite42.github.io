@@ -575,3 +575,56 @@
     display: none !important;
   }
 }
+
+
+/*
+     News
+     ========================================================================== */
+
+.news {
+  font-family: $sans-serif-narrow;
+  color: $gray;
+  background-color: $background-color;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  -webkit-box-shadow: $box-shadow;
+  box-shadow: $box-shadow;
+
+  .news__header {
+    color: #fff;
+    font-size: $h-size-3;
+    background: $primary-color;
+    border-start-start-radius: $border-radius;
+    border-start-end-radius: $border-radius;
+    text-align: center;
+    font-weight: bold;
+  }
+}
+
+.news__list {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+
+  .news__item-category {
+    display: block;
+    padding: 0.25rem 0.75rem;
+    color: $muted-text-color;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+    text-align: center;
+    font-size: $h-size-6;
+  }
+
+  .news__item-list {
+    display: block;
+    padding: 0.25rem 0.75rem;
+    color: $muted-text-color;
+    font-weight: normal;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+    font-size: $type-size-6;
+  }
+}
