@@ -590,9 +590,6 @@
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
-  overflow-y: auto;
-  max-height: calc(100vh - 7em);
-
   .news__header {
     color: #fff;
     font-size: $h-size-3;
@@ -609,6 +606,9 @@
   padding: 0;
   width: 100%;
   list-style: none;
+
+  overflow-y: auto;
+  max-height: calc(100vh - 10em);  
 
   .news__item-category {
     display: block;
