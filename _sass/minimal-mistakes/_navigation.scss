@@ -590,6 +590,9 @@
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
+  overflow-y: auto;
+  max-height: calc(100vh - 7em);
+
   .news__header {
     color: #fff;
     font-size: $h-size-3;
