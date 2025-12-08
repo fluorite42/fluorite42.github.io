@@ -203,8 +203,8 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
-    <i>Physical Review Research</i>
-    <br>2025
+    <i>Physical Review Research, Vol. 7 Iss. 4</i>
+    <br>05 Dec. 2025
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_aps.png" alt="APS" width="100" height="100"/>
