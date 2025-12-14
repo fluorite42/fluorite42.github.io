@@ -28,10 +28,10 @@ news:
       excerpt: "My first paper as a lead author is accepted at ISCA 2025!"
       link: /portfolio/publications/
   scheduled: 
-    - date: "Dec. 2025"
-      title: "Project Terminates"
-      excerpt: "A QOC project will be finished!"
-      link: /portfolio/projects/
+    - date: "Jan. 2026"
+      title: "Conference Takes Place"
+      excerpt: "A paper will be presented at ICEIC 2026!"
+      link: /portfolio/publications/
     - date: "Jan. 2026"
       title: "Conference Takes Place"
       excerpt: "2 papers will be presented at HPCA 2026!"
