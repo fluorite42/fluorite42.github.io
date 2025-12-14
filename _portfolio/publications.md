@@ -197,7 +197,7 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 
 
-## Journal Articles
+## Journal and Magazine Articles
 
 ### Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
@@ -352,7 +352,7 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>ICEIC '26: The 25th International Conference on Electronics, Information, and Communication</i>
-    <br>Jan. 2026 / Macau SAR, China
+    <br>19 Jan. 2026 / Macau SAR, China
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
