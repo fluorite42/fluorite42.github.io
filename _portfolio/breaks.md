@@ -30,6 +30,7 @@ May 2025, Jun. 2025, Aug. 2025
 
 - Taiwan
     - :taiwan: Taipei
+    - :taiwan: New Taipei
 
 ### Mainland Southeast Asia
 
