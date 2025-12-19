@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Portfolio"
+  - title: "PORTFOLIO"
     url: /portfolio/publications/
   - title: "CV"
     url: /cv/
-  - title: "Blog"
+  - title: "BLOG"
     url: /categories/
-  - title: "Guestbook"
+  - title: "GUESTBOOK"
     url: /guestbook/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
