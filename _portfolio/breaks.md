@@ -71,6 +71,7 @@ Jul. 2023 - Aug. 2023
         - :luxembourg: Luxembourg
         - :belgium: Brussels
         - :netherlands: Amsterdam
+        - :netherlands: Zaandam
     - Italian Peninsula
         - :it: Rome
         - :vatican_city: Vatican City
@@ -82,6 +83,7 @@ Jul. 2023 - Aug. 2023
         - :de: Berlin
         - :austria: Vienna
         - :switzerland: Zurich
+        - :switzerland: Maienfeld
         - :liechtenstein: Vaduz
     - Visegrád Group
         - :czech_republic: Prague
@@ -89,7 +91,9 @@ Jul. 2023 - Aug. 2023
         - :hungary: Budapest
     - Balkans
         - :slovenia: Ljubljana
+        - :slovenia: Bled
         - :croatia: Zagreb
+        - :croatia: Plitvička Jezera
 
 ### Micronesia
 
@@ -126,7 +130,7 @@ Oct. 2013
 
 <div style="display: flex; align-items: center;">
   <div style="width: 70%; padding-right: 10px;">
-    <i>Chuncheon City, Gangwon State, Republic of Korea</i>
+    <i>Chuncheon City, Gangwon Province, Republic of Korea</i>
     <br>Jul. 2020 - Jan. 2022
   </div>
   <div style="width: 15%; padding-right: 10px;">
