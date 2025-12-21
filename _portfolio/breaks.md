@@ -15,93 +15,130 @@ header:
 
 ## Travel/Business Trip
 
-### East Asia
+> **Statistics:** 29 countries or 40 cities.
 
-May 2025, Jun. 2025, Aug. 2025
 
-- SARs of China
-    - :hong_kong: Hong Kong
-    - :macau: Macau
 
-- Japan
-    - :jp: Tokyo
-    - :jp: Asahikawa
-    - :jp: Wakkanai
+<style>
+  th {
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 2px solid #b5b5b5;
+  }
 
-- Taiwan
-    - :taiwan: Taipei
-    - :taiwan: New Taipei
+  td {
+    border-bottom: 1px solid #aaa;
+    vertical-align: center;
+    text-align: center;
+  }
 
-### Mainland Southeast Asia
+  td.city {
+    text-align: left;
+  }
+</style>
 
-Jan. 2025
-
-- Indosphere
-    - :thailand: Bangkok
-    - :laos: Luang Prabang
-    - :cambodia: Siem Reap
-
-- Sinosphere
-    - :vietnam: Hanoi
-
-### Maritime Southeast Asia
-
-Aug. 2024
-
-- Malay Archipelago
-    - :indonesia: Jakarta
-    - :indonesia: Yogyakarta
-
-- Malay Peninsula
-    - :malaysia: Kuala Lumpur
-    - :malaysia: Putrajaya
-    - :singapore: Singapore
-
-### Europe
-
-Jul. 2023 - Aug. 2023
-
-- Western Europe
-    - British Isles
-        - :gb: London
-    - Gaul
-        - :fr: Paris
-        - :fr: Nice
-        - :monaco: Monaco
-    - Benelux
-        - :luxembourg: Luxembourg
-        - :belgium: Brussels
-        - :netherlands: Amsterdam
-        - :netherlands: Zaandam
-    - Italian Peninsula
-        - :it: Rome
-        - :vatican_city: Vatican City
-    - Iberian Peninsula
-        - :es: Barcelona
-
-- Central Europe
-    - DACH
-        - :de: Berlin
-        - :austria: Vienna
-        - :switzerland: Zurich
-        - :switzerland: Maienfeld
-        - :liechtenstein: Vaduz
-    - Visegrád Group
-        - :czech_republic: Prague
-        - :slovakia: Bratislava
-        - :hungary: Budapest
-    - Balkans
-        - :slovenia: Ljubljana
-        - :slovenia: Bled
-        - :croatia: Zagreb
-        - :croatia: Plitvička Jezera
-
-### Micronesia
-
-Oct. 2013
-
-- Northern Mariana Islands
-    - :northern_mariana_islands: Saipan
+<table>
+  <thead>
+    <tr>
+      <th>Continent</th>
+      <th>Region</th>
+      <th>Subregion</th>
+      <th>Detailed Division</th>
+      <th>City</th>
+      <th>Visited</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="8">Asia</td>
+      <td rowspan="4">East</td>
+      <td rowspan="2">Greater<br>China</td>
+      <td>SARs of China</td>
+      <td class="city">:hong_kong: Hong Kong<br>:macau: Macau</td>
+      <td>May 2025</td>
+    </tr>
+    <tr>
+      <td>Formosa</td>
+      <td class="city">:taiwan: Taipei<br>:taiwan: New Taipei</td>
+      <td>Aug. 2025</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Japanese<br>Archipelago</td>
+      <td>Kantō</td>
+      <td class="city">:jp: Tokyo</td>
+      <td rowspan="2">Jun. 2025</td>
+    </tr>
+    <tr>
+      <td>Hokkaido</td>
+      <td class="city">:jp: Asahikawa<br>:jp: Wakkanai</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Southeast</td>
+      <td rowspan="2">Mainland</td>
+      <td>Indosphere</td>
+      <td class="city">:thailand: Bangkok<br>:laos: Luang Prabang<br>:cambodia: Siem Reap</td>
+      <td rowspan="2">Jan. 2025</td>
+    </tr>
+    <tr>
+      <td>Sinosphere</td>
+      <td class="city">:vietnam: Hanoi</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Maritime</td>
+      <td>Malay<br>Archipelago</td>
+      <td class="city">:indonesia: Jakarta<br>:indonesia: Yogyakarta</td>
+      <td rowspan="2">Aug. 2024</td>
+    </tr>
+    <tr>
+      <td>Malay<br>Peninsula</td>
+      <td class="city">:malaysia: Kuala Lumpur<br>:malaysia: Putrajaya<br>:singapore: Singapore</td>
+    </tr>
+    <tr>
+      <td rowspan="8">Europe</td>
+      <td rowspan="3">Western</td>
+      <td colspan="2">British Isles</td>
+      <td class="city">:gb: London</td>
+      <td rowspan="8">Jul. 2023<br>–<br>Aug. 2023</td>
+    </tr>
+    <tr>
+      <td colspan="2">Gaul</td>
+      <td class="city">:fr: Paris<br>:fr: Nice<br>:monaco: Monaco</td>
+    </tr>
+    <tr>
+      <td colspan="2">Benelux</td>
+      <td class="city">:luxembourg: Luxembourg<br>:belgium: Brussels<br>:netherlands: Amsterdam<br>:netherlands: Zaandam</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Central</td>
+      <td colspan="2">DACH</td>
+      <td class="city">:de: Berlin<br>:austria: Vienna<br>:switzerland: Zurich<br>:switzerland: Maienfeld<br>:liechtenstein: Vaduz</td>
+    </tr>
+    <tr>
+      <td colspan="2">Visegrád Group</td>
+      <td class="city">:czech_republic: Prague<br>:slovakia: Bratislava<br>:hungary: Budapest</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Southern</td>
+      <td colspan="2">Balkans</td>
+      <td class="city">:slovenia: Ljubljana<br>:slovenia: Bled<br>:croatia: Zagreb<br>:croatia: Plitvička Jezera</td>
+    </tr>
+    <tr>
+      <td colspan="2">Italian Peninsula</td>
+      <td class="city">:it: Rome<br>:vatican_city: Vatican City</td>
+    </tr>
+    <tr>
+      <td colspan="2">Iberian Peninsula</td>
+      <td class="city">:es: Barcelona</td>
+    </tr>
+    <tr>
+      <td>Oceania</td>
+      <td>Micronesia</td>
+      <td colspan="2">Mariana Islands</td>
+      <td class="city">:northern_mariana_islands: Saipan</td>
+      <td>Oct. 2013</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
