@@ -55,11 +55,10 @@ header:
 
 ### Review Support
 
-*The 52nd International Symposium on Computer Architecture (ISCA '25)*
-<br>Jan. 2025
-
 *The 53rd International Symposium on Computer Architecture (ISCA '26)*
+*The 52nd International Symposium on Computer Architecture (ISCA '25)*
 <br>Jan. 2026
+<br>Jan. 2025
 
 - Reviewed papers on the topic of quantum computing.
 - Provided feedback on the paper's methodology and results.

@@ -20,7 +20,7 @@ header:
 *Yonsei University School of Electrical and Electronic Engineering*
 <br>Jan. 2026
 
-- Awarded Paper
+- Awarded Paper:
   - **H. Kim**, E. Jang, S. Choi, Y. Kim, and W. W. Ro. "QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization," *Proceedings of the 52nd Annual International Symposium on Computer Architecture (ISCA '25)*, Tokyo, Japan, 2025, pp. 1568–1582.
 
 
