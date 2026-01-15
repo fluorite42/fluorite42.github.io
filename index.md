@@ -3,14 +3,14 @@ layout: home
 author_profile: true
 news: 
   updates: 
+    - date: "Jan. 2026"
+      title: "Won an Award"
+      excerpt: "My paper won an academic paper award!"
+      link: /portfolio/awards/
     - date: "Nov. 2025"
       title: "Papers Accepted"
       excerpt: "2 papers are accepted at HPCA 2026!"
       link: /portfolio/publications/
-    - date: "Oct. 2025"
-      title: "Project Launched"
-      excerpt: "A GPU-SSD project has begun!"
-      link: /portfolio/projects/
     - date: "Sep. 2025"
       title: "Invited Talk"
       excerpt: "Gave a talk about my work at QISCA!"
@@ -32,7 +32,7 @@ news:
       title: "Conference Takes Place"
       excerpt: "A paper will be presented at ICEIC 2026!"
       link: /portfolio/publications/
-    - date: "Jan. 2026"
+    - date: "Feb. 2026"
       title: "Conference Takes Place"
       excerpt: "2 papers will be presented at HPCA 2026!"
       link: /portfolio/publications/
