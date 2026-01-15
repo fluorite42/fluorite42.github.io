@@ -18,7 +18,7 @@ header:
 ### Merit Academic Paper Award
 
 *Yonsei University Graduate School*
-<br>12 Jan. 2026
+<br>Jan. 2026
 
 - Awarded Paper:
   - **H. Kim**, E. Jang, S. Choi, Y. Kim, and W. W. Ro. "QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization," *Proceedings of the 52nd Annual International Symposium on Computer Architecture (ISCA '25)*, Tokyo, Japan, 2025, pp. 1568–1582. <a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
@@ -28,7 +28,7 @@ header:
 ### Student-Designed Major Competition
 
 *Yonsei University Office of Academic Affairs*
-<br>11 Dec. 2024
+<br>Nov. 2024
 
 - Designed Major: BSc in Quantum Information Engineering
 - Majors Combined: Electrical and Electronic Engineering, Physics, and Mathematics
@@ -49,7 +49,7 @@ header:
 ### ~~Yonsei University Student ID Card Design Contest~~
 
 *The 57th Yonsei University General Student Council &lt;Yours&gt;*
-<br>Sep. 2024
+<br>Oct. 2024
 
 - Title: 140 Years of Soaring
 - Designed Using Adobe Illustrator
@@ -69,7 +69,7 @@ header:
 ### Micro-Learning Video Contest
 
 *Yonsei Digital Experience Center (Y-DEC)*
-<br>28 Feb. 2023
+<br>Feb. 2023
 
 - Title: Software Operating Fundamentals of Quantum Computing
 - Created Using Adobe After Effects and Adobe Illustrator.
@@ -96,6 +96,6 @@ header:
 ### Academic Honors
 
 *Yonsei University*
-<br>31 Aug. 2022, 26 Feb. 2024
+<br>Aug. 2022, Feb. 2024
 
 - Spring Semester of 2022 and Fall Semester of 2023.

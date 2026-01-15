@@ -34,7 +34,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Yonsei University</i>
-    <br>27 May 2025
+    <br>May 2025
     <ul>
         <li>Received a non-renewable scholarship of KRW 1,500,000 (~ USD 1,100).</li>
     </ul>
@@ -53,7 +53,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Yonsei University</i>
-    <br>24 Feb. 2023
+    <br>Feb. 2023
     <ul>
         <li>Received a non-renewable scholarship of KRW 500,000 (~ USD 380).</li>
     </ul>
