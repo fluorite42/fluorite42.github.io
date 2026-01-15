@@ -209,6 +209,53 @@ header:
 
 <!-- ------------------------------------ -->
 
+<a class="btn" onclick="toggleContent(this)">
+    <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
+    5. <sup>MSc</sup>Quantum Data Science
+</a>
+
+<div class="description" style="display: none;">
+
+<h6>Course Objective</h6>
+<ul>
+  <li>Understand the fundamentals of quantum computing and why it can outperform classical computing for certain hard problems.</li>
+  <li>Learn core quantum algorithms and quantum machine learning techniques relevant to modern data science tasks.</li>
+  <li>Build enough theoretical background to apply quantum computing principles to real-world big data and computational challenges.</li>
+</ul>
+
+<h6>Textbook</h6>
+<ol>
+  <li>
+    An Introduction to Quantum Computing (Oxford University Press) by Phillip Kaye, Raymond Laflamme, and Michele Mosca
+    <a href="https://a.co/d/aYs6ZFv" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+  <li>
+    Quantum Computation and Quantum Information (Cambridge University Press) by Michael A. Nielsen and Isaac L. Chuang
+    <a href="https://a.co/d/80877IQ" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+  <li>
+    Machine Learning with Quantum Computers (Springer) by Maria Schuld and Francesco Petruccione
+    <a href="https://a.co/d/8PyTwqB" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+</ol>
+
+<h6>Project (in groups of 3)</h6>
+<ul>
+  <li>
+    Propose an original research idea that applies quantum computing techniques to a problem relevant to your domain expertise (e.g., data science, machine learning, AI, optimization, etc).
+  </li>
+</ul>
+
+</div>
+
+<!-- ------------------------------------ -->
+
 ### Computer Architecture
 
 <a class="btn" onclick="toggleContent(this)">
@@ -265,10 +312,10 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1-1</strong>: Implementing a simple combinational circuit using on Quartus II.</li>
-  <li><strong>Project 1-2</strong>: Designing an 8-bit arithmetic logic unit (ALU).</li>
-  <li><strong>Project 2</strong>: Designing a 64-bit single-cycle RISC-V microprocessor.</li>
-  <li><strong>Project 3</strong>: Designing a 64-bit pipelined RISC-V microprocessor.</li>
+  <li><strong>Project 1-1</strong>: Implement a simple combinational circuit using on Quartus II.</li>
+  <li><strong>Project 1-2</strong>: Design an 8-bit arithmetic logic unit (ALU).</li>
+  <li><strong>Project 2</strong>: Design a 64-bit single-cycle RISC-V microprocessor.</li>
+  <li><strong>Project 3</strong>: Design a 64-bit pipelined RISC-V microprocessor.</li>
 </ul>
 
 <img src="/assets/images/coursework_ca.png" alt="Project 3" style="width: 80%; display: block; margin: 0 auto;">
@@ -304,8 +351,8 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Investigating behaviors and analysing packets of HTTP, TCP, and UDP protocols using Wireshark.</li>
-  <li><strong>Project 2</strong>: Investigating behaviors and analysing packets of IPv4, Ethernet, and 802.11 Wi-Fi protocols using Wireshark.</li>
+  <li><strong>Project 1</strong>: Investigate behaviors and analysing packets of HTTP, TCP, and UDP protocols using Wireshark.</li>
+  <li><strong>Project 2</strong>: Investigate behaviors and analysing packets of IPv4, Ethernet, and 802.11 Wi-Fi protocols using Wireshark.</li>
 </ul>
 
 </div>
@@ -338,12 +385,12 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Assignment 1</strong>: Implementing a simple shell in xv6-riscv.</li>
-  <li><strong>Assignment 2</strong>: Adding a new system call to xv6-riscv that probes processes and prints out their information, including process ID, execution state, runtime, and program name.</li>
-  <li><strong>Assignment 3</strong>: Replacing the round-robin process scheduler of xv6-riscv with a fair-share scheduling algorithm.</li>
-  <li><strong>Assignment 4</strong>: Replacing the next-fit free list management scheme of xv6-riscv's malloc library with the best-fit policy.</li>
-  <li><strong>Assignment 5</strong>: Modifying the paging scheme of xv6-riscv to allocate physical frames belatedly on their first write access, referred to as copy-on-write.</li>
-  <li><strong>Assignment 6</strong>: Implementing multi-threading features in xv6-riscv.</li>
+  <li><strong>Assignment 1</strong>: Implement a simple shell in xv6-riscv.</li>
+  <li><strong>Assignment 2</strong>: Add a new system call to xv6-riscv that probes processes and prints out their information, including process ID, execution state, runtime, and program name.</li>
+  <li><strong>Assignment 3</strong>: Replace the round-robin process scheduler of xv6-riscv with a fair-share scheduling algorithm.</li>
+  <li><strong>Assignment 4</strong>: Replace the next-fit free list management scheme of xv6-riscv's malloc library with the best-fit policy.</li>
+  <li><strong>Assignment 5</strong>: Modify the paging scheme of xv6-riscv to allocate physical frames belatedly on their first write access, referred to as copy-on-write.</li>
+  <li><strong>Assignment 6</strong>: Implement multi-threading features in xv6-riscv.</li>
 </ul>
 
 </div>
@@ -367,7 +414,7 @@ header:
 <h6>Project (in groups of 2)</h6>
 <ul>
   <li>
-    Designing garbage collection and wear-leveling algorithm of block associative sector translation (BAST) flash translation layer (FTL) for an SSD.
+    Design garbage collection and wear-leveling algorithm of block associative sector translation (BAST) flash translation layer (FTL) for an SSD.
   </li>
   <li>
     Team Member: 
@@ -419,12 +466,12 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Assignment 1</strong>: Implementing a simple filter on 1D array using Pthread.</li>
-  <li><strong>Assignment 2</strong>: Implementing a hash table using open addressing method using Pthread.</li>
-  <li><strong>Assignment 3</strong>: Implementing a matrix multiplication kernel using OpenMP.</li>
-  <li><strong>Assignment 4</strong>: Implementing a matrix multiplication kernel using CUDA.</li>
-  <li><strong>Assignment 5</strong>: Implementing 7 versions of sum reduction kernels using CUDA.</li>
-  <li><strong>Assignment 6</strong>: Implementing the VGG16 DNN model using CUDA.</li>
+  <li><strong>Assignment 1</strong>: Implement a simple filter on 1D array using Pthread.</li>
+  <li><strong>Assignment 2</strong>: Implement a hash table using open addressing method using Pthread.</li>
+  <li><strong>Assignment 3</strong>: Implement a matrix multiplication kernel using OpenMP.</li>
+  <li><strong>Assignment 4</strong>: Implement a matrix multiplication kernel using CUDA.</li>
+  <li><strong>Assignment 5</strong>: Implement 7 versions of sum reduction kernels using CUDA.</li>
+  <li><strong>Assignment 6</strong>: Implement the VGG16 DNN model using CUDA.</li>
 </ul>
 
 </div>
@@ -459,8 +506,8 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Performing a linear regression for classification using the dataset <code>from sklearn.datasets import load_iris</code>.</li>
-  <li><strong>Project 2</strong>: Training a decision tree regressor using the dataset <code>from sklearn.datasets import fetch_california_housing</code>.</li>
+  <li><strong>Project 1</strong>: Perform a linear regression for classification using the dataset <code>from sklearn.datasets import load_iris</code>.</li>
+  <li><strong>Project 2</strong>: Train a decision tree regressor using the dataset <code>from sklearn.datasets import fetch_california_housing</code>.</li>
 </ul>
 
 </div>
@@ -493,10 +540,10 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Implementing a program that solves the value function of a simple gridworld problem by matrix inversion.</li>
-  <li><strong>Project 2</strong>: Implementing the DP algorithm to solve a gridworld problem.</li>
-  <li><strong>Project 3</strong>: Implementing the Monte Carlo Control On Policy Simulation to solve a gridworld problem.</li>
-  <li><strong>Project 4</strong>: Implementing the Q-learning Simulation to solve a gridworld problem.</li>
+  <li><strong>Project 1</strong>: Implement a program that solves the value function of a simple gridworld problem by matrix inversion.</li>
+  <li><strong>Project 2</strong>: Implement the DP algorithm to solve a gridworld problem.</li>
+  <li><strong>Project 3</strong>: Implement the Monte Carlo Control On Policy Simulation to solve a gridworld problem.</li>
+  <li><strong>Project 4</strong>: Implement the Q-learning Simulation to solve a gridworld problem.</li>
 </ul>
 
 <img src="/assets/images/coursework_ic.png" alt="Gridworld" style="width: 50%; display: block; margin: 0 auto;">
@@ -542,8 +589,8 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Performing classification using the linear regression model and reduced multivariate (RM) model and comparing the accuracies using the experimental data of Gaussian distribution.</li>
-  <li><strong>Project 2</strong>: Performing a 5-fold cross validation test for the 3 data sets which are Mushroom, Iris, and Optical Recognition of Handwritten Digits, using the following algorithms: 3-layer multi-layer perceptron (MLP) at different hidden node sizes, support vector machine (SVM) using different kernels, and RM Model for orders 1 to 5.</li>
+  <li><strong>Project 1</strong>: Perform classification using the linear regression model and reduced multivariate (RM) model and comparing the accuracies using the experimental data of Gaussian distribution.</li>
+  <li><strong>Project 2</strong>: Perform a 5-fold cross validation test for the 3 data sets which are Mushroom, Iris, and Optical Recognition of Handwritten Digits, using the following algorithms: 3-layer multi-layer perceptron (MLP) at different hidden node sizes, support vector machine (SVM) using different kernels, and RM Model for orders 1 to 5.</li>
 </ul>
 
 <img src="/assets/images/coursework_pr.png" alt="Project 1" style="width: 60%; display: block; margin: 0 auto;">
@@ -583,7 +630,7 @@ header:
 <h6>Project (in groups of 2)</h6>
 <ul>
   <li>
-    Implementing a household account book program with the following functions:
+    Implement a household account book program with the following functions:
     print the contents of all entries, add a new entry, delete or modify an entry,
     find some item from entry, calculate the current balance, display verbal histogram,
     sort entries, display the sum of card and cash, write the contents to <code>account_book_new.txt</code> file, and quit.
@@ -642,7 +689,7 @@ header:
 <h6>Projects</h6>
 <ul>
   <li>
-    Implementing a simple running game on a XILINX PYNQ-Z2 board.
+    Implement a simple running game on a XILINX PYNQ-Z2 board.
     <ol>
       <li>
         Characters: 
@@ -716,7 +763,7 @@ header:
 <h6>Project (in groups of 2)</h6>
 <ul>
   <li>
-    Designing a 6-bit decoder and digitally controlled delay line (DCDL) using combinational circuit.
+    Design a 6-bit decoder and digitally controlled delay line (DCDL) using combinational circuit.
     <ol>
       <li>Pre-/main- decoder structural analysis and design considering metal resistance and capacitance.</li>
       <li>DCDL structural analysis and design considering uniform step-delay.</li>
@@ -758,7 +805,7 @@ header:
 
 <h6>Project (in groups of 3)</h6>
 <ul>
-  <li>Designing, verifying, and synthesising a modified advanced encryption standard (AES) 128 decryptor.</li>
+  <li>Design, verify, and synthesize a modified advanced encryption standard (AES) 128 decryptor.</li>
 </ul>
 
 <h6>References</h6>
@@ -911,11 +958,11 @@ header:
 <h6>Projects</h6>
 <ul>
   <li>
-    Designing a two stage amplifier based on bipolar junction transistors (BJTs).
+    Design a two stage amplifier based on bipolar junction transistors (BJTs).
     <ol>
-      <li>Finding the parameters and small signal model of BJTs.</li>
-      <li>Designing a common emitter amplifier with a voltage gain higher than 45 dB.</li>
-      <li>Designing an amplifier to drive a low impedance load.</li>
+      <li>Find the parameters and small signal model of BJTs.</li>
+      <li>Design a common emitter amplifier with a voltage gain higher than 45 dB.</li>
+      <li>Design an amplifier to drive a low impedance load.</li>
     </ol>
   </li>
 </ul>
@@ -952,11 +999,11 @@ header:
 <h6>Projects</h6>
 <ul>
   <li>
-    Designing electrocardiogram (ECG) readout circuit.
+    Design electrocardiogram (ECG) readout circuit.
     <ol>
-      <li>Designing ECG readout circuit using instrumentation amplifier (IA), notch filter, low-pass filter, and high-pass filter.</li>
-      <li>Verifying the design through PSpice simulation.</li>
-      <li>Implementing the design with breadboards and measuring ECG signals.</li>
+      <li>Design ECG readout circuit using instrumentation amplifier (IA), notch filter, low-pass filter, and high-pass filter.</li>
+      <li>Verify the design through PSpice simulation.</li>
+      <li>Implement the design with breadboards and measuring ECG signals.</li>
     </ol>
   </li>
 </ul>
@@ -1010,12 +1057,12 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Plotting continuous-time, discrete-time, and Fourier transformed signals.</li>
-  <li><strong>Project 2</strong>: Verifying the Paley Wiener theory, properties of Fourier transform, and the Nyquist-Shannon sampling theorem.</li>
+  <li><strong>Project 1</strong>: Plot continuous-time, discrete-time, and Fourier transformed signals.</li>
+  <li><strong>Project 2</strong>: Verify the Paley Wiener theory, properties of Fourier transform, and the Nyquist-Shannon sampling theorem.</li>
   <li><strong>Project 3</strong>:
     <ol>
-      <li>Restoring the music signal* sampled at 4000 Hz to the original signal using a low-pass filter (LPF).</li>
-      <li>Removing noise from a music signal** using an LPF.</li>
+      <li>Restore the music signal* sampled at 4000 Hz to the original signal using a low-pass filter (LPF).</li>
+      <li>Remove noise from a music signal** using an LPF.</li>
     </ol>
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;*What is Love? (2018) by TWICE
@@ -1028,7 +1075,7 @@ header:
       </a>
     </p>
   </li>
-  <li><strong>Project 4</strong>: Verifying Fourier transform, Laplace transform, and z-transform on different examples.</li>
+  <li><strong>Project 4</strong>: Verify Fourier transform, Laplace transform, and z-transform on different examples.</li>
 </ul>
 
 <div style="display: flex;">
@@ -1233,12 +1280,12 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Coding 1</strong>: Solving a consumer's utility maximization problem.</li>
-  <li><strong>Coding 2</strong>: Solving a dynamic stochastic general equilibrium model. Implementing value function iteration, policy function iteration, and endogenous grid method.</li>
-  <li><strong>Coding 3</strong>: Solving an income fluctuation problem where assets are stochastic and denoted as a finite Markov matrix.</li>
-  <li><strong>Coding 4</strong>: Simulating a lake model of labor markets.</li>
-  <li><strong>Coding 5</strong>: Solving a McCall model with separation and stochastic offers.</li>
-  <li><strong>Coding 6</strong>: Solving a Lucas tree model of asset pricing with Tauchen's method.</li>
+  <li><strong>Coding 1</strong>: Solve a consumer's utility maximization problem.</li>
+  <li><strong>Coding 2</strong>: Solve a dynamic stochastic general equilibrium model. Implement value function iteration, policy function iteration, and endogenous grid method.</li>
+  <li><strong>Coding 3</strong>: Solve an income fluctuation problem where assets are stochastic and denoted as a finite Markov matrix.</li>
+  <li><strong>Coding 4</strong>: Simulate a lake model of labor markets.</li>
+  <li><strong>Coding 5</strong>: Solve a McCall model with separation and stochastic offers.</li>
+  <li><strong>Coding 6</strong>: Solve a Lucas tree model of asset pricing with Tauchen's method.</li>
 </ul>
 
 <h6>References</h6>
@@ -1359,9 +1406,9 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Coding 1</strong>: Analyzing demographic data and financial data.</li>
-  <li><strong>Coding 2</strong>: Dynamics of population distribution by age. Finding equilibria of competitive markets.</li>
-  <li><strong>Coding 3</strong>: Simulating Friedman-Hall consumption smoothing model and present value model of asset pricing theory. Finding general equilibrium of an economic model with nonlinear demands and supplies using Newton's method.</li>
+  <li><strong>Coding 1</strong>: Analyze demographic data and financial data.</li>
+  <li><strong>Coding 2</strong>: Dynamics of population distribution by age. Find equilibria of competitive markets.</li>
+  <li><strong>Coding 3</strong>: Simulate Friedman-Hall consumption smoothing model and present value model of asset pricing theory. Find general equilibrium of an economic model with nonlinear demands and supplies using Newton's method.</li>
 </ul>
 
 </div>
