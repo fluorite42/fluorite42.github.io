@@ -20,7 +20,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
-    <br>02 Jan. 2026 / Sydney, NSW, Australia
+    <br>02 Feb. 2026 / Sydney, NSW, Australia
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
@@ -56,7 +56,7 @@ Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
-    <br>02 Jan. 2026 / Sydney, NSW, Australia
+    <br>02 Feb. 2026 / Sydney, NSW, Australia
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
