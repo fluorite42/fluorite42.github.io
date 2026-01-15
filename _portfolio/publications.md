@@ -20,7 +20,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
-    <br>Jan. 2026 / Sydney, NSW, Australia
+    <br>02 Jan. 2026 / Sydney, NSW, Australia
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
@@ -56,7 +56,7 @@ Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
-    <br>Jan. 2026 / Sydney, NSW, Australia
+    <br>02 Jan. 2026 / Sydney, NSW, Australia
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
@@ -417,6 +417,40 @@ Changheon Lee<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 
 
 ## Preprints
+
+### Plutarch: Toward Scalable Operational Parallelism on Racetrack-Shaped Trapped-Ion Processors <a href="https://doi.org/10.48550/arXiv.2601.08930" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>arXiv preprint</i>
+    <br>13 Jan. 2026
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_arxiv.png" alt="arXiv" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</sup>, Jaewon Kwon<sup>1</sup>, Yipeng Huang<sup>2</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Rutgers University, New Jersey, USA
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  A recent advancement in quantum computing shows a quantum advantage of certified randomness on the racetrack processor. 
+  This work investigates the execution efficiency of this architecture for general-purpose programs. 
+  We first explore the impact of increasing zones on runtime efficiency. 
+  Counterintuitively, our evaluations using variational programs reveal that expanding zones may degrade runtime performance under the existing scheduling policy. 
+  This degradation may be attributed to the increase in track length, which increases ion circulation overhead, offsetting the benefits of enhanced parallelism. 
+  To mitigate this, the proposed <i>Plutarch</i> exploits 3 strategies: (i) unitary decomposition and translation to maximize zone utilization, (ii) prioritizing the execution of nearby gates over ion circulation, and (iii) implementing shortcuts to provide the alternative path.
+</div>
+
+
 
 ### Mantra: Rewriting Quantum Programs to Minimize Trap-Movements for Zoned Rydberg Atom Arrays <a href="https://doi.org/10.48550/arXiv.2503.02272" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
