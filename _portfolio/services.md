@@ -79,7 +79,7 @@ header:
 ### Session Support
 
 *The 58th IEEE/ACM International Symposium on Microarchitecture (MICRO '25)*
-<br>Oct. 2025
+<br>21 Oct. 2025
 
 - Assisted with the running of three sessions.
   - Session 5B: Microarchitecture - Prefetching 2

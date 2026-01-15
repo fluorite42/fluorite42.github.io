@@ -20,7 +20,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Adobe Inc.</i>
-    <br>Jan. 2024 - Jan. 2027
+    <br>26 Jan. 2024 - 26 Jan. 2027
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_adobe.png" alt="Adobe" width="100" height="100"/>
@@ -37,7 +37,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Korea Chamber of Commerce and Industry</i>
-    <br>May 2020
+    <br>15 May 2020
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_kcci.jfif" alt="Korea Chamber of Commerce and Industry" width="100" height="100"/>
@@ -57,7 +57,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>National Institute of Korean History</i>
-    <br>Feb. 2022
+    <br>25 Feb. 2022
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_history.jpg" alt="National Institute of Korean History" width="100" height="100"/>
