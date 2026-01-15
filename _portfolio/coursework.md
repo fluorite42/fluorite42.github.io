@@ -250,9 +250,7 @@ header:
   <li>
     Propose an original research idea that applies quantum computing techniques to a problem relevant to your domain expertise (e.g., data science, machine learning, AI, optimization, etc).
   </li>
-  <ul>
-    <li><strong>Title</strong>: QAOA-based Qubit Assignment for Distributed Quantum Computing</li>
-  </ul>
+  <li><strong>Title</strong>: QAOA-based Qubit Assignment for Distributed Quantum Computing</li>
 </ul>
 
 <h6>References</h6>
