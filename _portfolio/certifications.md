@@ -75,7 +75,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>The Duke of Edinburgh's International Award Foundation,<br>Ministry of Gender Equality and Family</i>
-    <br>Dec. 2015
+    <br>30 Dec. 2015
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_duke.jpg" alt="The Duke of Edinburgh's International Award Foundation" width="100" height="100"/>
