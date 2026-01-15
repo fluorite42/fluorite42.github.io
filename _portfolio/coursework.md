@@ -256,7 +256,7 @@ header:
 <h6>References</h6>
 <ol>
   <li>
-    Bandic, M., <em>et al.</em> Mapping quantum circuits to modular architectures with QUBO.
+    Bandic, M. <em>et al.</em> Mapping quantum circuits to modular architectures with QUBO.
     <em>2023 IEEE International Conference on Quantum Computing and Engineering (QCE).</em> Vol. 1. IEEE, 2023.
     <a href="https://doi.org/10.1109/QCE57702.2023.00094" target="_blank">
       <i class="fa fa-book" title="Reference"></i>
@@ -510,6 +510,22 @@ header:
     Modern Compiler Implementation in C (Cambridge University Press) by Andrew W. Appel
     <a href="https://a.co/d/h9k825K" target="_blank">
       <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+</ol>
+
+<h6>Paper Presentation</h6>
+<ul>
+  <li><strong>Title</strong>: EnerJ: Approximate Data Types for Safe and General Low-Power Computation</li>
+</ul>
+
+<h6>References</h6>
+<ol>
+  <li>
+    A. Sampson, W. Dietl, E. Fortuna, D. Gnanapragasam, L. Ceze, and D. Grossman. EnerJ: Approximate data types for safe and general low-power computation.
+    <em>Proc. of the ’11 Conference on Programming Language Design and Implementation (PLDI '11)</em>.
+    <a href="https://doi.org/10.1145/1993316.1993518" target="_blank">
+      <i class="fa fa-book" title="Reference"></i>
     </a>
   </li>
 </ol>
