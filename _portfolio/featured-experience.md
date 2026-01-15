@@ -56,7 +56,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Waseda University Residence Life Center,<br>Yonsei University Residential College (RC)</i>
-    <br>Sep. 2019
+    <br>16 Sep. 2019
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_waseda.png" alt="Waseda University" width="100" height="100"/>
