@@ -351,8 +351,8 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Investigate behaviors and analysing packets of HTTP, TCP, and UDP protocols using Wireshark.</li>
-  <li><strong>Project 2</strong>: Investigate behaviors and analysing packets of IPv4, Ethernet, and 802.11 Wi-Fi protocols using Wireshark.</li>
+  <li><strong>Project 1</strong>: Investigate behaviors and analyze packets of HTTP, TCP, and UDP protocols using Wireshark.</li>
+  <li><strong>Project 2</strong>: Investigate behaviors and analyze packets of IPv4, Ethernet, and 802.11 Wi-Fi protocols using Wireshark.</li>
 </ul>
 
 </div>
@@ -589,7 +589,7 @@ header:
 
 <h6>Projects</h6>
 <ul>
-  <li><strong>Project 1</strong>: Perform classification using the linear regression model and reduced multivariate (RM) model and comparing the accuracies using the experimental data of Gaussian distribution.</li>
+  <li><strong>Project 1</strong>: Perform classification using the linear regression model and reduced multivariate (RM) model and compare the accuracies using the experimental data of Gaussian distribution.</li>
   <li><strong>Project 2</strong>: Perform a 5-fold cross validation test for the 3 data sets which are Mushroom, Iris, and Optical Recognition of Handwritten Digits, using the following algorithms: 3-layer multi-layer perceptron (MLP) at different hidden node sizes, support vector machine (SVM) using different kernels, and RM Model for orders 1 to 5.</li>
 </ul>
 
