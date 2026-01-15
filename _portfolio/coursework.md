@@ -250,7 +250,21 @@ header:
   <li>
     Propose an original research idea that applies quantum computing techniques to a problem relevant to your domain expertise (e.g., data science, machine learning, AI, optimization, etc).
   </li>
+  <ul>
+    <li><strong>Title</strong>: QAOA-based Qubit Assignment for Distributed Quantum Computing</li>
+  </ul>
 </ul>
+
+<h6>References</h6>
+<ol>
+  <li>
+    Bandic, M., <em>et al.</em> Mapping quantum circuits to modular architectures with QUBO.
+    <em>2023 IEEE International Conference on Quantum Computing and Engineering (QCE).</em> Vol. 1. IEEE, 2023.
+    <a href="https://doi.org/10.1109/QCE57702.2023.00094" target="_blank">
+      <i class="fa fa-book" title="Reference"></i>
+    </a>
+  </li>
+</ol>
 
 </div>
 
