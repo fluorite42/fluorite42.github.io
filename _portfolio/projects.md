@@ -23,7 +23,7 @@ header:
         National Research Foundation of Korea (NRF),<br>
         Yonsei University Office of Research Affairs and University-Industry Foundation (UIF)
     </i>
-    <br>Jan. 2025 - Dec. 2025
+    <br>01 Jan. 2025 - 31 Dec. 2025
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_nrf.png" alt="NRF" width="100" height="100"/>
@@ -46,7 +46,7 @@ Won Woo Ro<sup>1</sup>*, Enhyeok Jang<sup>1</sup>, Seungwoo Choi<sup>1</sup>, Ch
         Hyundai NGV,<br>
         Embedded Systems and Computer Architecture Lab (eSCaL)
     </i>
-    <br>Jun. 2024 - Oct. 2024
+    <br>01 Jul. 2024 - 31 Oct. 2024
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_hyundai.png" alt="Hyundai Motor Group" width="100" height="100"/>
@@ -71,7 +71,7 @@ Jinyoung Lee<sup>1</sup>*, Won Woo Ro<sup>2</sup>**, Enhyeok Jang<sup>2</sup>***
         Samsung Electronics DS Division,<br>
         Embedded Systems and Computer Architecture Lab (eSCaL)
     </i>
-    <br>Oct. 2025 - Present
+    <br>22 Oct. 2025 - Present
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_samsung.png" alt="Samsung" width="100" height="100"/>
