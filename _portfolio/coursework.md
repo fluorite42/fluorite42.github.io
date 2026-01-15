@@ -490,6 +490,34 @@ header:
 
 <!-- ------------------------------------ -->
 
+<a class="btn" onclick="toggleContent(this)">
+    <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
+    7. <sup>MSc</sup>Compiler Design and Optimization
+</a>
+
+<div class="description" style="display: none;">
+
+<h6>Course Objective</h6>
+<ul>
+  <li>Understand the full design flow of a modern compiler, from lexical/syntactic parsing and semantic analysis to code generation and runtime support.</li>
+  <li>Learn key optimization techniques (control/data-flow analysis, register allocation, loop optimization, instruction scheduling) used to improve program performance.</li>
+  <li>Gain hands-on experience by implementing a complete compiler for a small programming language.</li>
+</ul>
+
+<h6>Textbook</h6>
+<ol>
+  <li>
+    Modern Compiler Implementation in C (Cambridge University Press) by Andrew W. Appel
+    <a href="https://a.co/d/h9k825K" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+</ol>
+
+</div>
+
+<!-- ------------------------------------ -->
+
 ### Machine Learning
 
 <a class="btn" onclick="toggleContent(this)">
