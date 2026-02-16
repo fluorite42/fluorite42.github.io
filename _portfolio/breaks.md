@@ -25,7 +25,7 @@ header:
   - Earliest: New Zealand Daylight Time (NZDT), UTC+13:00 <a href="https://en.wikipedia.org/wiki/Time_in_New_Zealand" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
   - Latest: British Summer Time (BST), UTC+01:00 <a href="https://en.wikipedia.org/wiki/British_Summer_Time" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
-<br>
+
 
 <style>
   th {
@@ -45,7 +45,7 @@ header:
   }
 </style>
 
-<table>
+<table style="padding-top: 20px; padding-bottom: 10px">
   <thead>
     <tr>
       <th>Continent</th>
