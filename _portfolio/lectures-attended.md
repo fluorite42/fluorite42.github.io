@@ -17,6 +17,16 @@ header:
 
 ### Keynotes
 
+*HPCA 2026*
+<br>02, 04 Feb. 2026 / ICC Sydney Pyrmont Theatre
+
+- Compiler 2.0: Building the Next Generation Compilers with Machine Learning
+    - Lecturer: Saman Amarasinghe (Electrical Engineering and Computer Science Professor at MIT) <a href="https://people.csail.mit.edu/saman/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Saman_Amarasinghe" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+- Architecting Resilience at Scale: From Research to Practice
+    - Lecturer: Sudhanva Gurumurthi (Computer Architect and Fellow at AMD) <a href="https://www.gsudhanva.com" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
+### Keynotes
+
 *MICRO 2025*
 <br>20, 21 Oct. 2025 / Lotte Hotel Seoul 2F
 
