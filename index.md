@@ -28,14 +28,6 @@ news:
       excerpt: "My first paper as a lead author is accepted at ISCA 2025!"
       link: /portfolio/publications/
   scheduled: 
-    - date: "Jan. 2026"
-      title: "Conference Takes Place"
-      excerpt: "A paper will be presented at ICEIC 2026!"
-      link: /portfolio/publications/
-    - date: "Feb. 2026"
-      title: "Conference Takes Place"
-      excerpt: "2 papers will be presented at HPCA 2026!"
-      link: /portfolio/publications/
     - date: "Jul. 2061"
       title: "1P/Halley Observation"
       excerpt: "Halley's Comet reaches its perihelion!"
@@ -79,7 +71,7 @@ header:
       Graduate Researcher <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     </h2>
     <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b>
-    <br>Mar. 2025 - Present
+    <br>01 Mar. 2025 - Present
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_escal.png" alt="eSCaL" width="100" height="100"/>
@@ -96,7 +88,7 @@ header:
       Undergraduate Researcher <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     </h2>
     <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b>
-    <br>Jun. 2024 - Feb. 2025
+    <br>10 Jun. 2024 - 28 Feb. 2025
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_escal.png" alt="eSCaL" width="100" height="100"/>
@@ -113,7 +105,7 @@ header:
       Capstone Design <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     </h2>
     <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b>
-    <br>Jan. 2024 - Jun. 2024
+    <br>04 Jan. 2024 - 18 Jun. 2024
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_escal.png" alt="eSCaL" width="100" height="100"/>
@@ -136,7 +128,7 @@ header:
       Yonsei University <a href="https://www.yonsei.ac.kr/sites/en_sc/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     </h2>
     <b>MSc in Electrical and Electronic Engineering</b>
-    <br>Mar. 2025 - Feb. 2027 (Expected)
+    <br>01 Mar. 2025 - Feb. 2027 (Expected)
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_yonsei.png" alt="Yonsei University" width="100" height="100"/>
@@ -155,7 +147,7 @@ header:
     </h2>
     <b>BSc in Electrical and Electronic Engineering</b>
     <br><b>BA in Economics (Double Major)</b>
-    <br>Mar. 2019 - Feb. 2025
+    <br>01 Mar. 2019 - 24 Feb. 2025
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_yonsei.png" alt="Yonsei University" width="100" height="100"/>
