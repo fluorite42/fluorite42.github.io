@@ -22,7 +22,7 @@ header:
     <i>
         Graduate Student Member
     </i>
-    <br>May 2025 - Present
+    <br>15 May 2025 - Present
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieee.png" alt="IEEE" width="100" height="100"/>
