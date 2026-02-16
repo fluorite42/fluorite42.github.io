@@ -15,7 +15,7 @@ header:
 
 ## Travel/Business Trip
 
-> **Statistics:** 29 countries or 40 cities.
+> **Statistics:** 31 countries or 48 cities.
 
 
 
@@ -64,7 +64,7 @@ header:
     </tr>
     <tr>
       <td rowspan="2">Japanese<br>Archipelago</td>
-      <td>Kantō</td>
+      <td>Honshu</td>
       <td class="city">:jp: Tokyo</td>
       <td rowspan="2">Jun. 2025</td>
     </tr>
@@ -131,7 +131,17 @@ header:
       <td class="city">:es: Barcelona</td>
     </tr>
     <tr>
-      <td>Oceania</td>
+      <td rowspan="3">Oceania</td>
+      <td rowspan="2">Australasia</td>
+      <td colspan="2">Sahul</td>
+      <td class="city">:australia: Sydney<br>:australia: Katoomba</td>
+      <td rowspan="2">Jan. 2026<br>–<br>Feb. 2026</td>
+    </tr>
+    <tr>
+      <td colspan="2">Zealandia</td>
+      <td class="city">:new_zealand: Auckland<br>:new_zealand: Invercargill<br>:new_zealand: Bluff<br>:new_zealand: Queenstown<br>:new_zealand: Milford Sound<br>:new_zealand: Lake Tekapo</td>
+    </tr>
+    <tr>
       <td>Micronesia</td>
       <td colspan="2">Mariana Islands</td>
       <td class="city">:northern_mariana_islands: Saipan</td>
