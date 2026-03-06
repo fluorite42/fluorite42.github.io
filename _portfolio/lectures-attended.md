@@ -20,7 +20,7 @@ header:
 *Yonsei University School of Electrical and Electronic Engineering*
 <br>04 Mar. 2026 / Yonsei University Engineering Hall D406
 
-- The Dawn of Practical Homomorphic Encryption: A Systems Architecture Perspective
+- The Dawn of Practical Homomorphic Encryption: A Systems Architecture Perspective <a href="https://doi.org/10.1109/ISSCC49663.2026.11409291" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
     - Lecturer: Rosario Cammarota (Principal Engineer at Intel Labs)
 
 ### Keynotes
