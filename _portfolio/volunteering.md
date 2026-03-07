@@ -20,7 +20,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 70%; padding-right: 10px;">
     <i>Quantum Computing Student Association (QCSA) at UCLA,<br>Quantum Information Science Club Association (QISCA)</i>
-    <br>Nov. 2025 - Present
+    <br>Nov. 2025 - Jan. 2026
   </div>
   <div style="width: 15%; padding-right: 10px;">
     <img src="/assets/images/logo_qcsa.jpg" alt="QCSA" width="100" height="100"/>
