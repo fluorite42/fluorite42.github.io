@@ -15,7 +15,7 @@ header:
 
 ## Conference Proceedings
 
-### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
+### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -51,7 +51,7 @@ Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1
 
 
 
-### Toward Scalable Gate-Level Parallelism on Trapped-Ion Processors with Racetrack Electrodes
+### Toward Scalable Gate-Level Parallelism on Trapped-Ion Processors with Racetrack Electrodes <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
