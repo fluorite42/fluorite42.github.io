@@ -79,7 +79,7 @@ header:
 </div>
 
 - Contributed to the development of the frameworks spanning quantum compilation, optimal control, and dynamic shot allocation: *Plutarch* <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *d'ArQ* <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, and *DDS* <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>.
-- Contributed to a research project aimed at developing a quantum optimal control framework.
+- Participated in a research project focused on developing a quantum optimal control framework.
 - Served as a teaching assistant for the courses *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 
 
