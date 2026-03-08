@@ -68,9 +68,9 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <h2 style="margin-top: 0.5em;">
-      Graduate Researcher <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+      Graduate Researcher
     </h2>
-    <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b>
+    <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b> <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     <br>01 Mar. 2025 - Present
   </div>
   <div style="width: 20%;">
@@ -79,15 +79,15 @@ header:
 </div>
 
 - Contributed to a research project focused on developing a quantum optimal control framework.
-- Served as a teaching assistant for the courses Capstone Design in *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
+- Served as a teaching assistant for the courses *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <h2 style="margin-top: 0.5em;">
-      Undergraduate Researcher <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+      Undergraduate Researcher
     </h2>
-    <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b>
+    <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b> <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     <br>10 Jun. 2024 - 28 Feb. 2025
   </div>
   <div style="width: 20%;">
@@ -102,9 +102,9 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <h2 style="margin-top: 0.5em;">
-      Capstone Design <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+      Capstone Design
     </h2>
-    <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b>
+    <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b> <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     <br>04 Jan. 2024 - 18 Jun. 2024
   </div>
   <div style="width: 20%;">
@@ -125,9 +125,9 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <h2 style="margin-top: 0.5em;">
-      Yonsei University <a href="https://www.yonsei.ac.kr/sites/en_sc/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+      Yonsei University
     </h2>
-    <b>MSc in Electrical and Electronic Engineering</b>
+    <b>MSc in Electrical and Electronic Engineering</b> <a href="https://ee.yonsei.ac.kr/ee_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     <br>01 Mar. 2025 - Feb. 2027 (Expected)
   </div>
   <div style="width: 20%;">
@@ -143,10 +143,10 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <h2 style="margin-top: 0.5em;">
-      Yonsei University <a href="https://www.yonsei.ac.kr/sites/en_sc/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+      Yonsei University
     </h2>
-    <b>BSc in Electrical and Electronic Engineering</b>
-    <br><b>BA in Economics (Double Major)</b>
+    <b>BSc in Electrical and Electronic Engineering</b> <a href="https://ee.yonsei.ac.kr/ee_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    <br><b>BA in Economics (Double Major)</b> <a href="https://devcms.yonsei.ac.kr/economics_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     <br>01 Mar. 2019 - 24 Feb. 2025
   </div>
   <div style="width: 20%;">
