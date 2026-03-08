@@ -78,7 +78,8 @@ header:
   </div>
 </div>
 
-- Contributed to a research project focused on developing a quantum optimal control framework.
+- Contributed to the development of the frameworks spanning quantum compilation, optimal control, and dynamic shot allocation: *Plutarch* <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *d'ArQ* <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, and *DDS* <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>.
+- Contributed to a research project aimed at developing a quantum optimal control framework.
 - Served as a teaching assistant for the courses *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 
 
@@ -95,7 +96,7 @@ header:
   </div>
 </div>
 
-- Contributed to the development of the quantum compilation frameworks *Racoon* and *Mantra*.
+- Contributed to the development of the quantum compilation frameworks *Racoon* <a href="https://doi.org/10.1145/3656019.3676899" target="_blank"><i class="fa fa-book" title="Reference"></i></a> and *Mantra* <a href="https://doi.org/10.1145/3696443.3708937" target="_blank"><i class="fa fa-book" title="Reference"></i></a>.
 - Participated in a research project focused on developing a quantum circuit simulator.
 
 
@@ -112,9 +113,8 @@ header:
   </div>
 </div>
 
-- Developed a compilation framework to enhance the performance of quantum compilers.
-- Utilized the qubit reuse technique to improve resource efficiency and fidelity in quantum circuits.
-- Wrote a research paper on the project and presented it at the 2025 International Symposium on Computer Architecture (ISCA).
+- Developed a quantum compilation framework which utilizes the qubit reuse technique to improve resource efficiency and fidelity in quantum circuits.
+- Wrote a research paper on the project and presented it at the *2025 International Symposium on Computer Architecture (ISCA)*. <a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 
 

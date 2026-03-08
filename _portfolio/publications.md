@@ -75,17 +75,15 @@ Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</su
   </a>
 </div>
 <div class="abstract" style="display: none;">
-  A recent advancement in quantum computation has demonstrated quantum advantage by using randomized circuits on a racetrack-shaped trapped-ion processor. 
-  This work investigates the execution efficiency of this architecture for general-purpose quantum programs, which exhibit different computational characteristics compared to the randomized circuits. 
-  We first explore the impact of increasing the number of operational zones on runtime efficiency. 
-  Counterintuitively, our evaluations using variational program benchmarks reveal that expanding the number of gate operational zones may degrade runtime performance under existing scheduling policies. 
-  This degradation could be attributed to the proportional increase in track length, which increases ion circulation overhead, thereby offsetting the benefits of enhanced gate-level parallelism.
-  To mitigate this, we propose three key strategies for scalable parallel execution on racetrack processors:
+  A recent advancement in quantum computing shows a quantum advantage of certified randomness on the racetrack processor. 
+  This work investigates the execution efficiency of this architecture for general-purpose programs. 
+  We first explore the impact of increasing zones on runtime efficiency. 
+  Counterintuitively, our evaluations using variational programs reveal that expanding zones may degrade runtime performance under the existing scheduling policy. 
+  This degradation may be attributed to the increase in track length, which increases ion circulation overhead, offsetting the benefits of enhanced parallelism. 
+  To mitigate this, the proposed <i>Plutarch</i> exploits 3 strategies: 
   (i) unitary decomposition and translation to maximize zone utilization, 
-  (ii) prioritizing the execution of nearby gates over ion movement, and
-  (iii) implementing shortcuts to provide alternative circulation paths. 
-  Our evaluations show that these strategies can reduce the runtime of variational programs by an average of 71% and the fidelity by an average of 19.8%. 
-  These strategies can ensure that the architectural design remains scalable by maintaining runtime performance even as the number of operational zones increases, even in the worst-case scenarios.
+  (ii) prioritizing the execution of nearby gates over ion circulation, and 
+  (iii) implementing shortcuts to provide the alternative path.
 </div>
 
 
