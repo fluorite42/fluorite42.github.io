@@ -18,6 +18,14 @@ header:
 ### Invited Seminar
 
 *Yonsei University School of Electrical and Electronic Engineering*
+<br>27 Mar. 2026 / Yonsei University Engineering Hall D404
+
+- Extending the Reach of GPUs for Big Data Applications
+    - Lecturer: Anand Sivasubramaniam (Computer Science and Engineering Professor at Penn State) <a href="https://www.cse.psu.edu/~axs53/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
+### Invited Seminar
+
+*Yonsei University School of Electrical and Electronic Engineering*
 <br>04 Mar. 2026 / Yonsei University Engineering Hall D406
 
 - The Dawn of Practical Homomorphic Encryption: A Systems Architecture Perspective <a href="https://doi.org/10.1109/ISSCC49663.2026.11409291" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
