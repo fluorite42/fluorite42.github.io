@@ -16,6 +16,14 @@ header:
 
 ## Research-Related Topics
 
+### 2026 Spring QISCA Study
+
+*Quantum Information Science Club Association (QISCA)*
+<br>03 Apr. 2026 - 29 May 2026 / Online
+
+- A hands-on, 8-week intensive focused on building a functional *Quantum ETF Engine*, bridging the gap between quantum mathematical theory and quantitative financial engineering. 
+    - Lecturer: Aaron Sang Hyun Kim (Master's Student in AI at UPenn)
+
 ### Quantum Computing Education & Hands-on Workshop
 
 *Quantum Information Research Support Center (QCenter),<br>Pasqal*

@@ -314,6 +314,13 @@ header:
 
 ## Other Topics
 
+### Emmanuel Macron (President of France) <a href="https://en.wikipedia.org/wiki/Emmanuel_Macron" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
+*Yonsei University Office of International Affairs*
+<br>03 Apr. 2026 / Yonsei University Daewoo Hall Kakdangheon Auditorium
+
+- Meeting with Yonsei University Students
+
 ### Yeong-seok Na (Television Producer and Director) <a href="https://en.wikipedia.org/wiki/Na_Yeong-seok" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> <a href="https://www.youtube.com/@15ya_egg" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 
 *2025 Yon-Ko Games &lt;Our YONdays&gt; Academic Festival*
