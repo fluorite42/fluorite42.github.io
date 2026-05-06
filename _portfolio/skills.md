@@ -71,6 +71,7 @@ header:
 ## Languages (Following CEFR <a href="https://www.coe.int/en/web/common-european-framework-reference-languages" target="_blank"><i class="fa fa-house" title="Website"></i></a>)
 
 - **Korean**: Native
-- **English**: B2 (Vantage) -- C1 (Advanced)
+- **English**: C1 (Advanced)
+    - TOEFL iBT: 5.0 / 6.0 (May 2026)
 - **Spanish**: B1 (Threshold)
 - **Japanese**: A2 (Waystage)
