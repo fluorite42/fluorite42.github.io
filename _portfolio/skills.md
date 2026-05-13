@@ -68,7 +68,7 @@ header:
 
 
 
-## Languages (Following CEFR <a href="https://www.coe.int/en/web/common-european-framework-reference-languages" target="_blank"><i class="fa fa-house" title="Website"></i></a>)
+## Languages (Following CEFR <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>)
 
 - **Korean**: Native
 - **English**: C1 (Advanced)
