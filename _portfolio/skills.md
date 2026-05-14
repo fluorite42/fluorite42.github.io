@@ -70,8 +70,102 @@ header:
 
 ## Languages (Following CEFR <a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>)
 
-- **Korean**: Native
-- **English**: C1 (Advanced)
-    - TOEFL iBT: 5.0 / 6.0 (May 2026)
-- **Spanish**: B1 (Threshold)
-- **Japanese**: A2 (Waystage)
+<style>
+  th {
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 2px solid #b5b5b5;
+  }
+
+  td {
+    border-bottom: 1px solid #aaa;
+    vertical-align: center;
+    text-align: center;
+  }
+
+  td.city {
+    text-align: left;
+  }
+</style>
+
+<table style="padding-top: 20px; padding-bottom: 10px">
+  <thead>
+    <tr>
+      <th rowspan="2">Language</th>
+      <th rowspan="2">Family</th>
+      <th colspan="6">CEFR Level</th>
+      <th rowspan="2">L1</th>
+      <th rowspan="2">Credential</th>
+    </tr>
+    <tr>
+      <th>A1</th>
+      <th>A2</th>
+      <th>B1</th>
+      <th>B2</th>
+      <th>C1</th>
+      <th>C2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Korean</td>
+      <td>Koreanic</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>✔</td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>Indo-European</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>✔</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>TOEFL iBT: 5.0 / 6.0 (May 2026)</td>
+    </tr>
+    <tr>
+      <td>Spanish</td>
+      <td>Indo-European</td>
+      <td>&nbsp;</td>
+      <td>✔</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>(Estimated)</td>
+    </tr>
+    <tr>
+      <td>Chinese</td>
+      <td>Sino-Tibetan</td>
+      <td>✔</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>(Estimated)</td>
+    </tr>
+    <tr>
+      <td>Japanese</td>
+      <td>Japonic</td>
+      <td>✔</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>(Estimated)</td>
+    </tr>
+  </tbody>
+</table>
