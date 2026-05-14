@@ -129,7 +129,7 @@ header:
       <td>✔</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>TOEFL iBT: 5.0 / 6.0 (May 2026)</td>
+      <td>TOEFL iBT: 5.0 / 6.0</td>
     </tr>
     <tr>
       <td>Spanish</td>
