@@ -15,6 +15,16 @@ header:
 
 ## Academic Topics
 
+### Quantum Future Korea 2026
+
+*National Assembly Science, ICT, Broadcasting and Communications Committee,<br>Quantum Information Science Club Association (QISCA)*
+<br>15 May 2026 / National Assembly Members' Office Building
+
+- Analog Quantum Simulation: Relativistic Physics on a Chip <a href="https://doi.org/10.1103/wn7t-pyrq" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+    - Lecturer: Eunseong Kim (Director of KAIST Graduate School of Quantum Science and Technology) <a href="https://sqnl.kaist.ac.kr/people-individual/eunseong-kim" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+- New Quantum Computer Applications Using the Pado Pauli Model
+    - Lecturer: Hyunchul Jung (CEO of Norma) <a href="https://www.norma.co.kr/eng/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
 ### Invited Seminar
 
 *Yonsei University School of Electrical and Electronic Engineering*
