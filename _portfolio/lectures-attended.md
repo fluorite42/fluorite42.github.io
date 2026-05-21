@@ -324,6 +324,8 @@ header:
 
 ## Other Topics
 
+
+
 ### Woong-bae Zee (Astronomer, Science Communicator) <a href="https://sejong.elsevierpure.com/en/persons/woong-bae-zee/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://www.youtube.com/@wz_mz" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 
 *2026 Yonsei Air & Space Week*
