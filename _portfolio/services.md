@@ -55,6 +55,15 @@ header:
 
 ### Review Support
 
+*The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO '26)*
+<br>May 2026
+
+- Reviewed a paper on the topic of quantum computing.
+- Provided feedback on the paper's methodology and results.
+- Evaluated the paper's contribution to the field of computer architecture.
+
+### Review Support
+
 *The 53rd International Symposium on Computer Architecture (ISCA '26)*
 <br>Jan. 2026
 

@@ -55,7 +55,7 @@ header:
 - His academic pursuits are underscored by a keen interest in a diverse range of disciplines, including but not limited to:
 <br/>&nbsp;1. Quantum Compilers
 <br/>&nbsp;2. Quantum Error Correction
-<br/>&nbsp;3. Quantum Optimal Control
+<br/>&nbsp;3. Quantum Pulse Control
 <br/>&nbsp;4. Quantum Algorithms
 - Currently, his primary focus lies in Quantum Compiler Optimization, reflecting his dedication to cutting-edge research within the field.
 
