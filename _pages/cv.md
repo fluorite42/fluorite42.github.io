@@ -2,5 +2,5 @@
 layout: home
 permalink: /cv/
 redirect_to:
-    - /assets/files/cv.pdf
+    - /assets/files/CV_Hyungseok_Kim.pdf
 ---
