@@ -47,11 +47,11 @@ header:
 
 - As part of IDH 4200-007: Korean Culture & Identity held at Judy Genshaft Honors College of University of South Florida.
 - Had conversations with a student at University of South Florida regarding each other's culture, interests, languages, etc. through a messaging app.
-- Participated in the offline meeting event with University of South Florida students held at Yonsei University in May 2023.
+- Participated in the offline meeting event with University of South Florida students held at Yonsei University on 15 May 2023.
 
 
 
-### Student Exchange
+### Campus & Cultural Exchange
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
