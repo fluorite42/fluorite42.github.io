@@ -268,6 +268,19 @@ header:
 
 <!-- ------------------------------------ -->
 
+<a class="btn" onclick="toggleContent(this)">
+    <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
+    6. <sup>MSc</sup>Advanced Quantum Machine Learning
+</a>
+
+<div class="description" style="display: none;">
+
+<h6>TBA</h6>
+
+</div>
+
+<!-- ------------------------------------ -->
+
 ### Computer Architecture
 
 <a class="btn" onclick="toggleContent(this)">
@@ -723,6 +736,19 @@ header:
     </a>
   </li>
 </ol>
+
+</div>
+
+<!-- ------------------------------------ -->
+
+<a class="btn" onclick="toggleContent(this)">
+    <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
+    3. <sup>MSc</sup>Advanced Programming
+</a>
+
+<div class="description" style="display: none;">
+
+<h6>TBA</h6>
 
 </div>
 

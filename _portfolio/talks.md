@@ -31,7 +31,7 @@ header:
 
 
 
-## Contributed talk
+## Contributed Talks
 
 ### Advanced LLM Systems: Reasoning Model
 
