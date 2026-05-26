@@ -13,7 +13,60 @@ header:
   overlay_filter: 0.5
 ---
 
+
+
+## Professional Service
+
+### Sub-Reviewer
+
+*The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO '26)*
+<br>May 2026
+
+- Reviewed a paper on the topic of quantum computing.
+- Provided feedback on the paper's methodology and results.
+- Evaluated the paper's contribution to the field of computer architecture.
+
+### Sub-Reviewer
+
+*The 53rd International Symposium on Computer Architecture (ISCA '26)*
+<br>Jan. 2026
+
+- Reviewed a paper on the topic of quantum computing.
+- Provided feedback on the paper's methodology and results.
+- Evaluated the paper's contribution to the field of computer architecture.
+
+### Student Volunteer
+
+*The 58th IEEE/ACM International Symposium on Microarchitecture (MICRO '25)*
+<br>21 Oct. 2025
+
+- Assisted with the running of three sessions.
+  - Session 5B: Microarchitecture - Prefetching 2
+  - Session 6B: Security and Privacy - Memory
+  - Session 7B: Tools and Simulators
+
+### Sub-Reviewer
+
+*The 52nd International Symposium on Computer Architecture (ISCA '25)*
+<br>Jan. 2025
+
+- Reviewed a paper on the topic of quantum computing.
+- Provided feedback on the paper's methodology and results.
+- Evaluated the paper's contribution to the field of computer architecture.
+
+
+
 ## Teaching Experience
+
+### Research Mentor
+
+*Quantum Computing Student Association (QCSA) at UCLA,<br>Quantum Information Science Club Association (QISCA)*
+<br>Nov. 2025 - Jan. 2026
+
+- Mentored two undergraduate students interested in quantum computing through the club’s mentorship program.
+- Provided academic and career guidance, supporting mentees in exploring quantum information concepts and research pathways.
+
+
 
 ### Teaching Assistant
 
@@ -51,46 +104,11 @@ header:
 
 
 
-## Professional Experience
+### Academic Mentor
 
-### Review Support
+*Yonsei University,<br>Dong Incheon High School*
+<br>Mar. 2019 - Jun. 2019
 
-*The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO '26)*
-<br>May 2026
-
-- Reviewed a paper on the topic of quantum computing.
-- Provided feedback on the paper's methodology and results.
-- Evaluated the paper's contribution to the field of computer architecture.
-
-### Review Support
-
-*The 53rd International Symposium on Computer Architecture (ISCA '26)*
-<br>Jan. 2026
-
-- Reviewed a paper on the topic of quantum computing.
-- Provided feedback on the paper's methodology and results.
-- Evaluated the paper's contribution to the field of computer architecture.
-
-
-### Review Support
-
-*The 52nd International Symposium on Computer Architecture (ISCA '25)*
-<br>Jan. 2025
-
-- Reviewed a paper on the topic of quantum computing.
-- Provided feedback on the paper's methodology and results.
-- Evaluated the paper's contribution to the field of computer architecture.
-
-
-
-## Event Staff
-
-### Session Support
-
-*The 58th IEEE/ACM International Symposium on Microarchitecture (MICRO '25)*
-<br>21 Oct. 2025
-
-- Assisted with the running of three sessions.
-  - Session 5B: Microarchitecture - Prefetching 2
-  - Session 6B: Security and Privacy - Memory
-  - Session 7B: Tools and Simulators
+- As part of UCR1015-10: Social Engagement-[Yon-In] High School Students Mentoring, spring semester 2019.
+- Provided academic mentoring to two high school students at Dong Incheon High School for a total of 20 hours.
+- Mainly helped the students with mathematics, physics, and chemistry.

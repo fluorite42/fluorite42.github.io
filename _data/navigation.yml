@@ -44,8 +44,6 @@ portfolio:
         url: /portfolio/programs/educational-programs/
       - title: "Lectures Attended"
         url: /portfolio/programs/lectures-attended/
-  - title: "Volunteering"
-    url: /portfolio/volunteering/
   - title: "Selected Coursework"
     url: /portfolio/coursework/
   - title: "Skills & Languages"
