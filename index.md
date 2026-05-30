@@ -103,7 +103,7 @@ header:
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <h2 style="margin-top: 0.5em;">
-      Capstone Design
+      Capstone Project
     </h2>
     <b>Embedded Systems and Computer Architecture Lab (eSCaL)</b> <a href="http://escal.yonsei.ac.kr/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
     <br>04 Jan. 2024 - 18 Jun. 2024
@@ -127,8 +127,8 @@ header:
     <h2 style="margin-top: 0.5em;">
       Yonsei University
     </h2>
-    <b>MSc in Electrical and Electronic Engineering</b> <a href="https://ee.yonsei.ac.kr/ee_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
-    <br>01 Mar. 2025 - Feb. 2027 (Expected)
+    <b>M.S. in Electrical and Electronic Engineering</b> <a href="https://ee.yonsei.ac.kr/ee_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    <br>Expected Feb. 2027
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_yonsei.png" alt="Yonsei University" width="100" height="100"/>
@@ -145,9 +145,9 @@ header:
     <h2 style="margin-top: 0.5em;">
       Yonsei University
     </h2>
-    <b>BSc in Electrical and Electronic Engineering</b> <a href="https://ee.yonsei.ac.kr/ee_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
-    <br><b>BA in Economics (Double Major)</b> <a href="https://devcms.yonsei.ac.kr/economics_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
-    <br>01 Mar. 2019 - 24 Feb. 2025
+    <b>B.S. in Electrical and Electronic Engineering</b> <a href="https://ee.yonsei.ac.kr/ee_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    <br><b>B.A. in Economics (Double Major)</b> <a href="https://devcms.yonsei.ac.kr/economics_en/index.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    <br>Feb. 2025
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_yonsei.png" alt="Yonsei University" width="100" height="100"/>
