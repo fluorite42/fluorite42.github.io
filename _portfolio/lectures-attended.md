@@ -15,6 +15,16 @@ header:
 
 ## Academic Topics
 
+### Rutgers-Yonsei EE Research Collaboration Workshop
+
+*Yonsei University School of Electrical and Electronic Engineering*
+<br>09 Jun. 2026 / Yonsei University Engineering Hall D405, Engineering Research Park 173
+
+- Leveraging Non-Conventional Computing for NextG Wireless
+    - Lecturer: Minsung Kim (Computer Science Professor at Rutgers) <a href="https://sites.google.com/view/minsungk/home" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+- Beyond Intelligent Computing: Memory is the Center for Scalable, Efficient, and Trustworthy AI
+    - Lecturer: Bokyung Kim (Electrical and Computer Engineering Professor at Rutgers) <a href="https://sites.google.com/view/bokyungs-website" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
 ### Quantum Future Korea 2026
 
 *National Assembly Science, ICT, Broadcasting and Communications Committee,<br>Quantum Information Science Club Association (QISCA)*
