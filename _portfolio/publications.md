@@ -345,6 +345,40 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 ## Oral and Poster Presentations
 
+### Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 2026</i>
+    <br>25 Jun. 2026 / Jeju, Korea
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Distributed quantum computing (DQC) provides a promising path toward large-scale quantum computation. 
+  Since non-local communication incurs high cost, existing DQC compilation techniques focus on reducing inter-node communication. 
+  However, dynamic mapping strategies often introduce additional overhead when teleported qubits replace resident qubits, while overlooking slack qubits that can be used for relocation. 
+  These slack qubits can provide additional placement flexibility under nodecapacity constraints, especially during frequent remapping.
+  This paper proposes a slack-aware lookaheadbased compilation technique with an improved kick-out strategy. 
+  By incorporating slack availability into remapping decisions, our approach reduces unnecessary qubit replacement and improves communication locality. Implemented on top of a state-of-the-art dynamic mapping compiler, our strategy reduces non-local communication by 46.6% and accelerates latency by 1.29x on average, across various benchmarks.
+</div>
+
+
+
 ### TENET: A Pincer Movement with Backward Programs for Bypassing Relaxed Qubit Readouts
 
 <div style="display: flex; align-items: center;">
