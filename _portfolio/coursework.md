@@ -19,7 +19,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Quantum Computer and Simulation 1
+    1. (B.S.) Quantum Computer and Simulation 1
 </a>
 
 <div class="description" style="display: none;">
@@ -57,7 +57,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Quantum Machine Learning
+    2. (B.S.) Quantum Machine Learning
 </a>
 
 <div class="description" style="display: none;">
@@ -97,7 +97,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>BSc</sup>Electrical and Electronic Engineering Capstone Design
+    3. (B.S.) Electrical and Electronic Engineering Capstone Design
 </a>
 
 <div class="description" style="display: none;">
@@ -170,7 +170,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    4. <sup>MSc</sup>Quantum Computing
+    4. (M.S.) Quantum Computing
 </a>
 
 <div class="description" style="display: none;">
@@ -211,7 +211,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    5. <sup>MSc</sup>Quantum Data Science
+    5. (M.S.) Quantum Data Science
 </a>
 
 <div class="description" style="display: none;">
@@ -270,7 +270,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    6. <sup>MSc</sup>Advanced Quantum Machine Learning
+    6. (M.S.) Advanced Quantum Machine Learning
 </a>
 
 <div class="description" style="display: none;">
@@ -285,7 +285,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Digital Logic Circuits
+    1. (B.S.) Digital Logic Circuits
 </a>
 
 <div class="description" style="display: none;">
@@ -312,7 +312,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Computer Architecture
+    2. (B.S.) Computer Architecture
 </a>
 
 <div class="description" style="display: none;">
@@ -352,7 +352,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>BSc</sup>Communication Networks
+    3. (B.S.) Communication Networks
 </a>
 
 <div class="description" style="display: none;">
@@ -386,7 +386,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    4. <sup>BSc</sup>Operating Systems
+    4. (B.S.) Operating Systems
 </a>
 
 <div class="description" style="display: none;">
@@ -424,7 +424,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    5. <sup>BSc</sup>Microprocessors
+    5. (B.S.) Microprocessors
 </a>
 
 <div class="description" style="display: none;">
@@ -455,7 +455,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    6. <sup>BSc</sup>Multicore and GPU Programming
+    6. (B.S.) Multicore and GPU Programming
 </a>
 
 <div class="description" style="display: none;">
@@ -505,7 +505,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    7. <sup>MSc</sup>Compiler Design and Optimization
+    7. (M.S.) Compiler Design and Optimization
 </a>
 
 <div class="description" style="display: none;">
@@ -551,7 +551,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Introduction Artificial Intelligence
+    1. (B.S.) Introduction Artificial Intelligence
 </a>
 
 <div class="description" style="display: none;">
@@ -585,7 +585,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Intelligent Control
+    2. (B.S.) Intelligent Control
 </a>
 
 <div class="description" style="display: none;">
@@ -635,7 +635,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>BSc</sup>Special Topics in Pattern Recognition
+    3. (B.S.) Special Topics in Pattern Recognition
 </a>
 
 <div class="description" style="display: none;">
@@ -684,7 +684,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Engineering Information Processing
+    1. (B.S.) Engineering Information Processing
 </a>
 
 <div class="description" style="display: none;">
@@ -715,7 +715,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Data Structure and Algorithms
+    2. (B.S.) Data Structure and Algorithms
 </a>
 
 <div class="description" style="display: none;">
@@ -743,7 +743,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>MSc</sup>Advanced Programming
+    3. (M.S.) Advanced Programming
 </a>
 
 <div class="description" style="display: none;">
@@ -758,7 +758,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Introductory Digital Labs
+    1. (B.S.) Introductory Digital Labs
 </a>
 
 <div class="description" style="display: none;">
@@ -820,7 +820,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Digital Microelectronics
+    2. (B.S.) Digital Microelectronics
 </a>
 
 <div class="description" style="display: none;">
@@ -872,7 +872,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>BSc</sup>System IC Design
+    3. (B.S.) System IC Design
 </a>
 
 <div class="description" style="display: none;">
@@ -912,7 +912,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    4. <sup>BSc</sup>Embedded System Lab.
+    4. (B.S.) Embedded System Lab.
 </a>
 
 <div class="description" style="display: none;">
@@ -950,7 +950,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    5. <sup>MSc</sup>Semiconductor Memory Design
+    5. (M.S.) Semiconductor Memory Design
 </a>
 
 <div class="description" style="display: none;">
@@ -984,7 +984,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Basic Circuit Theory
+    1. (B.S.) Basic Circuit Theory
 </a>
 
 <div class="description" style="display: none;">
@@ -1013,7 +1013,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Electronic Circuits
+    2. (B.S.) Electronic Circuits
 </a>
 
 <div class="description" style="display: none;">
@@ -1068,7 +1068,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>BSc</sup>Analog Electronics Lab.
+    3. (B.S.) Analog Electronics Lab.
 </a>
 
 <div class="description" style="display: none;">
@@ -1101,7 +1101,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BSc</sup>Signal and Systems
+    1. (B.S.) Signal and Systems
 </a>
 
 <div class="description" style="display: none;">
@@ -1209,7 +1209,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BSc</sup>Electricity & Magnetism (1)
+    2. (B.S.) Electricity & Magnetism (1)
 </a>
 
 <div class="description" style="display: none;">
@@ -1240,7 +1240,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BA</sup>Econometrics I
+    1. (B.A.) Econometrics I
 </a>
 
 <div class="description" style="display: none;">
@@ -1268,7 +1268,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BA</sup>Financial Econometrics
+    2. (B.A.) Financial Econometrics
 </a>
 
 <div class="description" style="display: none;">
@@ -1298,7 +1298,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BA</sup>Dynamic Analysis of Macroeconomy
+    1. (B.A.) Dynamic Analysis of Macroeconomy
 </a>
 
 <div class="description" style="display: none;">
@@ -1349,7 +1349,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BA</sup>Quantitative Macroeconomics
+    2. (B.A.) Quantitative Macroeconomics
 </a>
 
 <div class="description" style="display: none;">
@@ -1388,7 +1388,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    1. <sup>BA</sup>Introduction to Financial Engineering
+    1. (B.A.) Introduction to Financial Engineering
 </a>
 
 <div class="description" style="display: none;">
@@ -1460,7 +1460,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    2. <sup>BA</sup>Coding for Economics 2
+    2. (B.A.) Coding for Economics 2
 </a>
 
 <div class="description" style="display: none;">
@@ -1499,7 +1499,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    3. <sup>BA</sup>Coding for Economics 1
+    3. (B.A.) Coding for Economics 1
 </a>
 
 <div class="description" style="display: none;">
@@ -1547,7 +1547,7 @@ header:
 
 <a class="btn" onclick="toggleContent(this)">
     <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>
-    4. <sup>BA</sup>AI Assisted Financial Engineering
+    4. (B.A.) AI Assisted Financial Engineering
 </a>
 
 <div class="description" style="display: none;">

@@ -195,7 +195,7 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 
 
-## Journal and Magazine Articles
+## Journal Articles
 
 ### Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
@@ -229,39 +229,6 @@ Youngmin Kim<sup>1</sup>, Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
   In this work, we propose a distribution-adaptive dynamic shot (DDS) framework that efficiently adjusts the number of shots per iteration in VQAs using the entropy distribution from the prior training epoch. 
   Our results demonstrate that the DDS framework sustains inference accuracy while achieving a ~50% reduction in average shot count compared to fixed-shot training, and ~60% higher accuracy than recently proposed tiered shot allocation methods. 
   Furthermore, in noisy simulations that reflect the error rates of actual IBM quantum systems, DDS achieves approximately a ~30% reduction in the total number of shots compared to the fixed-shot method with minimal degradation in accuracy, and offers about ~70% higher computational accuracy than tiered shot allocation methods.
-</div>
-
-
-
-### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQAs) <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12431794" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>The Magazine of the IEIE, Vol. 52 No. 9</i>
-    <br>Sep. 2025
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  This paper examines the latest research trends in Variational Quantum Algorithms (VQA), a quantum-classical hybrid algorithm paradigm that is in the spotlight in the era of Noise Intermediate-Scale Quantum (NISQ). 
-  VQA combines a parameterized quantum circuit structure, an ansatz, and a classical optimizer to repeatedly adjust the quantum state, so it can be applied to various fields such as quantum chemistry, combination optimization, and machine learning, even in hardware with a limited number of qubits and current level of error rate. 
-  First, we introduce the Variable Quantum Eigenvalue Solution (VQE) that calculates the ground state energy of molecules and the Quantum Approximate Optimization Algorithm (QAOA), which solves the optimization problem in the form of Quadratic Unconstructed Binary Optimization (QUBO), and discuss issues such as increasing circuit depth that can appear in real hardware execution, loss of parameter gradient due to barren plateau phenomenon, overhead due to SWAP gate required for qubit rearrangement, and measurement noise. 
-  Next, as the latest research examples to address this, we introduce efficient ansatz design that reduces the number of operations required, circuit rearrangement and transformation tailored to hardware connection structure and error characteristics, how to speed up parameter learning by reducing unnecessary gates inside the circuit, fast convergence using initial parameter setting and transfer learning, and distributed execution techniques that utilize multiple quantum processing units (QPUs) in parallel. 
-  Through these examples, this paper confirms that integrated optimization across algorithms, compilers, and all layers of hardware is essential for the practicalization of VQA.
 </div>
 
 
@@ -343,41 +310,7 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 
 
-## Oral and Poster Presentations
-
-### Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 2026</i>
-    <br>25 Jun. 2026 / Jeju, Korea
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  Distributed quantum computing (DQC) provides a promising path toward large-scale quantum computation. 
-  Since non-local communication incurs high cost, existing DQC compilation techniques focus on reducing inter-node communication. 
-  However, dynamic mapping strategies often introduce additional overhead when teleported qubits replace resident qubits, while overlooking slack qubits that can be used for relocation. 
-  These slack qubits can provide additional placement flexibility under nodecapacity constraints, especially during frequent remapping.
-  This paper proposes a slack-aware lookaheadbased compilation technique with an improved kick-out strategy. 
-  By incorporating slack availability into remapping decisions, our approach reduces unnecessary qubit replacement and improves communication locality. Implemented on top of a state-of-the-art dynamic mapping compiler, our strategy reduces non-local communication by 46.6% and accelerates latency by 1.29x on average, across various benchmarks.
-</div>
-
-
+## Non-Archival Conference Presentations
 
 ### TENET: A Pincer Movement with Backward Programs for Bypassing Relaxed Qubit Readouts
 
@@ -415,7 +348,43 @@ Changheon Lee<sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <
 
 
 
-### How Basis Choice Shapes Performance in Quantum Optimal Control Framework
+## Domestic Poster Presentations
+
+### Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 2026</i>
+    <br>25 Jun. 2026 / Jeju, Korea
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Distributed quantum computing (DQC) provides a promising path toward large-scale quantum computation. 
+  Since non-local communication incurs high cost, existing DQC compilation techniques focus on reducing inter-node communication. 
+  However, dynamic mapping strategies often introduce additional overhead when teleported qubits replace resident qubits, while overlooking slack qubits that can be used for relocation. 
+  These slack qubits can provide additional placement flexibility under nodecapacity constraints, especially during frequent remapping.
+  This paper proposes a slack-aware lookaheadbased compilation technique with an improved kick-out strategy. 
+  By incorporating slack availability into remapping decisions, our approach reduces unnecessary qubit replacement and improves communication locality. Implemented on top of a state-of-the-art dynamic mapping compiler, our strategy reduces non-local communication by 46.6% and accelerates latency by 1.29x on average, across various benchmarks.
+</div>
+
+
+
+### How Basis Choice Shapes Performance in Quantum Optimal Control Framework <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332380" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -444,6 +413,41 @@ Changheon Lee<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
   ② The Gaussian basis reduces gate length by 5% relative to the Fourier basis. 
   ③ The Gaussian envelope shave 11% from compilation latency compared to the Fourier basis. 
   ④ Sinc functions, although attractive in theory for their perfect rectangular spectra, underperform on fidelity.
+</div>
+
+
+
+## Domestic Magazine Articles
+
+### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQAs) <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12431794" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>The Magazine of the IEIE, Vol. 52 No. 9</i>
+    <br>Sep. 2025
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  This paper examines the latest research trends in Variational Quantum Algorithms (VQA), a quantum-classical hybrid algorithm paradigm that is in the spotlight in the era of Noise Intermediate-Scale Quantum (NISQ). 
+  VQA combines a parameterized quantum circuit structure, an ansatz, and a classical optimizer to repeatedly adjust the quantum state, so it can be applied to various fields such as quantum chemistry, combination optimization, and machine learning, even in hardware with a limited number of qubits and current level of error rate. 
+  First, we introduce the Variable Quantum Eigenvalue Solution (VQE) that calculates the ground state energy of molecules and the Quantum Approximate Optimization Algorithm (QAOA), which solves the optimization problem in the form of Quadratic Unconstructed Binary Optimization (QUBO), and discuss issues such as increasing circuit depth that can appear in real hardware execution, loss of parameter gradient due to barren plateau phenomenon, overhead due to SWAP gate required for qubit rearrangement, and measurement noise. 
+  Next, as the latest research examples to address this, we introduce efficient ansatz design that reduces the number of operations required, circuit rearrangement and transformation tailored to hardware connection structure and error characteristics, how to speed up parameter learning by reducing unnecessary gates inside the circuit, fast convergence using initial parameter setting and transfer learning, and distributed execution techniques that utilize multiple quantum processing units (QPUs) in parallel. 
+  Through these examples, this paper confirms that integrated optimization across algorithms, compilers, and all layers of hardware is essential for the practicalization of VQA.
 </div>
 
 
