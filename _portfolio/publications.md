@@ -348,7 +348,7 @@ Changheon Lee<sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <
 
 
 
-## Domestic Poster Presentations
+## Domestic Conference Proceedings
 
 ### Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing
 

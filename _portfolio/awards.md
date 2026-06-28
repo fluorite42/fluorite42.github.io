@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.5
 ---
 
-## On-Campus Achievements
+## On-Campus Awards
 
 ### Merit Academic Paper Award
 
@@ -98,4 +98,17 @@ header:
 *Yonsei University*
 <br>Aug. 2022, Feb. 2024
 
+- Top 10% of the class
 - Spring Semester of 2022 and Fall Semester of 2023.
+
+
+
+## Off-Campus Awards
+
+### Industry Interest Paper Award (LG Electronics)
+
+*The Institute of Electronics and Information Engineers (IEIE)*
+<br>Jun. 2026
+
+- Awarded Paper:
+  - S. Pyun, C. Lee, **H. Kim**, E. Jang, Y. Kim, and W. W. Ro. "Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing," *Proceedings of Summer Annual Conference of IEIE, 2026*, Jeju, Korea, 2026.
