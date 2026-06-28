@@ -98,7 +98,7 @@ header:
 *Yonsei University*
 <br>Aug. 2022, Feb. 2024
 
-- Top 10% of the class
+- Top 10% of the Class
 - Spring Semester of 2022 and Fall Semester of 2023.
 
 
