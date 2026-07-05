@@ -15,6 +15,16 @@ header:
 
 ## Academic Topics
 
+### Quantum Korea 2026
+
+*Ministry of Science and ICT*
+<br>02 Jul. 2026 / Dongdaemun Design Plaza (DDP) Art Hall
+
+- Quantum Engineering: A Systems Challenge
+    - Lecturer: Isaac Chuang (EECS and Physics Professor at MIT) <a href="https://physics.mit.edu/faculty/isaac-chuang/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Isaac_Chuang" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+- Quantum Computing: The Story So Far
+    - Lecturer: Myungshik Kim (Physics Professor at Imperial College London) <a href="https://profiles.imperial.ac.uk/m.kim" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Myungshik_Kim" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
 ### Rutgers-Yonsei EE Research Collaboration Workshop
 
 *Yonsei University School of Electrical and Electronic Engineering*
@@ -97,7 +107,7 @@ header:
 <br>30 Jun. 2025 / Yonsei University Science Hall B102
 
 - Current Status of Quantum Computer
-    - Lecturer: Kyungsun Moon (Physics Professor at Yonsei U.) <a href="https://sites.google.com/a/yonsei.ac.kr/quantum-traveller" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Kyungsun Moon (Physics Professor at Yonsei) <a href="https://sites.google.com/a/yonsei.ac.kr/quantum-traveller" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Keynotes
 
@@ -115,7 +125,7 @@ header:
 <br>16 Jun. 2025 / Yonsei University Engineering Hall D504
 
 - Security Challenges in Hybrid Classical-Quantum Computing Systems
-    - Lecturer: Jakub Szefer (Electrical and Computer Engineering Professor at Northwestern U.) <a href="https://caslab.io/jakub/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Jakub Szefer (Electrical and Computer Engineering Professor at Northwestern) <a href="https://caslab.io/jakub/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Quantum Computing Seminar Series
 
@@ -131,7 +141,7 @@ header:
 <br>24 Mar. 2025 / Yonsei University The Commons Grand Ballroom
 
 - Technology for Bioelectronic Medicine
-    - Lecturer: George Malliaras (Electrical Engineering Professor at U. of Cambridge) <a href="https://www.eng.cam.ac.uk/profiles/gm603" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: George Malliaras (Electrical Engineering Professor at Cambridge) <a href="https://www.eng.cam.ac.uk/profiles/gm603" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Engineering AI Plus Forum
 
@@ -142,7 +152,7 @@ header:
 - Phone, Camera, and AI
     - Lecturer: Minkyu Park (Researcher at Samsung Electronics MX Division Camera Innovation Group)
 - AI, Architecture, and Cities
-    - Lecturer: Hyunjoon Yoo (Architectural Design Professor at Hongik U., Writer) <a href="https://hyunjoonyoo.com/hyunjoon_yoo.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://www.youtube.com/@Sherlock_HJ" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
+    - Lecturer: Hyunjoon Yoo (Architectural Design Professor at Hongik, Writer) <a href="https://hyunjoonyoo.com/hyunjoon_yoo.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://www.youtube.com/@Sherlock_HJ" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 
 ### Yonsei Quantum Week 2025 <a href="https://qinitiative.yonsei.ac.kr/en/main" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
@@ -150,13 +160,13 @@ header:
 <br>06 Mar. 2025 / Underwood Memorial Library Conference Hall
 
 - Quantum Algorithms and Their Role in Transforming Health care
-    - Lecturer: Richard Jozsa (Mathematics and Physics Professor at U. of Cambridge) <a href="https://www.damtp.cam.ac.uk/person/rj310" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Richard_Jozsa" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+    - Lecturer: Richard Jozsa (Mathematics and Physics Professor at Cambridge) <a href="https://www.damtp.cam.ac.uk/person/rj310" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Richard_Jozsa" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 - AI Meets Quantum: Innovations in Drug Discovery and Translational Science
-    - Lecturer: Namshik Han (Computational Drug Discovery Scientist at U. of Cambridge) <a href="https://www.stemcells.cam.ac.uk/people/affiliates/han" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Namshik Han (Computational Drug Discovery Scientist at Cambridge) <a href="https://www.stemcells.cam.ac.uk/people/affiliates/han" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 - Quantum Machine Learning for Precision Medicine: Opportunities and Challenges
-    - Lecturer: Daniel Kyungdeock Park (Statistics Professor at Yonsei U.) <a href="https://quantumpark.yonsei.ac.kr/people#h.nrd1picpu3iu" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Daniel Kyungdeock Park (Statistics Professor at Yonsei) <a href="https://quantumpark.yonsei.ac.kr/people#h.nrd1picpu3iu" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 - Quantum Algorithms for Genomics: Mapping DNA Diversity
-    - Lecturer: Sergii Strelchuk (Computer Science Professor at U. of Oxford) <a href="https://www.cs.ox.ac.uk/people/sergii.strelchuk/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Sergii Strelchuk (Computer Science Professor at Oxford) <a href="https://www.cs.ox.ac.uk/people/sergii.strelchuk/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Invited Seminar
 
@@ -164,7 +174,7 @@ header:
 <br>14 Jan. 2025 / Yonsei University Engineering Hall D504
 
 - SRAM-based In-Memory Computing Hardware for Energy-Efficient AI: AMS vs. All Analog vs. Digital Macros to Microprocessors
-    - Lecturer: Mingoo Seok (Electrical Engineering Professor at Columbia U.) <a href="https://www.ee.columbia.edu/~mgseok/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Mingoo Seok (Electrical Engineering Professor at Columbia) <a href="https://www.ee.columbia.edu/~mgseok/index.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Special Lecture on 2024 Nobel Prize in Physics
 
@@ -172,7 +182,7 @@ header:
 <br>22 Nov. 2024 / Yonsei University Science Hall B133
 
 - Foundational Discoveries and Inventions that Enable Machine Learning with Artificial Neural Networks <a href="https://www.nobelprize.org/prizes/physics/2024/summary/" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
-    - Lecturer: Daniel Kyungdeock Park (Statistics Professor at Yonsei U.) <a href="https://quantumpark.yonsei.ac.kr/people#h.nrd1picpu3iu" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Daniel Kyungdeock Park (Statistics Professor at Yonsei) <a href="https://quantumpark.yonsei.ac.kr/people#h.nrd1picpu3iu" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### 6th Memory-Centric Computing Future and Challenge Workshop
 
@@ -180,7 +190,7 @@ header:
 <br>15 Nov. 2024 / Online
 
 - 6th Memory-Centric Computing Future and Challenge Workshop: Looking Back on the Past 7 Years...
-    - Lecturer: Won Woo Ro (Electrical and Electronic Engineering Professor at Yonsei U.) <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Won Woo Ro (Electrical and Electronic Engineering Professor at Yonsei) <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Qiskit Fall Fest (QFF) 2024 in Yonsei <a href="https://qiya-yonsei.github.io" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
@@ -188,7 +198,7 @@ header:
 <br>01 Nov. 2024 / Yonsei University Science Hall B130
 
 - Quantum Information Science: For Using Quantum Computers (Beyond Quantum, Nano, and Digital)
-    - Lecturer: Jaewan Kim (Physics Professor at KIAS and Yonsei U.) <a href="https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=10146&trget=listDstPrfFaculty&menuNo=401003&pageIndex=" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Jaewan Kim (Physics Professor at KIAS and Yonsei) <a href="https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=10146&trget=listDstPrfFaculty&menuNo=401003&pageIndex=" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Quantum Computing Seminar
 
@@ -204,9 +214,9 @@ header:
 <br>24 Jul., 22 Aug. 2024 / Yonsei University Engineering Hall D603
 
 - New Frontier of Quantum Computing with Neutral Atoms
-    - Lecturer: Joonhee Choi (Electrical Engineering Professor at Stanford U.) <a href="https://choilab.stanford.edu/people/joonhee-choi" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Joonhee Choi (Electrical Engineering Professor at Stanford) <a href="https://choilab.stanford.edu/people/joonhee-choi" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 - Quantum Reinforcement Learning Theory and Multimedia Applications
-    - Lecturer: Soohyun Park (Software Professor at Sookmyung Women's U.) <a href="https://sites.google.com/view/dpslab-smwu/members?authuser=0" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+    - Lecturer: Soohyun Park (Software Professor at Sookmyung) <a href="https://sites.google.com/view/dpslab-smwu/members?authuser=0" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 ### Invited Seminar
 
@@ -241,7 +251,7 @@ header:
 <br>25, 26 Jun. 2024 / Korea International Exhibition Center (KINTEX)
 
 - New Frontier of Quantum Computing
-    - Lecturer: Mikhail Lukin (Physics Professor at Harvard U.) <a href="https://lukin.physics.harvard.edu/people" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Mikhail_Lukin" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+    - Lecturer: Mikhail Lukin (Physics Professor at Harvard) <a href="https://lukin.physics.harvard.edu/people" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Mikhail_Lukin" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 - Measuring Non-local Order with Error-Corrected Quantum Gas Microscopes <a href="https://doi.org/10.1103/PhysRevX.14.011003" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 - Exhibitor's Forum
     - IonQ, SK Telecom, Pasqal, MegazoneCloud, Qblox, Norma, QuEra Computing, and AWS.
@@ -362,7 +372,7 @@ header:
 
 - The Race is Long Anyway
 
-### Kyungil Kim (Psychology Professor at Ajou U., Writer) <a href="https://sites.google.com/ajou.ac.kr/tetross/home" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+### Kyungil Kim (Psychology Professor at Ajou, Writer) <a href="https://sites.google.com/ajou.ac.kr/tetross/home" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 *Yonsei University Library*
 <br>26 Nov. 2024 / Yonsei-Samsung Library Y-Valley
@@ -400,7 +410,7 @@ header:
 - Quantum Talk Concert: The Music Created by Waves and Quantum Mechanics
 - Panel: Edward J. Lee of Peppertones <a href="http://peppertones.net" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Peppertones" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
 
-### Hyunjoon Yoo (Architectural Design Professor at Hongik U., Writer) <a href="https://hyunjoonyoo.com/hyunjoon_yoo.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://www.youtube.com/@Sherlock_HJ" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
+### Hyunjoon Yoo (Architectural Design Professor at Hongik, Writer) <a href="https://hyunjoonyoo.com/hyunjoon_yoo.html" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://www.youtube.com/@Sherlock_HJ" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 
 *Center for Arts & Humanities at Yonsei University*
 <br>05 Jun. 2024 / Yonsei University Widang Hall B09
@@ -421,7 +431,7 @@ header:
 
 - AI & Future Technology Seen from Silicon Valley - AI Leadership -
 
-### Sang Wook Kim (Physics Professor at Kyung Hee U., Writer) <a href="https://khu.elsevierpure.com/en/persons/sang-wook-kim" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+### Sang Wook Kim (Physics Professor at Kyung Hee, Writer) <a href="https://khu.elsevierpure.com/en/persons/sang-wook-kim" target="_blank"><i class="fa fa-house" title="Website"></i></a>
 
 *Yonsei University Library*
 <br>07 Sep. 2023 / Yonsei-Samsung Library Y-Valley
