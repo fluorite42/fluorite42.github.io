@@ -15,7 +15,9 @@ header:
 
 ## Conference Proceedings
 
-### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
+
+<a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408534</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -51,7 +53,11 @@ Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1
 
 
 
-### Toward Scalable Gate-Level Parallelism on Trapped-Ion Processors with Racetrack Electrodes <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### Toward Scalable Gate-Level Parallelism on Trapped-Ion Processors with Racetrack Electrodes
+
+<a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408608</code></a>
+<br>
+<a href="https://arxiv.org/abs/2601.08930" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>arXiv: 2601.08930</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -88,7 +94,9 @@ Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</su
 
 
 
-### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization <a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization
+
+<a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1145/3695053.3731020</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -124,7 +132,11 @@ Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</su
 
 
 
-### Qubit Movement-Optimized Program Generation on Zoned Neutral Atom Processors <a href="https://doi.org/10.1145/3696443.3708937" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### Qubit Movement-Optimized Program Generation on Zoned Neutral Atom Processors
+
+<a href="https://doi.org/10.1145/3696443.3708937" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1145/3696443.3708937</code></a>
+<br>
+<a href="https://arxiv.org/abs/2503.02272" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>arXiv: 2503.02272</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -157,7 +169,9 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 
 
-### Recompiling QAOA Circuits on Various Rotational Directions <a href="https://doi.org/10.1145/3656019.3676899" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### Recompiling QAOA Circuits on Various Rotational Directions
+
+<a href="https://doi.org/10.1145/3656019.3676899" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1145/3656019.3676899</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -197,7 +211,11 @@ Enhyeok Jang<sup>1</sup>, Dongho Ha<sup>2</sup>, Seungwoo Choi<sup>1</sup>, Youn
 
 ## Journal Articles
 
-### Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms
+
+<a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1103/vwhk-22b8</code></a>
+<br>
+<a href="https://arxiv.org/abs/2412.17485" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>arXiv: 2412.17485</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -384,7 +402,9 @@ Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 
 
-### How Basis Choice Shapes Performance in Quantum Optimal Control Framework <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332380" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### How Basis Choice Shapes Performance in Quantum Optimal Control Framework
+
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12332380" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DBpia: NODE12332380</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -419,7 +439,9 @@ Changheon Lee<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
 
 ## Domestic Magazine Articles
 
-### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQAs) <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12431794" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+### Research Trends and Prospects of Hybrid Computing-Based Variational Quantum Algorithms (VQAs)
+
+<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12431794" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DBpia: NODE12431794</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -448,109 +470,4 @@ Youngmin Kim<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1<
   First, we introduce the Variable Quantum Eigenvalue Solution (VQE) that calculates the ground state energy of molecules and the Quantum Approximate Optimization Algorithm (QAOA), which solves the optimization problem in the form of Quadratic Unconstructed Binary Optimization (QUBO), and discuss issues such as increasing circuit depth that can appear in real hardware execution, loss of parameter gradient due to barren plateau phenomenon, overhead due to SWAP gate required for qubit rearrangement, and measurement noise. 
   Next, as the latest research examples to address this, we introduce efficient ansatz design that reduces the number of operations required, circuit rearrangement and transformation tailored to hardware connection structure and error characteristics, how to speed up parameter learning by reducing unnecessary gates inside the circuit, fast convergence using initial parameter setting and transfer learning, and distributed execution techniques that utilize multiple quantum processing units (QPUs) in parallel. 
   Through these examples, this paper confirms that integrated optimization across algorithms, compilers, and all layers of hardware is essential for the practicalization of VQA.
-</div>
-
-
-
-## Preprints
-
-### Plutarch: Toward Scalable Operational Parallelism on Racetrack-Shaped Trapped-Ion Processors <a href="https://doi.org/10.48550/arXiv.2601.08930" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>arXiv preprint</i>
-    <br>13 Jan. 2026
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_arxiv.png" alt="arXiv" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</sup>, Jaewon Kwon<sup>1</sup>, Yipeng Huang<sup>2</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Rutgers University, New Jersey, USA
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  A recent advancement in quantum computing shows a quantum advantage of certified randomness on the racetrack processor. 
-  This work investigates the execution efficiency of this architecture for general-purpose programs. 
-  We first explore the impact of increasing zones on runtime efficiency. 
-  Counterintuitively, our evaluations using variational programs reveal that expanding zones may degrade runtime performance under the existing scheduling policy. 
-  This degradation may be attributed to the increase in track length, which increases ion circulation overhead, offsetting the benefits of enhanced parallelism. 
-  To mitigate this, the proposed <i>Plutarch</i> exploits 3 strategies: (i) unitary decomposition and translation to maximize zone utilization, (ii) prioritizing the execution of nearby gates over ion circulation, and (iii) implementing shortcuts to provide the alternative path.
-</div>
-
-
-
-### Mantra: Rewriting Quantum Programs to Minimize Trap-Movements for Zoned Rydberg Atom Arrays <a href="https://doi.org/10.48550/arXiv.2503.02272" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>arXiv preprint</i>
-    <br>04 Mar. 2025
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_arxiv.png" alt="arXiv" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Yipeng Huang<sup>2</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Rutgers University, New Jersey, USA
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  A zoned neutral atom architecture achieves exceptional fidelity by segregating the execution spaces of 1- and 2-qubit gates, being a promising candidate for high-accuracy quantum systems. 
-  Unfortunately, naively applying programs designed for static qubit topologies to zoned architectures may result in most execution time being consumed by inter-zone travels of atoms. 
-  To address this, we introduce <i>Mantra</i> (Minimizing trAp movemeNts for aTom aRray Architectures), which rewrites quantum programs to reduce the interleaving of single- and two-qubit gates. 
-  <i>Mantra</i> incorporates three strategies: (i) a fountain-shaped controlled-Z (CZ) chain, (ii) ZZ-interaction protocol without a 1-qubit gate, and (iii) preemptive gate scheduling. 
-  <i>Mantra</i> reduces inter-zone movements by 68%, physical gate counts by 35%, and improves circuit fidelities by 17% compared to the standard executions.
-</div>
-
-
-
-### Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms <a href="https://doi.org/10.48550/arXiv.2412.17485" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>arXiv preprint</i>
-    <br>23 Dec. 2024
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_arxiv.png" alt="arXiv" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Youngmin Kim<sup>1</sup>, Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Changhun Lee<sup>1</sup>, Donghwi Kim<sup>2</sup>, Woomin Kyoung<sup>2</sup>, Kyujin Shin<sup>2</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea, <sup>2</sup>Hyundai Motor Company, Republic of Korea
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  Variational quantum algorithms (VQAs) have attracted remarkable interest over the past few years because of their potential computational advantages on near-term quantum devices. 
-  They leverage a hybrid approach that integrates classical and quantum computing resources to solve high dimensional problems that are challenging for classical approaches alone. 
-  In the training process ofvariational circuits, constructing an accurate probability distribution for each epoch is not always necessary, creating opportunities to reduce computational costs through shot reduction. 
-  However, existing shot-allocation methods that capitalize on this potential often lack adaptive feedback or aretied to specific classical optimizers, which limits their applicability to common VQAs and broader optimization techniques. 
-  Our observations indicate that the information entropy of a quantum circuit's output distribution exhibits an approximately exponential relationship with the numberof shots needed to achieve a target Hellinger distance. 
-  In this work, we propose a distribution-adaptive dynamic shot (DDS) framework that efficiently adjusts the number of shots per iterationin VQAs using the entropy distribution from the prior training epoch. 
-  Our results demonstrate that the DDS framework sustains inference accuracy while achieving a ~50% reduction in average shotcount compared to fixed-shot training, and ~60% higher accuracy than recently proposed tiered shot allocation methods. 
-  Furthermore, in noisy simulations that reflect the error rates of actual IBM quantum systems, DDS achieves approximately a ~30% reduction in the total number of shots compared to the fixed-shot method with minimal degradation in accuracy, and offers about ~70% higher computational accuracy than tiered shot allocation methods.
 </div>
