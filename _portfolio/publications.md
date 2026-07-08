@@ -15,6 +15,42 @@ header:
 
 ## Conference Proceedings
 
+### DARTH: Lookahead-Driven Compilation Exploiting Transient Qubits for Distributed Quantum Computing
+
+<!-- <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408534</code></a> -->
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>MICRO '26: Proceedings of the 59th IEEE/ACM International Symposium on Microarchitecture</i>
+    <br>Nov. 2026 / Athens, Greece
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_micro.png" alt="MICRO 2026" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Distributed quantum computing (DQC) is a promising path toward scaling quantum computation beyond a single device. 
+  Existing DQC compilers based on future-aware mapping improve communication locality through qubit reassignment, but still provide limited support for burst-aware telegate optimization enabled by gate commutation. 
+  The main obstacle is that future-aware mapping remains centered on terminal placement, limiting sequential lookahead while amplifying relocation overhead under constrained node capacity. 
+  We propose Dynamic mApping with Robust lookahead and Transient-resource Handling (DARTH), a dynamic qubit-remapping framework that enables more aggressive lookahead-driven optimization while mitigating its overhead through opportunistic exploitation of underutilized resources. 
+  DARTH integrates three key mechanisms: (i) burst-exposing time-slice reconstruction, (ii) fine-grained protocol-placement co-decision between teledata and telegate, and (iii) communication qubit buffering to alleviate overhead under limited data qubit capacity. 
+  Compared with the state-of-the-art future-aware and block-centric baselines, DARTH reduces non-local communication by an average of 77.5% and 57.1%, respectively, across various benchmarks.
+</div>
+
+
+
 ### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
 
 <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408534</code></a>
