@@ -3,6 +3,10 @@ layout: home
 author_profile: true
 news: 
   updates: 
+    - date: "Jul. 2026"
+      title: "Paper Accepted"
+      excerpt: "A paper is accepted at MICRO 2026!"
+      link: /portfolio/publications/
     - date: "Jan. 2026"
       title: "Won an Award"
       excerpt: "My paper won an academic paper award!"
