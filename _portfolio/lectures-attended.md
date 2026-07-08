@@ -365,6 +365,14 @@ header:
 
 - Meeting with Yonsei University Students
 
+### Tim Berners-Lee (Computer Scientist, Inventor of the World Wide Web) <a href="https://www.w3.org/People/Berners-Lee/" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
+*Sydney Opera House,<br>University of Sydney*
+<br>30 Jan. 2026 / Sydney Opera House Concert Hall
+
+- This is For Everyone <a href="https://thisisforeveryone.timbl.com" target="_blank"><i class="fa fa-house" title="Website"></i></a> <a href="https://en.wikipedia.org/wiki/This_Is_for_Everyone" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+- Host: Mark Scott (Vice-Chancellor and President of USYD) <a href="https://en.wikipedia.org/wiki/Mark_Scott_(businessman)" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
 ### Yeong-seok Na (Television Producer and Director) <a href="https://en.wikipedia.org/wiki/Na_Yeong-seok" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a> <a href="https://www.youtube.com/@15ya_egg" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 
 *2025 Yon-Ko Games &lt;Our YONdays&gt; Academic Festival*
