@@ -32,6 +32,10 @@ news:
       excerpt: "My first paper as a lead author is accepted at ISCA 2025!"
       link: /portfolio/publications/
   scheduled: 
+    - date: "Nov. 2026"
+      title: "Paper Presentation"
+      excerpt: "A paper will be presented at MICRO 2026!"
+      link: /portfolio/publications/
     - date: "Jul. 2061"
       title: "1P/Halley Observation"
       excerpt: "Halley's Comet reaches its perihelion!"
@@ -82,7 +86,7 @@ header:
   </div>
 </div>
 
-- Contributed to the development of the frameworks spanning quantum compilation, optimal control, and dynamic shot allocation: *Plutarch* <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *d'ArQ* <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, and *DDS* <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>.
+- Contributed to the development of the frameworks spanning quantum compilation, optimal control, and dynamic shot allocation: *DDS* <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *Plutarch* <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *d'ArQ* <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, and DARTH.
 - Participated in a research project focused on developing a quantum optimal control framework.
 - Served as a teaching assistant for the courses *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 

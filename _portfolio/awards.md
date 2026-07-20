@@ -111,4 +111,4 @@ header:
 <br>Jun. 2026
 
 - Awarded Paper:
-  - S. Pyun, C. Lee, **H. Kim**, E. Jang, Y. Kim, and W. W. Ro. "Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing," *Proceedings of Summer Annual Conference of IEIE, 2026*, Jeju, Korea, 2026.
+  - S. Pyun, C. Lee, **H. Kim**, E. Jang, Y. Kim, and W. W. Ro. "Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing," *Proceedings of Summer Annual Conference of IEIE*, Jeju, Korea, 2026.
