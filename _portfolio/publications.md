@@ -366,6 +366,39 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 ## Non-Archival Conference Presentations
 
+### Profiling GPU-SSD I/O Behavior for Large Language Model Inference
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>AI4Sci Korea '26: International Conference on AI for Science 2026</i>
+    <br>Sep. 2026 / Seoul, Korea
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ai4sci.jpg" alt="AI4Sci Korea" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Junwoo You<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Minchan Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Large language model inference is increasingly constrained not by computation alone but by the movement of model weights and key value caches across a widening memory hierarchy. SSD offloading expands effective capacity, yet its performance cost is often attributed vaguely to slow storage or insufficient bandwidth. This work reframes the problem as an end to end mismatch between application level data semantics and device level request behavior. We use a real GPU CPU SSD inference platform that independently controls weight and key value cache placement, and integrate a nonintrusive profiler that correlates runtime execution with Linux block layer events, queue depth, bandwidth, latency, and logical block address traces. Experiments use OPT 1.3B and OPT 6.7B while sweeping generation length, batch size, and five offloading configurations.
+
+  The measurements expose three coupled phenomena. First, apparently sequential tensor accesses undergo a locality inversion before reaching storage. Individual streams retain sequential order, but temporal interleaving across concurrent requests reduces the global sequential ratio to approximately 3.5 percent, creating short runs, larger seek distances, and random like device behavior. Second, data volume scales more aggressively than model size alone suggests. For OPT 1.3B, increasing generation length from 32 to 128 and 512 tokens raises total SSD traffic by 4.87 times and 20.08 times, respectively, while increasing batch size from 4 to 16 adds 1.57 times more traffic because weights are shared but key value caches remain request specific. OPT 6.7B produces up to 10.4 times more SSD traffic than OPT 1.3B. Third, the dominant bottleneck is burstiness rather than sustained bandwidth exhaustion. Average request and completion bandwidth remain close at roughly 3 to 4 GB per second, below the measured PCIe limit of about 7.8 GB per second, indicating limited average pressure inside the SSD. However, requested bandwidth briefly reaches 11.4 GB per second, producing queue accumulation, elevated tail latency, and throughput fluctuation. Relative to no offloading, SSD based execution increases latency by 20 to 81.6 times and reduces token throughput.
+
+  These results show that provisioning a faster SSD or a wider link alone cannot eliminate offloading overhead. The system must preserve locality while regulating when and how data enters storage. High reuse data should remain GPU resident, key value cache transfers should be coalesced and scheduled with stream awareness, and burst demand should be shaped before reaching PCIe and NVMe queues. More broadly, the findings motivate semantic, application aware storage interfaces that distinguish weights from evolving context state and coordinate placement, prefetching, and device scheduling. Such cross layer cooperation can convert SSDs from passive overflow capacity into predictable memory extensions for scalable long context inference. It also provides a reproducible methodology for separating capacity benefits from locality loss, queueing effects, and transient interconnect saturation.
+</div>
+
+
+
 ### TENET: A Pincer Movement with Backward Programs for Bypassing Relaxed Qubit Readouts
 
 <div style="display: flex; align-items: center;">
