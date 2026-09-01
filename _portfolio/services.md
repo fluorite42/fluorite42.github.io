@@ -20,9 +20,10 @@ header:
 ### Reviewer
 
 *The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO '26) Artifact Evaluation*
-<br>Jul. 2026 - Aug. 2026
+<br>Aug. 2026
 
-- TBA
+- Reviewd an artifact of a paper on the topic of AI accelerator.
+- Evaluated the artifact's public availability, functionality, and reproducibility of the results from the paper.
 
 ### Sub-Reviewer
 

@@ -693,7 +693,6 @@ header:
           </svg>
         </div>
       </div>
-
       <li>
         G20 <a href="https://en.wikipedia.org/wiki/G20" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
       </li>

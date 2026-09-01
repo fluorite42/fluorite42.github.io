@@ -13,6 +13,45 @@ header:
   overlay_filter: 0.5
 ---
 
+## Under Review
+
+### SpiderLS: Leveraging Full ZX Reduction for Lattice Surgery Compilation
+
+<a href="https://arxiv.org/abs/2608.30228" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>arXiv: 2608.30228</code></a>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>arXiv preprint</i>
+    <br>31 Aug. 2026
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_arxiv.png" alt="arXiv" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+<b>Hyungseok Kim</b><sup>1</sup>, Changheon Lee<sup>1</sup>, Seungjik Kim<sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, Seungwoo Choi<sup>1</sup>, Hanbit Lee<sup>1</sup>, Sungho Pyun<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Lattice surgery compilation plays a central role in translating fault-tolerant quantum programs into efficient surface code realizations, where both spatial and temporal resources directly determine the cost of execution. 
+  Recent work has demonstrated the benefits of using ZX-diagrams as an intermediate representation for lattice surgery compilation, enabling semantics-preserving transformations that reduce spacetime cost. 
+  However, existing compilation restricts ZX reduction to preserve diagram structures that can be directly embedded as lattice surgery junctions. 
+  We present SpiderLS, which extends prior approach by leveraging full ZX reduction. 
+  To translate the resulting diagram into executable lattice surgery operations, SpiderLS applies a sequence of compiler passes that derives an execution order, generates target code by grouping compatible interactions into multi-target operations, and lowers the target code to Pauli-product measurements. 
+  The resulting explicit patch and Pauli-boundary requirements guide logical scheduling and structure-aware spacetime routing. 
+  Across representative algorithmic and random workloads, SpiderLS achieves average reductions of 49.2% in spacetime volume and 99.8% in compilation time compared with the prior ZX-based compiler.
+</div>
+
+
+
 ## Conference Proceedings
 
 ### DARTH: Lookahead-Driven Compilation Exploiting Transient Qubits for Distributed Quantum Computing
