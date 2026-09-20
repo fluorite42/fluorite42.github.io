@@ -58,9 +58,14 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="8">Asia</td>
-      <td rowspan="4">East</td>
-      <td rowspan="2">Greater<br>China</td>
+      <td rowspan="9">Asia</td>
+      <td rowspan="5">East</td>
+      <td rowspan="3">Greater<br>China</td>
+      <td>Mainland China</td>
+      <td class="city">:cn: Shanghai</td>
+      <td>Sep. 2026</td>
+    </tr>
+    <tr>
       <td>SARs of China</td>
       <td class="city">:hong_kong: Hong Kong<br>:macau: Macau</td>
       <td>May 2025</td>
