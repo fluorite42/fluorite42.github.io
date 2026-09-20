@@ -53,6 +53,14 @@ header:
   - Session 6B: Security and Privacy - Memory
   - Session 7B: Tools and Simulators
 
+### Laboratory Website Administrator
+
+*Embedded Systems and Computer Architecture Lab (eSCaL)*
+<br>Mar. 2025 - Present
+
+- Maintained and optimized the official laboratory website using HTML and CSS, ensuring consistent page layouts and seamless content updates.
+- Structured and styled digital archives for recent publications and research projects by directly managing the website's source code.
+
 ### Sub-Reviewer
 
 *The 52nd International Symposium on Computer Architecture (ISCA '25)*
