@@ -151,16 +151,10 @@ header:
     </a>
   </li>
   <li>
-    <strong>Advisor</strong>: 
-    <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank">
-      Prof. Won Woo Ro
-    </a>
+    <strong>Advisor</strong>: Prof. Won Woo Ro <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
   </li>
   <li>
-    <strong>Teaching Assistant</strong>: 
-    <a href="https://www.notion.so/Enhyeok-Jang-9f594ec32719477fa5ab8cf0f517a642?pvs=4" target="_blank">
-      Enhyeok Jang
-    </a>
+    <strong>Teaching Assistant</strong>: Enhyeok Jang <a href="https://www.notion.so/Enhyeok-Jang-9f594ec32719477fa5ab8cf0f517a642?pvs=4" target="_blank"><i class="fa fa-house" title="Website"></i></a>
   </li>
 </ul>
 
@@ -275,7 +269,56 @@ header:
 
 <div class="description" style="display: none;">
 
-<h6>TBA</h6>
+<h6>Course Objective</h6>
+<ul>
+  <li>Equip students with the knowledge and skills necessary to actively contribute to the forefront of quantum machine learning research.</li>
+  <li>Ensure that students remain consistently updated with the most recent advancements in quantum machine learning, ensuring their proficiency in this rapidly evolving field.</li>
+</ul>
+
+<h6>Textbook</h6>
+<ol>
+  <li>
+    An Introduction to Quantum Computing (Oxford University Press) by Phillip Kaye, Raymond Laflamme, and Michele Mosca
+    <a href="https://a.co/d/aYs6ZFv" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+  <li>
+    Quantum Computation and Quantum Information (Cambridge University Press) by Michael A. Nielsen and Isaac L. Chuang
+    <a href="https://a.co/d/80877IQ" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+  <li>
+    Machine Learning with Quantum Computers (Springer) by Maria Schuld and Francesco Petruccione
+    <a href="https://a.co/d/8PyTwqB" target="_blank">
+      <i class="fab fa-amazon" title="Amazon"></i>
+    </a>
+  </li>
+</ol>
+
+<h6>Project 1</h6>
+<ul>
+  <li>Choose one presentation topic and read the papers assigned to that topic. Based on those papers, deliver a coherent presentation that explains the main ideas, methods, and significance of the works under the selected theme.</li>
+  <li><strong>Title</strong>: Generalization in QML: Understanding Generalization Bounds</li>
+  <li><strong>References</strong>
+    <ol>
+      <li>Gil-Fuster, E., Eisert, J., & Bravo-Prieto, C. (2024). Understanding quantum machine learning also requires rethinking generalization. <em>Nature Communications, 15</em>(1), 2277. <a href="https://doi.org/10.1038/s41467-024-45882-z" target="_blank"><i class="fa fa-book" title="Reference"></i></a></li>
+      <li>Hur, T., & Park, D. K. (2024). Understanding generalization in quantum machine learning with margins. <em>arXiv preprint arXiv:2411.06919</em>. <a href="https://doi.org/10.48550/arXiv.2411.06919" target="_blank"><i class="fa fa-book" title="Reference"></i></a></li>
+    </ol>
+  </li>
+</ul>
+
+<h6>Project 2 (in groups of 2)</h6>
+<ul>
+  <li>Propose an original research idea in AI for quantum computing. Specifically, you will identify an important challenge in quantum computing, justify its significance, review relevant prior work, and design a plausible machine learning–based approach to address it.</li>
+  <li><strong>Title</strong>: Integrating Device Calibration Data into GNN QEC Decoders</li>
+  <li><strong>References</strong> 
+    <ol>
+      <li>Lange, M., Havström, P., Srivastava, B., Bengtsson, I., Bergentall, V., Hammar, K., ... & Granath, M. (2025). Data-driven decoding of quantum error correcting codes using graph neural networks. <em>Physical Review Research, 7</em>(2), 023181. <a href="https://doi.org/10.1103/PhysRevResearch.7.023181" target="_blank"><i class="fa fa-book" title="Reference"></i></a></li>
+    </ol>
+  </li>
+</ul>
 
 </div>
 
@@ -442,10 +485,7 @@ header:
     Design garbage collection and wear-leveling algorithm of block associative sector translation (BAST) flash translation layer (FTL) for an SSD.
   </li>
   <li>
-    Team Member: 
-    <a href="https://magic-lycra-8cf.notion.site/Portfolio-3e8cdf51b9da45cbbf6f071994031aa9" target="_blank">
-        James Jihyun Moon
-    </a>
+    Team Member: James Jihyun Moon <a href="https://magic-lycra-8cf.notion.site/Portfolio-3e8cdf51b9da45cbbf6f071994031aa9" target="_blank"><i class="fa fa-house" title="Website"></i></a>
   </li>
 </ul>
 
@@ -748,7 +788,21 @@ header:
 
 <div class="description" style="display: none;">
 
-<h6>TBA</h6>
+<h6>Course Objective</h6>
+<ul>
+  <li>Learn advanced programming techniques.</li>
+  <li>Understand software-hardware interactions.</li>
+  <li>Parallel programming through project-based learning.</li>
+</ul>
+
+<h6>Projects</h6>
+<ul>
+  <li><strong>Assignment 1</strong>: Implement a C++ class based on the examples in the lecture notes.</li>
+  <li><strong>Assignment 2</strong>: Implement a vector class using C++ template.</li>
+  <li><strong>Assignment 3</strong>: Implement a multi-threaded program in C++.</li>
+  <li><strong>Assignment 4</strong>: Implement a message passing interface (MPI) program in C++.</li>
+  <li><strong>Assignment 5</strong>: Implement a GPU program using NVIDIA CUDA.</li>
+</ul>
 
 </div>
 
