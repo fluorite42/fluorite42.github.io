@@ -17,7 +17,7 @@ header:
 
 ### Statistics
 
-- **Visited:** 31 countries or 48 cities.
+- **Visited:** 31 countries or 49 cities.
 - **Poles**
   - Northernmost: Berlin Wall Memorial, Berlin, :de: (52°32′6″N 13°23′23″E) <a href="https://en.wikipedia.org/wiki/Gedenkst%C3%A4tte_Berliner_Mauer" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
   - Southernmost: Stirling Point, Bluff, :new_zealand: (46°36′48″S 168°21′27″E) <a href="https://en.wikipedia.org/wiki/Stirling_Point" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
