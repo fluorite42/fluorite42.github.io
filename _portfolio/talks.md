@@ -15,6 +15,15 @@ header:
 
 ## Invited Talks
 
+### SpiderLS: Leveraging Full ZX Reduction for Lattice Surgery Compilation
+
+*TQEC Design Automation*
+<br>16 Sep. 2026 / Online
+
+- Topological Quantum Error Correction (TQEC) Group Meeting <a href="https://drive.google.com/file/d/1B9_HnSuQlyxDDgqxcHYECYR14nnHTXog/view?usp=sharing" target="_blank"><i class="fab fa-google-drive" title="Google Drive"></i></a>
+
+
+
 ### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization
 
 *Quantum Information Science Club Association (QISCA) Journal Club*
