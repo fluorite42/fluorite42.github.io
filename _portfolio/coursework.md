@@ -311,7 +311,7 @@ header:
 
 <h6>Project 2 (in groups of 2)</h6>
 <ul>
-  <li>Propose an original research idea in AI for quantum computing. Specifically, you will identify an important challenge in quantum computing, justify its significance, review relevant prior work, and design a plausible machine learning–based approach to address it.</li>
+  <li>Propose an original research idea in AI for quantum computing. Specifically, identify an important challenge in quantum computing, justify its significance, review relevant prior work, and design a plausible machine learning–based approach to address it.</li>
   <li><strong>Title</strong>: Integrating Device Calibration Data into GNN QEC Decoders</li>
   <li><strong>References</strong> 
     <ol>
