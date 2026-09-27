@@ -46,7 +46,7 @@ Won Woo Ro<sup>1</sup>*, Enhyeok Jang<sup>1</sup>, Seungwoo Choi<sup>1</sup>, Ch
         Hyundai NGV,<br>
         Embedded Systems and Computer Architecture Lab (eSCaL)
     </i>
-    <br>01 Jul. 2024 - 31 Oct. 2024
+    <br>01 Jun. 2024 - 31 Oct. 2024
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_hyundai.png" alt="Hyundai Motor Group" width="100" height="100"/>
@@ -71,7 +71,7 @@ Jinyoung Lee<sup>1</sup>*, Won Woo Ro<sup>2</sup>**, Enhyeok Jang<sup>2</sup>***
         Samsung Electronics DS Division,<br>
         Embedded Systems and Computer Architecture Lab (eSCaL)
     </i>
-    <br>22 Oct. 2025 - Present
+    <br>01 Oct. 2025 - 30 Sep. 2026
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_samsung.png" alt="Samsung" width="100" height="100"/>

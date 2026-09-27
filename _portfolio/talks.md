@@ -22,6 +22,14 @@ header:
 
 - Topological Quantum Error Correction (TQEC) Group Meeting <a href="https://drive.google.com/file/d/1B9_HnSuQlyxDDgqxcHYECYR14nnHTXog/view?usp=sharing" target="_blank"><i class="fab fa-google-drive" title="Google Drive"></i></a>
 
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Attachment
+  </a>
+</div>
+<div class="attachment" style="display: none;">
+  <img src="/assets/images/talks_tqec_gm.png" alt="QISCA Journal Club Poster"/>
+</div>
 
 
 ### QR-Map: A Map-Based Approach to Quantum Circuit Abstraction for Qubit Reuse Optimization

@@ -29,7 +29,7 @@ header:
 
 - Received a monthly stipend of KRW 1,000,000 (~ USD 700) for 6 months.
 
-### Graduate Student Research Assistant (GSRA)
+### Graduate Student Research Assistant (GSRA) Scholarship (New Student Excellence)
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">

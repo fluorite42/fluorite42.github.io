@@ -56,7 +56,7 @@ header:
 ### Laboratory Website Administrator
 
 *Embedded Systems and Computer Architecture Lab (eSCaL)*
-<br>Mar. 2025 - Present
+<br>Mar. 2025 - Feb. 2027
 
 - Maintained and optimized the official laboratory website using HTML and CSS, ensuring consistent page layouts and seamless content updates.
 - Structured and styled digital archives for recent publications and research projects by directly managing the website's source code.

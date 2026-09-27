@@ -3,6 +3,10 @@ layout: home
 author_profile: true
 news: 
   updates: 
+    - date: "Aug. 2026"
+      title: "Paper Released"
+      excerpt: "My second paper as a lead author is released at arXiv!"
+      link: /portfolio/publications/
     - date: "Jul. 2026"
       title: "Paper Accepted"
       excerpt: "A paper is accepted at MICRO 2026!"
@@ -86,7 +90,12 @@ header:
   </div>
 </div>
 
-- Contributed to the development of the frameworks spanning quantum compilation, optimal control, and dynamic shot allocation: *DDS* <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *Plutarch* <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *d'ArQ* <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, *DARTH*, and *SpiderLS* <a href="https://arxiv.org/abs/2608.30228" target="_blank"><i class="fa fa-book" title="Reference"></i></a>.
+- Contributed to the development of the frameworks spanning quantum compilation, error correction, optimal control, dynamic shot allocation, and distributed quantum computing: 
+*SpiderLS* <a href="https://arxiv.org/abs/2608.30228" target="_blank"><i class="fa fa-book" title="Reference"></i></a>,
+*Plutarch* <a href="https://doi.org/10.1109/HPCA68181.2026.11408608" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, 
+*d'ArQ* <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, 
+*DDS* <a href="https://doi.org/10.1103/vwhk-22b8" target="_blank"><i class="fa fa-book" title="Reference"></i></a>, and
+*DARTH*.
 - Participated in a research project focused on developing a quantum optimal control framework.
 - Served as a teaching assistant for the courses *Electrical and Electronic Engineering Capstone Design* and *Embedded System Lab*.
 
@@ -122,7 +131,7 @@ header:
 </div>
 
 - Developed a quantum compilation framework which utilizes the qubit reuse technique to improve resource efficiency and fidelity in quantum circuits.
-- Wrote a research paper on the project and presented it at the *2025 International Symposium on Computer Architecture (ISCA)*. <a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
+- Wrote a research paper, *QR-Map*, on the project and presented it at the *2025 International Symposium on Computer Architecture (ISCA)*. <a href="https://doi.org/10.1145/3695053.3731020" target="_blank"><i class="fa fa-book" title="Reference"></i></a>
 
 
 
@@ -144,7 +153,7 @@ header:
 </div>
 
 - Conducting research on quantum computer architecture and quantum algorithms under the advisement of Prof. Won Woo Ro. <a href="http://escal.yonsei.ac.kr/professor.html" target="_blank"><i class="fa fa-house" title="Website"></i></a>
-- Participating in the educational track of Automotive System IC Fusion Human Resource Research Center (ASRC). <a href="http://asrc.yonsei.ac.kr/index.php" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+- Participating in the educational tracks of Automotive System IC Fusion Human Resource Research Center (ASRC) <a href="http://asrc.yonsei.ac.kr/index.php" target="_blank"><i class="fa fa-house" title="Website"></i></a> and Korea Collaborative & High-tech Initiative for Prospective Semiconductor research (K-CHIPS) <a href="https://kchips.kr/main/main.do" target="_blank"><i class="fa fa-house" title="Website"></i></a>.
 
 
 

@@ -15,6 +15,15 @@ header:
 
 ## Academic Topics
 
+
+### Invited Seminar
+
+*Yonsei University School of Electrical and Electronic Engineering*
+<br>21 Aug. 2026 / Yonsei University Engineering Hall D504
+
+- Multi-Domain Accelerators: A Leap Beyond Domain-Specific Design
+    - Lecturer: Hung-Wei Tseng (Electrical and Computer Engineering Professor at UC Riverside) <a href="https://intra.engr.ucr.edu/~htseng/" target="_blank"><i class="fa fa-house" title="Website"></i></a>
+
 ### Quantum Korea 2026
 
 *Ministry of Science and ICT*
