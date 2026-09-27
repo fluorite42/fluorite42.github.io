@@ -17,8 +17,8 @@
     </h3>
 
     {% if author.ipa %}
-      <span class="author__ipa" itemprop="additionalName" style="color: grey; font-size: x-small;">
-        {{ author.ipa }}
+      <span class="author__ipa" itemprop="additionalName" style="font-size: small;">
+        {{ author.ipa | markdownify }}
       </span>
     {% endif %}
 
