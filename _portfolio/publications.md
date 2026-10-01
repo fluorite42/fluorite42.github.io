@@ -410,7 +410,7 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>AI4Sci Korea '26: International Conference on AI for Science 2026</i>
-    <br>Sep. 2026 / Seoul, Korea
+    <br>30 Sep. 2026 / Seoul, Korea
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ai4sci.jpg" alt="AI4Sci Korea" width="100" height="100"/>
