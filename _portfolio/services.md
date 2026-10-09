@@ -19,6 +19,13 @@ header:
 
 ### Reviewer
 
+*Future Generation Computer Systems (FGCS)*
+<br>Oct. 2026
+
+ - SCIE Q1 Journal (JCR 2025)
+
+### Reviewer
+
 *The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO '26) Artifact Evaluation*
 <br>Aug. 2026
 
