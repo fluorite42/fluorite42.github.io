@@ -21,6 +21,7 @@ header:
 <br>16 Sep. 2026 / Online
 
 - Topological Quantum Error Correction (TQEC) Group Meeting <a href="https://drive.google.com/file/d/1B9_HnSuQlyxDDgqxcHYECYR14nnHTXog/view?usp=sharing" target="_blank"><i class="fab fa-google-drive" title="Google Drive"></i></a>
+- Invited by Dr. Austin G. Fowler (Founder of TQEC, Formerly Quantum Software Engineer at Google Quantum AI)
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
@@ -38,6 +39,7 @@ header:
 <br>22 Sep. 2025 / Online
 
 - Quantum Information Science Club Association (QISCA) Journal Club
+- Invited by SungBin Lee (Founder of QISCA, Undergraduate Student at Seoul National University)
 
 <div style="text-align: center;">
   <a class="btn btn--info" onclick="toggleContent(this)">
@@ -51,6 +53,14 @@ header:
 
 
 ## Contributed Talks
+
+### Demo 2: Transmon Emulation
+
+*SpaceQat: Emulating Multi-Levels of Quantum Dynamics via Single Program*
+<br><i>In conjunction with HPC Asia ’27</i>
+<br>Feb. 2027 / Yonsei University
+
+- Conference Tutorial
 
 ### Advanced LLM Systems: Reasoning Model
 

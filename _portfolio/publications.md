@@ -56,7 +56,7 @@ header:
 
 ### DARTH: Lookahead-Driven Compilation Exploiting Transient Qubits for Distributed Quantum Computing
 
-<!-- <a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408534</code></a> -->
+<a href="https://doi.org/10.1109/MICRO67795.2026.00208" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/MICRO67795.2026.00208</code></a>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
@@ -86,44 +86,6 @@ Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
   We propose Dynamic mApping with Robust lookahead and Transient-resource Handling (DARTH), a dynamic qubit-remapping framework that enables more aggressive lookahead-driven optimization while mitigating its overhead through opportunistic exploitation of underutilized resources. 
   DARTH integrates three key mechanisms: (i) burst-exposing time-slice reconstruction, (ii) fine-grained protocol-placement co-decision between teledata and telegate, and (iii) communication qubit buffering to alleviate overhead under limited data qubit capacity. 
   Compared with the state-of-the-art future-aware and block-centric baselines, DARTH reduces non-local communication by an average of 77.5% and 57.1%, respectively, across various benchmarks.
-</div>
-
-
-
-### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
-
-<a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408534</code></a>
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 80%; padding-right: 10px;">
-    <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
-    <br>04 Mar. 2026 / Sydney, NSW, Australia
-  </div>
-  <div style="width: 20%;">
-    <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
-  </div>
-</div>
-
-<div style="text-align: center; font-size: 0.85em;">
-Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
-<br><sup>1</sup>Yonsei University, Republic of Korea
-<br><br>
-</div>
-
-<div style="text-align: center;">
-  <a class="btn btn--info" onclick="toggleContent(this)">
-      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
-  </a>
-</div>
-<div class="abstract" style="display: none;">
-  Quantum Optimal Control (QOC) frameworks are powerful tools for compiling quantum circuits into low-latency hardware control pulses, but recent studies suffer from two critical limitations: lengthy compilation times and potential logical inconsistencies from flawed gate grouping strategies. 
-  In this work, we introduce d'ArQ, a novel QOC framework that solves these challenges. 
-  (i) We identify and resolve the <i>causality problem</i>, a flaw in greedy partitioning that can produce invalid schedules, by introducing a DAG-based grouping algorithm with assigning mergeability to each group so that it guarantees logical correctness. 
-  (ii) To mitigate compilation times, we use a pre-computed library of pulses derived from random unitary matrices to provide a high-quality random initialization for pulse optimization. 
-  (iii) Diverging from prior work based on GRAPE, d'ArQ is built on the GOAT algorithm. 
-  We demonstrate that the choice of analytic basis is a critical hyperparameter and introduce a heuristic cost model to dynamically select the optimal basis for each synthesis task, improving pulse performance. 
-  When evaluated against the state-of-the-art baseline PAQOC on a realistic, inhomogeneous hardware model, d'ArQ demonstrates superior performance. 
-  Notably, d'ArQ reduces circuit latency up to 22.8% and compilation time up to 56.8%, establishing a more robust and physically realistic path for circuit compilation.
 </div>
 
 
@@ -165,6 +127,44 @@ Enhyeok Jang<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Yongju Lee<sup>1</su
   (i) unitary decomposition and translation to maximize zone utilization, 
   (ii) prioritizing the execution of nearby gates over ion circulation, and 
   (iii) implementing shortcuts to provide the alternative path.
+</div>
+
+
+
+### d'ArQ: A QOC Framework with Causality-Aware Grouping and Basis Selection
+
+<a href="https://doi.org/10.1109/HPCA68181.2026.11408534" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DOI: 10.1109/HPCA68181.2026.11408534</code></a>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>HPCA '26: 2026 IEEE International Symposium on High Performance Computer Architecture</i>
+    <br>04 Mar. 2026 / Sydney, NSW, Australia
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_hpca.png" alt="HPCA 2026" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</sup>, Seungwoo Choi<sup>1</sup>, Youngmin Kim<sup>1</sup>, and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle; width: 1.5em; height:1.5em;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Quantum Optimal Control (QOC) frameworks are powerful tools for compiling quantum circuits into low-latency hardware control pulses, but recent studies suffer from two critical limitations: lengthy compilation times and potential logical inconsistencies from flawed gate grouping strategies. 
+  In this work, we introduce d'ArQ, a novel QOC framework that solves these challenges. 
+  (i) We identify and resolve the <i>causality problem</i>, a flaw in greedy partitioning that can produce invalid schedules, by introducing a DAG-based grouping algorithm with assigning mergeability to each group so that it guarantees logical correctness. 
+  (ii) To mitigate compilation times, we use a pre-computed library of pulses derived from random unitary matrices to provide a high-quality random initialization for pulse optimization. 
+  (iii) Diverging from prior work based on GRAPE, d'ArQ is built on the GOAT algorithm. 
+  We demonstrate that the choice of analytic basis is a critical hyperparameter and introduce a heuristic cost model to dynamically select the optimal basis for each synthesis task, improving pulse performance. 
+  When evaluated against the state-of-the-art baseline PAQOC on a realistic, inhomogeneous hardware model, d'ArQ demonstrates superior performance. 
+  Notably, d'ArQ reduces circuit latency up to 22.8% and compilation time up to 56.8%, establishing a more robust and physically realistic path for circuit compilation.
 </div>
 
 
@@ -405,6 +405,35 @@ Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 
 ## Non-Archival Conference Presentations
 
+### Graph-Based Compilation for Lattice Surgery
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 80%; padding-right: 10px;">
+    <i>ICEIC '27: The 26th International Conference on Electronics, Information, and Communication</i>
+    <br>Jan. 2027 / Fukuoka, Japan
+  </div>
+  <div style="width: 20%;">
+    <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
+  </div>
+</div>
+
+<div style="text-align: center; font-size: 0.85em;">
+<b>Hyungseok Kim</b><sup>1</sup> and Won Woo Ro<sup>1</sup>
+<br><sup>1</sup>Yonsei University, Republic of Korea
+<br><br>
+</div>
+
+<div style="text-align: center;">
+  <a class="btn btn--info" onclick="toggleContent(this)">
+      <i class="toggle-icon" data-feather="chevron-right" style="vertical-align: middle;"></i>Abstract
+  </a>
+</div>
+<div class="abstract" style="display: none;">
+  Lattice surgery compilation must choose a patch layout, an execution order, and routes for joint measurements. SpiderLS reduces a ZX graph, recovers an execution order, and schedules Pauli product measurements with explicit patch boundary requirements. This measurement representation accommodates high-degree nodes exposed by full graph reduction and supports local routing. In the original benchmark comparison, SpiderLS reduced spacetime volume by 49.2% and compilation time by 99.8% on average relative to TopoLS.
+</div>
+
+
+
 ### Profiling GPU-SSD I/O Behavior for Large Language Model Inference
 
 <div style="display: flex; align-items: center;">
@@ -478,10 +507,12 @@ Changheon Lee<sup>1</sup>, Enhyeok Jang<sup>1</sup>, Youngmin Kim<sup>1</sup>, <
 
 ### Dynamic-Mapping Compilation Using Transient Qubits for Distributed Quantum Computing
 
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12992985" target="_blank"><i class="fa fa-book" title="Reference"></i> <code>DBpia: NODE12992985</code></a>
+
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 2026</i>
-    <br>25 Jun. 2026 / Jeju, Korea
+    <br>25 Jun. 2026 / Seogwipo, Korea
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>
@@ -517,7 +548,7 @@ Sungho Pyun<sup>1</sup>, Changheon Lee<sup>1</sup>, <b>Hyungseok Kim</b><sup>1</
 <div style="display: flex; align-items: center;">
   <div style="width: 80%; padding-right: 10px;">
     <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE), 2025</i>
-    <br>27 Jun. 2025 / Jeju, Korea
+    <br>27 Jun. 2025 / Seogwipo, Korea
   </div>
   <div style="width: 20%;">
     <img src="/assets/images/logo_ieie.jpg" alt="IEIE" width="100" height="100"/>

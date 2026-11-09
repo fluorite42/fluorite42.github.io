@@ -17,20 +17,28 @@ header:
 
 ## Professional Service
 
+### Organizer
+
+*SpaceQat: Emulating Multi-Levels of Quantum Dynamics via Single Program*
+<br><i>In conjunction with HPC Asia ’27</i>
+<br>Feb. 2027
+
+- Tutorial Co-Organizer
+
 ### Reviewer
 
 *Future Generation Computer Systems (FGCS)*
 <br>Oct. 2026
 
- - SCIE Q1 Journal (JCR 2025)
+- SCIE Q1 Journal (JCR 2025)
+- Reviewed a paper on the topic of quantum computing.
 
 ### Reviewer
 
 *The 59th IEEE/ACM International Symposium on Microarchitecture (MICRO '26) Artifact Evaluation*
 <br>Aug. 2026
 
-- Reviewd an artifact of a paper on the topic of AI accelerator.
-- Evaluated the artifact's public availability, functionality, and reproducibility of the results from the paper.
+- Reviewed an artifact of a paper on the topic of AI accelerator.
 
 ### Sub-Reviewer
 
@@ -38,8 +46,6 @@ header:
 <br>May 2026
 
 - Reviewed a paper on the topic of quantum computing.
-- Provided feedback on the paper's methodology and results.
-- Evaluated the paper's contribution to the field of computer architecture.
 
 ### Sub-Reviewer
 
@@ -47,8 +53,6 @@ header:
 <br>Jan. 2026
 
 - Reviewed a paper on the topic of quantum computing.
-- Provided feedback on the paper's methodology and results.
-- Evaluated the paper's contribution to the field of computer architecture.
 
 ### Student Volunteer
 
@@ -74,8 +78,6 @@ header:
 <br>Jan. 2025
 
 - Reviewed a paper on the topic of quantum computing.
-- Provided feedback on the paper's methodology and results.
-- Evaluated the paper's contribution to the field of computer architecture.
 
 
 
