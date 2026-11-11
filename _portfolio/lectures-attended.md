@@ -353,6 +353,13 @@ header:
 
 ## Other Topics
 
+### Hang-jun Jang (Filmmaker) <a href="https://en.wikipedia.org/wiki/Jang_Hang-jun" target="_blank"><i class="fab fa-wikipedia-w" title="Wikipedia"></i></a>
+
+*Yonsei University College of Computing*
+<br>11 Nov. 2026 / Yonsei-Samsung Library Y-Valley
+
+- Cinematic Decoding: How Imagination Becomes Film
+
 ### Hyang Ah Chi (VTuber, History Communicator) <a href="https://www.youtube.com/@향아치" target="_blank"><i class="fab fa-youtube" title="YouTube"></i></a>
 
 *Yonsei University Museum*
