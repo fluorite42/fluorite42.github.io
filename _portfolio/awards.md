@@ -30,7 +30,7 @@ header:
 *Yonsei University Office of Academic Affairs*
 <br>Nov. 2024
 
-- Designed Major: BSc in Quantum Information Engineering
+- Designed Major: B.S. in Quantum Information Engineering
 - Majors Combined: Electrical and Electronic Engineering, Physics, and Mathematics
 - Required Credits: 36 Credits (12 Essential, 24 Elective)
 - 2nd Prize with KRW 500,000 (~ USD 360)
